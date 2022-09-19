@@ -1,0 +1,1182 @@
+"ID","goal","enddate","startdate","coinNum","teamSize","country_region","categories","overallrating","ratingTeam","ratingProduct","platform","acceptingCurrencyNum","whitepaper","video","socialMedia","GitHub","teamLinkedIn","teamPhotos","CEOPhoto","bitcoin.price","continent_region","duration"
+1,"N",2018-04-15,2018-03-01,12750000,14,"Estonia","Charity,Education,Health,Smart Contract",2.6,2.4,2.4,"Ethereum","1",1,1,0,0,0.86,1,0,8446.783033,"Europe",45
+2,"N",2017-08-25,2017-07-25,0,13,"Singapore","Infrastructure",2.1,0,0,"unknown","1",1,1,0,1,0,1,0,3509.085312,"Asia",31
+3,"Y",2017-11-23,2017-11-18,2.22e+09,9,"Singapore","Platform,Business services",2.5,0,0,"Ethereum","unknown",1,0,3,0,0,1,0,8065.143229,"Asia",5
+4,"Y",2018-05-18,2018-04-22,4.5e+07,7,"Mexico","Internet,Infrastructure,Cryptocurrency,Business services,Big Data,Banking,Artificial Intelligence,Legal,Real estate,Smart Contract,Software",2.1,1,2,"Ethereum","2",1,0,0,0,0,1,1,9053.863336,"Americas",26
+5,"Y",2018-02-02,2018-02-01,8e+07,20,"Gibraltar","Platform,Infrastructure,Energy",4.3,4.4,4,"Ethereum","1",1,1,2,1,1,1,0,9000.64502,"Europe",1
+6,"N",2018-04-30,2018-03-12,1.2e+08,10,"South Africa","Platform,Cryptocurrency,Internet,Media,Retail",3.5,3.3,3.3,"Ethereum","1",1,1,3,1,0.9,1,1,8134.590176,"Africa",49
+7,"N",2018-04-23,2018-03-24,1e+07,4,"Switzerland","Smart Contract,Cryptocurrency",2.5,0,0,"Ethereum","unknown",1,1,0,1,1,1,1,7689.630954,"Europe",30
+8,"Y",2017-12-06,2017-11-06,5.1e+07,22,"UK","Banking,Platform,Software",3.5,4.2,3.6,"Ethereum","3",1,0,3,1,0.95,1,0,8702.96319,"Europe",30
+9,"Y",2017-10-08,2017-09-08,6e+06,7,"Russia","Infrastructure,Platform",3.3,3,3,"Ethereum","1",1,1,0,1,0.29,1,1,4038,"Europe",30
+10,"N",2017-11-30,2017-11-01,0,13,"Estonia","Cryptocurrency,Internet,Investment,Energy",2,0,0,"Ethereum","unknown",1,0,0,0,0.23,1,0,7813.132975,"Europe",29
+11,"N",2017-10-31,2017-10-01,0,7,"USA","Platform,Investment,Cryptocurrency",2.1,1,1,"Ethereum","1",1,0,3,1,0,0.57,0,5360.071604,"Americas",30
+12,"Y",2018-04-29,2018-04-01,3e+07,12,"Japan","Business services",2.3,0,0,"Ethereum","3",1,1,0,0,0,1,1,7991.977556,"Asia",28
+13,"N",2018-03-03,2018-02-03,0,4,"United Kingdom","Artificial Intelligence,Investment,Big Data",1.9,4,4,"Ethereum","2",1,0,0,0,0,0,0,9680.753199,"Europe",28
+14,"N",2018-02-15,2018-01-15,1e+08,3,"United Arab Emirates","Platform,Other",1.8,3,3,"EOS","1",1,1,0,0,0,0,0,10101.41977,"Asia",31
+15,"Y",2017-09-30,2017-08-30,29999997,6,"Switzerland","Health",2.5,0,0,"Litecoin","3",1,1,0,1,0,1,0,4100.430603,"Europe",31
+16,"N",2017-10-31,2017-09-11,0,10,"Russia","Business services,Investment,Energy",3.4,3.2,3,"Ethereum","1",1,1,0,1,0.9,1,1,4777.764304,"Europe",50
+17,"N",2018-06-11,2018-03-11,3e+07,8,"USA","Media",2.3,0,0,"Ethereum","1",1,1,0,0,0.88,1,0,8177.68289,"Americas",92
+18,"N",2018-05-29,2018-03-06,0,8,"Cyprus","Infrastructure,Real estate,Tourism",2.8,0,0,"Ethereum","4",1,0,0,1,0.5,1,0,8373.322455,"Asia",84
+19,"Y",2018-01-12,2018-01-08,187500000,14,"USA","Artificial Intelligence,Business services",2.9,3,3,"Ethereum","2",1,1,3,1,1,1,1,14425.03984,"Americas",4
+20,"N",2017-12-18,2017-11-16,0,4,"Bulgaria","Other",1.5,0,0,"WAVES","10",1,0,0,0,0,1,0,12408.22001,"Europe",32
+21,"N",2018-03-19,2018-02-19,4e+08,1,"Russia","Investment",1.3,1,1,"WAVES","3",1,0,0,0,0,1,1,9903.771047,"Europe",28
+22,"Y",2017-08-11,2017-07-10,3e+06,9,"United Arab Emirates","Cryptocurrency",2.8,0,0,"Ethereum","2",1,1,0,1,0,1,0,2725.633626,"Asia",32
+23,"N",2018-04-27,2018-04-10,142975000,23,"USA","Cryptocurrency,Casino & Gambling,Entertainment,Platform,Software",3.6,3.5,3.5,"Ethereum","3",1,0,3,1,0.96,1,0,8367.148844,"Americas",17
+24,"N",2018-05-15,2018-02-15,2e+08,9,"USA","Legal,Cryptocurrency,Platform,Real estate,Smart Contract",3.9,4.6,4.3,"Ethereum","7",1,1,0,0,1,0.88,1,8945.671235,"Americas",89
+25,"Y",2018-05-20,2018-04-20,2.4e+07,11,"Singapore","Platform,Cryptocurrency,Software",3.2,3.2,2.7,"Ethereum","4",1,1,0,1,0.91,1,0,8998.585481,"Asia",30
+26,"Y",2018-03-11,2018-02-11,122400000,16,"Cyprus","Business services,Investment,Internet",3,3.1,2.6,"Ethereum","1",1,1,0,1,1,1,0,10218.73938,"Asia",28
+27,"Y",2018-05-31,2018-03-01,1,10,"India","Cryptocurrency,Investment,Media,Software",4.3,3.9,4.4,"Ethereum","1",1,1,0,1,1,1,0,8513.54455,"Asia",91
+28,"N",2018-04-11,2018-04-04,2.04e+08,21,"Isle of Man","Internet,Entertainment,Cryptocurrency,Casino & Gambling,Sports",4.1,5,4.6,"Ethereum","1",1,1,0,0,0.9,1,0,6851.256165,"Europe",7
+29,"N",2017-12-25,2017-11-10,2.1e+07,4,"Russia","Sports",2.1,2.3,2.3,"Ethereum","1",1,0,0,0,0.5,1,0,12078.16194,"Europe",45
+30,"N",2018-05-28,2018-05-01,0,10,"Russia","Artificial Intelligence,Big Data,Communication,Infrastructure,Platform",3,3,3.2,"Ethereum","3",1,1,0,1,0.6,1,0,8557.416068,"Europe",27
+31,"N",2018-05-31,2018-04-16,1.39e+08,6,"Thailand","Education",2.4,0,0,"Ethereum","1",1,1,0,0,0,1,0,8580.306068,"Asia",45
+32,"N",2017-11-03,2017-10-03,2e+07,6,"Russia","Platform,Internet,Business services",2.9,0,0,"Ethereum","2",1,1,0,0,0.33,1,0,5575.085297,"Europe",31
+33,"N",2017-09-02,2017-08-11,1.5e+07,6,"Seychelles","Platform,Cryptocurrency,Entertainment,Internet,Casino & Gambling,Sports",2.4,0,0,"Ethereum","1",1,1,0,0,0,1,0,4289.671313,"Africa",22
+34,"Y",2018-03-20,2018-02-20,3.5e+08,14,"Slovenia","Cryptocurrency,Internet,Tourism",3.3,4,3.5,"Ethereum","1",1,1,2,0,0.86,1,0,9824.052768,"Europe",28
+35,"N",2018-06-08,2018-05-08,2e+07,9,"Latvia","Banking,Infrastructure,Software",3.8,3.7,3.9,"Ethereum","1",1,1,0,1,0.89,1,0,8009.560638,"Europe",31
+36,"N",2017-11-29,2017-10-12,1.92e+08,16,"Czech Republic","Business services,Cryptocurrency",2.8,0,0,"Ethereum","1",1,0,0,1,0.69,1,0,6956.033243,"Europe",48
+37,"Y",2017-11-02,2017-10-02,433494437,15,"USA","Platform,Business services",2.6,0,0,"Ethereum","2",1,1,3,1,1,1,1,5487.634048,"Americas",31
+38,"Y",2017-05-31,2017-05-31,1e+09,12,"USA","Cryptocurrency",2.8,5,4.5,"Ethereum","1",1,1,3,0,0,1,1,2286.409912,"Americas",0
+39,"N",2018-05-29,2018-04-15,363200000,15,"Bulgaria","Platform,Retail",3,0,0,"Ethereum","3",1,1,0,1,0.33,1,0,8624.944434,"Europe",44
+40,"Y",2017-12-15,2017-11-29,3e+09,17,"Russia","Investment,Platform,Internet,Cryptocurrency",3.1,3.5,3,"Ethereum","3",1,1,0,1,0.29,1,0,14205.58887,"Europe",16
+41,"Y",2018-04-30,2018-02-12,2.1e+07,13,"Estonia","Legal,Business services,Platform",4.5,4.1,4.2,"Ethereum","5",1,1,0,1,1,1,0,8909.525391,"Europe",77
+42,"Y",2017-08-14,2017-07-14,6e+07,4,"USA","Business services",2.3,0,0,"Ethereum","1",1,0,0,0,0,1,0,2898.809982,"Americas",31
+43,"N",2018-02-07,2017-08-20,1e+07,6,"Russia","Banking,Investment",2.1,3,2,"unknown","3",1,0,0,0,0,1,0,8791.122962,"Europe",171
+44,"Y",2018-04-04,2018-03-04,5e+08,13,"Estonia","Artificial Intelligence,Banking,Cryptocurrency",4.2,4.5,3.9,"Ethereum","2",1,1,3,1,1,1,0,8592.754654,"Europe",31
+45,"N",2017-07-25,2017-06-25,6.5e+07,7,"USA","Platform,Cryptocurrency,Software",2.4,0,0,"Ethereum","1",1,1,0,0,0,1,0,2482.194194,"Americas",30
+46,"Y",2018-04-30,2018-04-01,185,9,"Canada","Smart Contract,Cryptocurrency",2.6,0,0,"Ethereum","2",1,1,0,0,0,1,1,8033.596631,"Americas",29
+47,"Y",2018-05-31,2018-05-03,7e+08,21,"Marshall Islands","Platform,Health,Communication,Business services,Internet,Cryptocurrency,Smart Contract,Software,Infrastructure,Legal",4.4,4.7,4.2,"Ethereum","1",1,1,3,1,0.95,1,0,8400.896552,"Oceania",28
+48,"Y",2018-02-13,2018-01-16,7.5e+08,11,"Singapore","Software,Tourism",4.1,4.3,3.8,"Ethereum","1",1,1,0,1,1,1,1,9991.882846,"Asia",28
+49,"Y",2018-01-13,2018-01-01,1e+07,21,"Singapore","Big Data,Business services,Cryptocurrency,Platform",4.3,4.3,4.2,"Ethereum","2",1,1,0,1,0.95,1,0,15181.46146,"Asia",12
+50,"N",2017-09-15,2017-09-01,8e+05,3,"Belgium","Other",1.9,0,0,"Ethereum","1",1,1,0,1,0,1,0,4227.231315,"Europe",14
+51,"N",2017-12-25,2017-11-25,5e+07,9,"India","Cryptocurrency",2.9,3.2,3.1,"Ethereum","2",1,1,0,1,1,1,0,14320.43964,"Asia",30
+52,"N",2018-03-31,2018-03-01,0,8,"USA","Communication,Platform,Software",3.4,3,3.2,"Ethereum","1",1,1,0,1,1,1,1,9040.557097,"Americas",30
+53,"Y",2018-04-19,2018-03-19,3e+07,16,"United Arab Emirates","Platform,Cryptocurrency,Investment",4.5,4.7,4.7,"Ethereum","4",1,1,0,1,0.69,1,1,7718.290619,"Asia",31
+54,"Y",2018-01-24,2017-12-21,5e+09,42,"Luxembourg","Business services,Big Data,Banking,Artificial Intelligence,Cryptocurrency,Investment,Legal,Platform,Smart Contract,Software",3.4,2.9,3.2,"Ethereum","1",1,1,3,1,0.98,1,0,13970.4743,"Europe",34
+55,"Y",2017-12-19,2017-12-19,5e+08,14,"Switzerland","Platform,Cryptocurrency,Software,Internet,Infrastructure",4.1,4.6,3.8,"Ethereum","1",1,1,3,1,0,1,1,17776.69922,"Europe",0
+56,"Y",2018-04-27,2018-03-27,1.5e+08,29,"Estonia","Platform,Health",4.1,4.4,4,"Ethereum","1",1,1,0,1,0.66,1,0,7806.783081,"Europe",31
+57,"N",2017-11-16,2017-09-16,0,11,"Singapore","Cryptocurrency,Retail,Business services",1.5,0,0,"unknown","1",0,1,0,0,1,1,0,5429.329991,"Asia",61
+58,"N",2018-01-12,2017-12-18,1e+07,6,"Singapore","Software,Cryptocurrency",1.6,2,1,"Ethereum","2",1,0,0,0,0,1,0,15273.46913,"Asia",25
+59,"Y",2017-07-08,2017-06-28,10500000,13,"Sweden","Cryptocurrency",3.2,4,5,"Ethereum","1",1,1,0,1,0,1,0,2545.656383,"Europe",10
+60,"N",2017-12-30,2017-12-05,2e+07,11,"Russia","Platform,Cryptocurrency",2.8,3.7,3,"Ethereum","1",1,1,0,0,0.73,1,0,15959.05386,"Europe",25
+61,"N",2018-05-01,2018-04-08,86400000,8,"Hungary","Electronics,Infrastructure",2.5,0,0,"Ethereum","4",1,1,0,0,1,1,0,8397.085388,"Europe",23
+62,"N",2018-05-02,2018-04-02,3e+08,6,"USA","Health,Cryptocurrency",2.5,0,0,"Ethereum","unknown",1,0,0,1,0.67,1,0,8145.761246,"Americas",30
+63,"Y",2017-10-15,2017-09-15,3e+07,10,"Slovenia","Cryptocurrency,Platform,Investment",4.2,4.2,4,"Ethereum","1",1,1,0,1,0.7,1,0,4330.813555,"Europe",30
+64,"Y",2017-08-14,2017-07-03,3.75e+08,16,"Slovenia","Business services,Platform",4.1,4.6,4,"Ethereum","2",1,1,0,0,0.94,1,1,2795.667429,"Europe",42
+65,"N",2017-12-22,2017-11-22,0,4,"Ukraine","Platform,Business services,Investment",1.8,0,0,"Ethereum","unknown",1,0,0,0,0,1,1,13736.38837,"Europe",30
+66,"Y",2018-04-05,2018-03-27,3.5e+08,15,"Estonia","Big Data,Business services,Platform,Smart Contract",4,4,4,"Ethereum","4",1,0,0,0,1,1,0,7186.671973,"Europe",9
+67,"Y",2017-09-28,2017-08-31,4.5e+07,7,"Spain","Cryptocurrency,Platform,Internet,Investment,Business services,Banking,Software",2.8,0,0,"Ethereum","1",1,0,0,1,0.71,1,0,4074.024128,"Europe",28
+68,"N",2017-11-10,2017-09-10,0,4,"Russia","Cryptocurrency",1.4,2,2,"Waves","unknown",0,0,0,0,0,1,0,5145.458055,"Europe",61
+69,"N",2018-03-22,2018-02-20,1.05e+08,11,"Vietnam","Artificial Intelligence,Cryptocurrency,Smart Contract",2.3,0,0,"unknown","unknown",1,0,0,1,0.64,1,0,9759.847751,"Asia",30
+70,"Y",2017-09-20,2017-08-21,11500000,23,"Canada","Investment",3.1,0,0,"Waves","2",1,1,3,0,0,1,1,4207.684507,"Americas",30
+71,"Y",2018-03-24,2018-02-10,10350000,6,"Sweden","Education",2.8,3,3,"Ethereum","1",1,1,0,1,0.17,1,0,9701.500034,"Europe",42
+72,"Y",2018-03-17,2018-03-01,1e+10,21,"Lithuania","Media",3.5,3.2,2,"Ethereum","1",1,1,0,0,0.86,0.86,0,9750.678194,"Europe",16
+73,"N",2017-12-27,2017-12-01,3e+08,8,"Canada","Banking,Cryptocurrency",1.6,0,0,"Ethereum","1",0,0,0,1,0,1,0,15472.26295,"Americas",26
+74,"Y",2017-10-14,2017-09-14,6e+08,13,"Austria","Entertainment,Casino & Gambling",3.7,4.5,3.9,"Ethereum","1",1,1,2,1,1,1,1,4249.418717,"Europe",30
+75,"N",2018-01-30,2017-12-01,7.5e+07,12,"Estonia","Platform,Business services,Software",2.9,4,4,"Ethereum","1",1,1,0,1,0.58,1,0,14254.97707,"Europe",60
+76,"N",2018-06-05,2018-04-26,7e+07,7,"Latvia","Platform",2.9,0,0,"Ethereum","1",1,0,0,0,1,1,1,8446.609268,"Europe",40
+77,"N",2018-05-01,2018-04-01,6e+08,15,"Korea","Artificial Intelligence,Big Data,Cryptocurrency,Investment",2.4,0,0,"Ethereum","1",1,0,0,0,0.47,1,1,8068.609958,"Asia",30
+78,"Y",2018-05-31,2018-04-15,3.5e+09,24,"Japan","Artificial Intelligence,Big Data,Business services,Cryptocurrency,Infrastructure,Platform",3,0,0,"Ethereum","1",1,1,0,0,0.44,1,0,8574.961478,"Asia",46
+79,"N",2018-06-10,2018-06-06,3.2e+09,9,"Singapore","Cryptocurrency",2,0,0,"Ethereum","1",1,0,3,0,0,1,0,7455.028027,"Asia",4
+80,"N",2018-05-30,2018-04-15,2.25e+09,4,"Ukraine","Artificial Intelligence,Platform",2.3,0,0,"Ethereum","1",1,0,0,0,0,1,0,8598.456946,"Europe",45
+81,"Y",2017-11-30,2017-10-16,7.5e+07,19,"USA","Investment",4.1,4.2,4.1,"Ethereum","1",1,1,0,1,1,1,0,7140.763661,"Americas",45
+82,"Y",2017-08-04,2017-07-06,1e+07,4,"Panama","Entertainment",3,0,0,"Waves","unknown",1,0,3,0,0,1,1,2550.760327,"Americas",29
+83,"Y",2018-04-18,2018-03-21,2.5e+08,23,"Estonia","Virtual Reality",2.9,0,0,"Ethereum","1",1,0,0,0,0.43,1,1,7625.754142,"Europe",28
+84,"Y",2018-02-21,2017-12-07,22440000,5,"UK","Manufacturing,Platform,Health",2.1,3,2.4,"Ethereum","5",1,0,0,0,0,1,0,13019.19264,"Europe",76
+85,"Y",2017-09-30,2017-08-25,8700000,12,"USA","Platform,Tourism",2.4,3.5,3.2,"Ethereum","1",0,1,0,0,1,1,0,4142.765929,"Americas",36
+86,"Y",2018-06-01,2018-03-03,24999999,22,"UK","Communication,Banking,Cryptocurrency,Investment,Other,Smart Contract,Software",4.2,4.7,4.1,"Ethereum","2",1,1,2,1,0.96,1,1,8447.803829,"Europe",90
+87,"N",2017-09-30,2017-09-01,0,4,"Malaysia","Cryptocurrency",2.3,0,0,"unknown","3",1,0,2,0,0,1,0,4064.836312,"Asia",29
+88,"N",2018-03-18,2018-01-18,255200,8,"Canada","Artificial Intelligence,Business services,Platform,Software",2.9,3,3,"Ethereum","1",1,1,0,1,1,1,0,9953.727393,"Americas",59
+89,"Y",2017-09-08,2017-08-12,1e+09,3,"USA","Platform,Retail",2.5,0,0,"Ethereum","1",1,1,0,1,0,1,0,4344.048924,"Americas",27
+90,"N",2018-06-08,2018-05-23,7,15,"Spain","Business services,Cryptocurrency,Investment,Platform,Smart Contract,Software",4.3,4.3,4.2,"Ethereum","2",1,1,0,1,0.86,1,0,7521.717084,"Europe",16
+91,"N",2018-02-04,2018-01-08,5e+08,9,"USA","Platform,Tourism",2.9,3.3,3,"Ethereum","1",1,0,0,1,0,0,0,11793.99683,"Americas",27
+92,"N",2018-05-19,2018-03-19,4.37e+08,11,"Slovenia","Business services,Communication,Cryptocurrency,Platform",2.6,0,0,"Ethereum","unknown",1,0,0,0,0.55,1,0,8345.616124,"Europe",61
+93,"N",2017-12-29,2017-10-27,39999999,3,"Russia","Investment,Business services",1.8,2,2,"Waves","4",1,1,0,0,0,1,0,11120.22748,"Europe",63
+94,"N",2018-02-25,2017-12-25,80,8,"UK","Platform,Cryptocurrency,Investment,Infrastructure,Real estate",2.4,3.5,2.7,"unknown","2",1,1,0,0,0.88,1,1,11773.24338,"Europe",62
+95,"Y",2018-03-06,2018-02-04,8.55e+09,9,"Singapore","Cryptocurrency",2.4,0,0,"Ethereum","2",1,1,0,0,0.63,1,0,9852.668788,"Asia",30
+96,"N",2018-03-15,2018-02-16,7.2e+07,12,"UK","Platform,Software,Communication,Infrastructure",3,0,0,"Ethereum","unknown",1,1,3,0,0.08,1,0,10214.22147,"Europe",27
+97,"Y",2017-09-05,2017-09-05,1.2e+08,31,"Slovenia","Entertainment",4.3,4.7,3.9,"Ethereum","1",1,1,3,1,0.94,1,1,4376.529785,"Europe",0
+98,"N",2018-03-31,2018-03-09,0,8,"UK","Business services,Software",2,0,0,"Ethereum","1",1,0,0,0,0,1,0,8413.208241,"Europe",22
+99,"Y",2017-12-08,2017-11-08,3e+06,22,"Russia","Software,Platform",3.3,3,3,"Ethereum","5",1,1,0,1,0.59,1,1,9357.865124,"Europe",30
+100,"N",2018-06-05,2018-04-06,2.45e+08,6,"Lithuania","Platform",2.2,1.6,1.6,"Ethereum","1",1,1,0,1,1,1,1,8294.963267,"Europe",60
+101,"N",2018-03-30,2018-02-26,0,10,"Switzerland","Cryptocurrency,Platform",2.3,0,0,"Ethereum","unknown",1,1,0,0,0.9,1,0,9235.573952,"Europe",32
+102,"N",2018-04-25,2018-02-15,0,12,"UK","Charity",1.4,0,0,"unknown","2",0,1,0,1,1,1,0,8880.668583,"Europe",69
+103,"N",2017-12-31,2017-12-01,22000,10,"Russia","Investment,Platform,Infrastructure",2.9,3.5,4.1,"Ethereum","3",1,1,0,0,0.2,1,1,15294.27098,"Europe",30
+104,"N",2018-03-29,2018-03-04,8e+08,3,"USA","Internet",2.1,0,0,"Ethereum","1",1,1,0,0,1,1,0,8956.389217,"Americas",25
+105,"N",2017-10-31,2017-10-01,6.5e+07,10,"Malaysia","Real estate",2.4,2,1,"Waves","10",1,1,0,0,0.7,1,0,5360.071604,"Asia",30
+106,"Y",2018-06-02,2018-05-01,4e+08,20,"Switzerland","Banking,Business services,Smart Contract",2.4,0,0,"Ethereum","3",1,0,0,1,0.95,1,1,8398.964548,"Europe",32
+107,"Y",2018-02-28,2017-11-29,1.4e+07,9,"Laos","Retail,Manufacturing",3.2,3.7,3.7,"Ethereum","2",1,1,0,0,0.44,1,0,12664.27112,"Asia",91
+108,"N",2017-09-15,2017-08-15,0,2,"Georgia","Business services,Platform",1.9,0,0,"unknown","unknown",1,1,0,0,0,1,0,4270.825318,"Asia",31
+109,"N",2018-03-23,2018-02-23,2.5e+08,21,"Singapore","Big Data",3.1,2.8,4.1,"Ethereum","1",1,0,2,1,0,1,1,9632.268959,"Asia",28
+110,"Y",2018-04-10,2018-03-20,1.5e+09,16,"UK","Cryptocurrency,Entertainment",3.7,3.8,3.5,"Ethereum","1",1,1,0,1,1,1,0,7584.876354,"Europe",21
+111,"Y",2018-01-15,2018-01-15,5.1e+09,13,"China","Big Data,Platform,Artificial Intelligence,Smart Contract",3.7,3.5,3.3,"NEO","1",1,1,0,1,0.85,1,0,13819.79981,"Asia",0
+112,"N",2018-02-28,2018-01-15,1e+08,6,"Canada","Cryptocurrency",2.6,2.7,2.7,"Ethereum","5",1,1,0,0,1,1,1,10216.3852,"Americas",44
+113,"N",2018-02-28,2018-01-31,1782692307,24,"Germany","Platform,Retail,Business services,Internet",3.3,4,4,"Ethereum","1",1,1,0,1,0.83,1,1,9497.832132,"Europe",28
+114,"Y",2017-12-15,2017-11-15,36900000,8,"Netherlands","Platform,Software,Entertainment,Media",3.5,0,0,"Ethereum","1",1,0,3,0,0.88,1,1,11581.75484,"Europe",30
+115,"Y",2018-04-14,2018-03-14,3.5e+08,15,"USA","Media",4.1,4.6,4.4,"Ethereum","unknown",1,1,0,1,1,1,1,7727.727478,"Americas",31
+116,"N",2018-06-10,2018-05-02,4.2e+07,12,"Luxembourg","Cryptocurrency,Investment,Software,Banking,Internet",2.3,1.8,1.3,"Ethereum","3",1,0,0,0,0.91,1,0,8204.761011,"Europe",39
+117,"N",2018-03-01,2018-02-01,0,7,"Russia","Platform,Media",2.8,0,0,"Waves","unknown",1,0,3,0,0.57,1,1,9523.001111,"Europe",28
+118,"N",2018-03-31,2018-03-01,6e+09,3,"USA","Platform,Smart Contract",2.1,0,0,"Ethereum","1",1,1,0,1,1,1,0,9040.557097,"Americas",30
+119,"Y",2018-02-28,2017-12-05,4e+08,40,"Gibraltar","Real estate",4,4.4,3.7,"Ethereum","2",1,1,3,1,0.58,0.9,1,12790.23411,"Europe",85
+120,"Y",2018-05-31,2018-05-01,4.25e+08,18,"Brazil","Business services,Cryptocurrency,Investment,Platform",4.3,4.4,4.1,"Ethereum","1",1,1,0,1,1,1,0,8450.997732,"Americas",30
+121,"Y",2018-04-15,2018-04-01,9,14,"Singapore","Art,Entertainment,Media",3.2,3,3,"Ethereum","1",1,1,3,1,0.54,1,1,7219.649967,"Asia",14
+122,"N",2017-10-14,2017-09-13,54600000,19,"Canada","Entertainment",3.4,3.6,3.2,"Ethereum","1",1,1,3,1,0.74,0.95,0,4237.955322,"Americas",31
+123,"N",2018-05-14,2018-03-10,0,4,"Sweden","Cryptocurrency",1.7,1,1,"Ethereum","1",1,0,0,0,0,1,0,8391.677261,"Europe",65
+124,"Y",2018-06-04,2018-03-28,5.5e+07,19,"UK","Internet,Infrastructure,Communication,Business services,Platform,Smart Contract,Software",4.6,4.8,4.4,"Hyperledger","3",1,1,3,1,1,1,0,8150.618539,"Europe",68
+125,"N",2017-12-15,2017-11-15,1e+08,8,"Germany","Internet,Platform,Communication,Media",2.4,0,0,"Ethereum","2",1,0,0,0,0.25,1,0,11581.75484,"Europe",30
+126,"Y",2017-12-17,2017-11-17,12500000,18,"Gibraltar","Platform,Cryptocurrency,Retail,Media,Entertainment,Investment",3,3.7,2.1,"Ethereum","2",1,1,0,1,0.94,1,0,12338.23778,"Europe",30
+127,"Y",2017-10-20,2017-10-10,18,4,"Singapore","Cryptocurrency",3.4,3.4,2.4,"Ethereum","1",1,1,0,1,0,1,0,5532.211825,"Asia",10
+128,"Y",2018-05-30,2018-03-01,3e+09,17,"USA","Business services,Tourism",2.6,0,0,"Ethereum","1",1,1,0,0,1,0.71,1,8524.746469,"Americas",90
+129,"Y",2018-04-30,2018-03-21,570500000,32,"Slovenia","Artificial Intelligence,Energy,Infrastructure",4.1,3.7,4.2,"Ethereum","1",1,1,0,1,0.72,1,0,8042.337557,"Europe",40
+130,"Y",2018-02-05,2018-01-15,1.1e+08,18,"Indonesia","Cryptocurrency,Infrastructure,Investment,Platform",3.4,0,0,"Ethereum","2",1,1,0,1,0,1,0,10769.53553,"Asia",21
+131,"Y",2017-11-01,2017-10-01,2.4e+11,25,"Netherlands","Health",3.7,4.3,3.5,"Ethereum","1",1,1,0,1,0.85,1,1,5404.047806,"Europe",31
+132,"Y",2018-04-15,2018-03-19,3.95e+08,17,"France","Banking,Artificial Intelligence,Big Data,Business services,Communication,Education,Energy,Entertainment,Health,Infrastructure,Internet,Media,Platform,Software",3.6,3.9,2.5,"Neurochain","2",1,1,0,1,1,1,1,7663.100377,"Europe",27
+133,"N",2018-05-29,2018-04-15,8.5e+07,6,"UK","Cryptocurrency",2.6,0,0,"Ethereum","3",1,1,0,0,1,1,0,8624.944434,"Europe",44
+134,"N",2017-12-10,2017-11-14,0,7,"UK","Banking",2.9,2,2.6,"unknown","1",1,1,2,1,1,1,0,10394.03145,"Europe",26
+135,"N",2018-05-31,2018-04-02,1.5e+08,11,"UK","Business services",2.5,0,0,"Ethereum","3",1,1,0,0,1,1,0,8269.076644,"Europe",59
+136,"Y",2018-05-31,2018-02-01,14250000,8,"Switzerland","Energy,Investment",3.8,0,0,"Ethereum","3",1,1,3,1,0.5,1,0,8737.184424,"Europe",119
+137,"Y",2018-04-09,2018-02-12,6.5e+08,13,"UK","Internet",3.4,3,3.1,"Ethereum","4",1,1,0,1,0.62,1,1,9058.354227,"Europe",56
+138,"Y",2018-01-14,2017-12-15,124500000,10,"Switzerland","Cryptocurrency,Software,Investment,Infrastructure,Manufacturing,Energy",3,3.2,3.3,"Ethereum","3",1,1,0,0,0,1,0,15535.08061,"Europe",30
+139,"N",2018-04-06,2018-02-15,5e+07,2,"Germany","Platform,Cryptocurrency,Investment",2.3,1,1,"Ethereum","unknown",1,0,3,1,1,0,0,9188.261594,"Europe",50
+140,"N",2018-04-11,2018-03-01,7e+07,10,"Austria","Entertainment,Media",2.1,2.3,2,"Ethereum","1",1,0,0,0,0.67,0.78,0,8486.9395,"Europe",41
+141,"Y",2018-02-13,2018-01-31,1.5e+08,20,"USA","Real estate",4,4.4,3.6,"Ethereum","1",1,0,0,1,1,1,1,8520.300014,"Americas",13
+142,"N",2017-11-21,2017-10-24,1e+08,11,"Mexico","Entertainment,Platform,Other",3,5,4,"Ethereum","1",1,1,0,1,1,1,0,6868.834119,"Americas",28
+143,"N",2017-08-31,2017-08-01,2e+07,5,"Canada","Investment",2,0,0,"Ethereum","1",1,0,0,0,0,1,0,3880.989998,"Americas",30
+144,"N",2018-03-20,2018-02-28,0,5,"Bulgaria","Cryptocurrency",2.1,0,0,"Ethereum","1",1,0,0,0,1,1,0,9615.582357,"Europe",20
+145,"Y",2018-01-17,2018-01-15,2.5e+08,15,"Slovenia","Platform,Retail,Software",3.8,4.1,3.2,"Ethereum","1",1,1,3,1,1,1,0,12166.2998,"Europe",2
+146,"N",2017-06-09,2017-06-09,5.5e+07,7,"USA","Cryptocurrency",2.5,5,5,"Ethereum","1",0,1,3,0,0,1,0,2823.810059,"Americas",0
+147,"Y",2018-04-30,2018-03-01,5e+08,9,"Russia","Cryptocurrency,Platform,Business services,Infrastructure",2.3,0,0,"ETH","unknown",1,0,0,1,0.11,1,0,8545.330638,"Europe",60
+148,"N",2018-03-31,2018-02-16,3e+07,4,"USA","Business services,Communication,Cryptocurrency,Investment,Platform",1.3,0,0,"Ethereum","1",1,0,0,0,0,0,0,9471.572077,"Americas",43
+149,"N",2017-12-10,2017-11-10,3.3e+08,3,"USA","Business services,Cryptocurrency",2.4,3,2,"Ethereum","1",1,0,0,1,1,1,0,9874.972562,"Americas",30
+150,"Y",2017-07-24,2017-07-24,53252246,5,"UK","Business services",3.1,0,0,"Ethereum","unknown",1,0,0,1,1,1,0,2754.860107,"Europe",0
+151,"N",2017-11-10,2017-10-27,150000,4,"Japan","Platform,Cryptocurrency",1.9,2,2,"Ethereum","unknown",1,0,0,0,1,0,0,6767.749967,"Asia",14
+152,"N",2018-04-30,2018-03-19,6.5e+07,1,"UK","Other,Investment,Cryptocurrency,Platform",1.7,1,1,"Ethereum","2",1,0,0,0,1,0,0,8076.278139,"Europe",42
+153,"N",2017-12-20,2017-11-20,5e+07,6,"India","Business services,Investment,Platform",2.8,3,4,"Ethereum","1",1,1,0,1,0.5,1,0,13305.33028,"Asia",30
+154,"N",2018-05-14,2017-10-22,6e+07,7,"USA","Software,Business services,Platform",2.5,0,0,"Ethereum","1",1,0,0,1,0.43,1,0,10188.94747,"Americas",204
+155,"Y",2017-04-19,2017-04-19,8.7e+07,10,"France","Platform",3.1,0,0,"unknown","2",1,1,2,0,0.9,0,0,1210.290039,"Europe",0
+156,"N",2018-03-31,2018-03-05,2700000,3,"india","Cryptocurrency",1.5,0,0,"unknown","unknown",1,1,0,0,1,1,0,8711.761845,"Asia",26
+157,"N",2018-04-22,2018-02-22,10500000,5,"UK","Business services,Platform",2.4,2,2,"CryptoNote-based Blockchain","5",1,0,0,1,1,0.6,1,8646.474658,"Europe",59
+158,"Y",2018-01-15,2017-11-24,1.65e+08,18,"Gibraltar","Platform,Investment,Education",3.2,3.6,2.5,"Ethereum","1",1,1,3,1,1,1,0,14442.40979,"Europe",52
+159,"Y",2018-01-31,2017-12-07,6.4e+07,14,"Lithuania","Internet,Infrastructure,Platform,Cryptocurrency,Software",3.4,3.4,3.2,"Ethereum","4",1,1,0,1,0.88,1,0,14438.1411,"Europe",55
+160,"N",2018-02-14,2018-01-10,1.3e+08,12,"Seychelles","Energy",1.8,1,1,"Ethereum","1",1,0,0,0,0,1,0,10654.7481,"Africa",35
+161,"Y",2018-03-07,2018-02-07,1.5e+10,8,"USA","Investment",3.6,5,5,"Ethereum","8",1,1,2,1,0.5,1,1,10083.17321,"Americas",28
+162,"N",2017-10-14,2017-10-06,2e+08,20,"Denmark","Platform,Software",2.4,3,3,"Ethereum","3",1,0,0,0,0,0.8,0,4968.28673,"Europe",8
+163,"Y",2018-04-30,2018-04-02,3.1e+07,14,"Switzerland","Platform",4.2,4.7,4.3,"Ethereum","1",1,1,3,1,0.79,0.93,1,8074.609274,"Europe",28
+164,"Y",2018-04-11,2018-03-11,73270000,14,"UK","Platform,Infrastructure",3.7,4,3.3,"Ethereum","1",1,1,0,1,1,1,1,7859.200897,"Europe",31
+165,"Y",2017-12-26,2017-11-26,6e+07,16,"Australia","Platform,Investment,Cryptocurrency,Software",2.9,3,2.9,"Ethereum","1",1,1,0,1,1,1,1,14556.20996,"Oceania",30
+166,"Y",2018-03-05,2018-01-29,4e+07,14,"Estonia","Business services,Software",3.7,3.6,2.5,"Ethereum","1",1,1,2,1,0.89,1,1,9818.134223,"Europe",35
+167,"Y",2017-11-17,2017-10-02,4e+07,24,"Russia","Platform,Business services",4.3,4.5,4.7,"Ethereum","6",1,1,2,0,0.25,1,1,5986.959358,"Europe",46
+168,"N",2017-11-22,2017-11-01,2e+08,6,"Russia","Platform,Entertainment,Art",2,1.6,1.4,"Ethereum","1",1,0,0,0,0,1,0,7271.849987,"Europe",21
+169,"Y",2018-02-15,2018-02-01,7e+06,10,"Switzerland","Tourism",3.4,3.5,2.8,"Ethereum","1",1,1,2,1,1,1,0,8581.608724,"Europe",14
+170,"N",2018-04-30,2018-03-19,0,7,"Russian","Cryptocurrency",2.4,0,0,"Ethereum","1",1,0,0,0,0.43,0.86,0,8076.278139,"Europe",42
+171,"N",2018-06-10,2018-04-16,141,18,"Belarus","Infrastructure,Cryptocurrency,Big Data,Platform,Smart Contract,Software",3.5,3.2,2.9,"Ethereum","5",1,1,0,1,1,1,0,8393.260707,"Europe",55
+172,"N",2017-10-31,2017-09-15,5e+07,2,"USA","Business services,Platform,Cryptocurrency",2.1,0,0,"Ethereum","8",1,1,1,0,0.5,1,1,4858.220412,"Americas",46
+173,"N",2018-04-15,2018-03-15,1.5e+09,6,"UK","Business services,Cryptocurrency,Internet,Media,Platform,Retail",1.9,0,0,"Ethereum","1",1,0,0,0,0,1,0,7729.580627,"Europe",31
+174,"N",2017-11-23,2017-10-26,0,3,"Russia","Manufacturing",1.8,0,0,"unknown","1",1,0,0,0,0,1,0,7041.761012,"Europe",28
+175,"Y",2018-05-15,2018-05-08,9.04e+08,19,"Slovenia","Investment,Business services,Banking,Artificial Intelligence,Platform",3.6,3.7,2.9,"Ethereum","1",1,1,0,0,1,1,0,8812.678833,"Europe",7
+176,"N",2017-09-22,2017-09-08,0,7,"Singapore","Platform,Business services,Entertainment,Software",1.7,3,2.2,"unknown","unknown",1,1,0,0,0,1,0,3860.711328,"Asia",14
+177,"Y",2018-04-20,2018-03-15,9325000,5,"USA","Cryptocurrency",2.9,0,0,"Ethereum","1",1,1,0,1,0.43,1,0,7800.294579,"Americas",36
+178,"Y",2017-10-20,2017-09-16,8e+07,5,"Malta","Casino & Gambling,Entertainment",3,4.1,3.4,"Ethereum","1",1,1,0,1,1,1,0,4550.270285,"Europe",34
+179,"Y",2018-05-08,2018-03-01,1.6e+08,17,"USA","Entertainment",3.5,3.4,3.2,"Ethereum","2",1,1,0,1,1,1,0,8654.862305,"Americas",68
+180,"Y",2018-01-27,2017-11-29,66666666,19,"Estonia","Software,Platform",3.8,4,4.2,"Ethereum","1",1,1,0,1,0.37,1,1,14274.78019,"Europe",59
+181,"Y",2017-11-24,2017-10-24,2e+08,9,"Argentina","Platform,Entertainment,Media",3.5,4,4,"Ethereum","1",1,1,3,0,1,1,0,6991.943741,"Americas",31
+182,"N",2018-01-08,2017-12-18,1.8e+07,13,"Ukraine","Cryptocurrency,Platform,Investment,Business services",1.8,1.8,1.3,"Ethereum","1",0,1,0,1,0.31,1,0,15461.59535,"Europe",21
+183,"Y",2018-03-15,2018-02-05,3e+09,37,"Singapore","Other,Investment,Internet,Infrastructure,Cryptocurrency,Business services,Banking,Platform,Smart Contract,Tourism",4.3,4.3,4.3,"Ethereum","1",1,1,0,1,0.68,0.7,0,9724.849284,"Asia",38
+184,"Y",2017-12-29,2017-11-29,1e+09,16,"Russia","Platform,Communication",3.8,5,5,"Ethereum","3",1,1,0,1,0.88,1,1,15068.90354,"Europe",30
+185,"Y",2018-03-23,2018-03-16,3.25e+08,13,"USA","Platform,Banking",4.1,4.3,3.8,"Ethereum","3",1,1,3,1,1,1,1,8570.049927,"Americas",7
+186,"Y",2018-05-18,2018-04-18,3.42e+08,19,"Singapore","Internet,Platform,Electronics,Media,Communication,Infrastructure,Software",3.7,3.8,3.4,"Ethereum","1",1,1,0,1,0.95,1,0,8988.820958,"Asia",30
+187,"Y",2018-04-19,2017-11-20,350,2,"Estonia","Platform,Cryptocurrency,Business services,Infrastructure",3.4,3,3,"Ethereum","1",1,1,0,0,1,1,1,11025.82769,"Europe",150
+188,"N",2017-09-14,2017-08-14,1.12e+08,7,"Kyrgyzstan","Platform",1.9,0,0,"Ethereum","1",0,1,0,1,0,1,0,4292.313126,"Asia",31
+189,"N",2018-01-31,2018-01-01,1950000,6,"Singapore","Cryptocurrency",2.3,1.6,2.3,"Ethereum","1",1,0,0,1,0.83,1,0,13085.55809,"Asia",30
+190,"N",2017-10-24,2017-10-04,3250000,21,"Spain","Energy",3.3,3,1,"Ethereum","1",1,0,0,1,0.9,1,0,5289.965727,"Europe",20
+191,"N",2017-10-19,2017-09-19,1.24e+12,4,"Israel","Platform,Software,Retail",2.9,0,0,"Ethereum","1",1,1,0,1,1,1,0,4579.835158,"Asia",30
+192,"N",2017-11-29,2017-11-21,0,2,"UK","Casino & Gambling,Platform",1.6,2,2,"Ethereum","1",1,0,0,0,1,1,0,8944.94439,"Europe",8
+193,"N",2018-05-07,2018-03-19,175,13,"Czech Republic","Artificial Intelligence,Big Data,Education,Energy,Health,Virtual Reality",2.3,0,0,"Counterparty","unknown",1,1,0,1,0,0.62,0,8279.309395,"Europe",49
+194,"N",2018-06-10,2018-04-11,0,18,"Russia","Energy",2.5,0,0,"Ethereum","1",1,0,0,1,0,1,0,8345.761967,"Europe",60
+195,"Y",2017-12-27,2017-11-27,1e+07,7,"Russia","Cryptocurrency,Manufacturing",2.8,3,3,"Ethereum","1",1,1,0,1,0.71,1,0,14766.14384,"Europe",30
+196,"Y",2018-03-15,2017-12-15,1e+09,11,"South Africa","Platform,Business services",3.4,3.5,3.5,"Ethereum","1",1,1,0,0,1,1,1,11987.15531,"Africa",90
+197,"N",2017-08-18,2017-07-17,5e+06,8,"USA","Entertainment,Internet",3,0,0,"Ethereum","1",1,1,3,1,0.93,1,1,3140.93241,"Americas",32
+198,"N",2018-06-10,2018-04-26,1.2e+07,13,"Australia","Retail",2.3,3,3,"Ethereum","2",1,1,0,1,1,1,0,8338.828698,"Oceania",45
+199,"N",2018-01-12,2017-12-25,5e+07,8,"Liechtenstein","Investment",4.3,4.7,4.1,"Ethereum","4",1,0,0,1,1,1,0,15017.63153,"Europe",18
+200,"Y",2018-02-25,2018-01-25,3.3e+07,33,"Switzerland","Communication",3.6,4,3.2,"Ethereum","4",1,1,0,1,0.88,1,0,9718.982269,"Europe",31
+201,"Y",2017-07-20,2017-06-20,1e+08,8,"Malta","Entertainment,Sports",2.5,2,2,"Ethereum","1",1,1,0,0,0.38,1,0,2479.946124,"Europe",30
+202,"Y",2018-05-08,2018-04-18,1200000,17,"Slovenia","Software,Real estate,Platform,Infrastructure,Cryptocurrency",3.9,3.9,3.4,"Ethereum","1",1,1,3,1,0.88,1,1,9174.891416,"Europe",20
+203,"N",2018-04-20,2018-03-19,6.5e+07,11,"UK","Cryptocurrency,Manufacturing",3.2,4.4,3.8,"Ethereum","unknown",1,1,0,1,0,1,0,7752.458481,"Europe",32
+204,"Y",2018-02-01,2018-02-01,2e+08,17,"UK","Health",4.4,4.5,4.1,"Ethereum","2",1,1,2,0,1,1,0,9170.540039,"Europe",0
+205,"Y",2018-02-10,2017-12-11,4.75e+09,23,"Philippines","Platform,Cryptocurrency,Retail",3.7,4.6,3.7,"NEM","3",1,1,1,0,0.43,1,0,13336.15245,"Asia",61
+206,"N",2018-03-31,2018-03-01,25,11,"France","Business services,Communication",2,0,0,"Ethereum","1",1,0,0,0,0.36,1,0,9040.557097,"Europe",30
+207,"Y",2018-03-20,2018-03-01,2e+07,10,"Singapore","Cryptocurrency,Infrastructure,Smart Contract",3.4,4.1,3.2,"Ethereum","1",1,1,0,1,1,1,0,9576.466455,"Asia",19
+208,"Y",2017-08-10,2017-07-23,2.1e+07,4,"Latvia","Casino & Gambling",1.8,0,0,"Ethereum","2",1,0,0,0,0,1,1,2923.683131,"Europe",18
+209,"Y",2018-05-11,2018-03-12,53760000,18,"Seychelles","Real estate",4.2,4.5,4,"Ethereum","1",1,1,0,1,0.94,1,0,8351.810643,"Africa",60
+210,"Y",2018-05-29,2018-05-01,5.6e+07,7,"Switzerland","Entertainment,Communication,Tourism",2.6,0,0,"Ethereum","1",1,1,0,1,0,1,1,8520.008267,"Europe",28
+211,"Y",2017-09-06,2017-08-08,2e+08,24,"Singapore","Platform,Cryptocurrency",2.9,0,0,"Ethereum","unknown",1,1,3,0,0.97,1,1,4219.968335,"Asia",29
+212,"N",2018-06-01,2018-05-01,0,4,"Netherlands","Tourism",2,1,1,"Waves","2",1,0,0,0,1,1,0,8422.574371,"Europe",31
+213,"N",2017-12-23,2017-11-24,1.42e+08,15,"Russia","Investment",3.5,4,3.7,"Ethereum","5",1,1,2,1,0.87,1,0,14141.164,"Europe",29
+214,"N",2018-01-30,2018-01-05,0,2,"Netherlands","Platform,Cryptocurrency,Business services,Investment,Infrastructure,Retail",2,2,2,"Ethereum","2",1,0,0,0,1,0,0,12922.75774,"Europe",25
+215,"Y",2018-01-30,2017-12-10,1.2e+07,16,"Cyprus","Business services,Cryptocurrency,Investment,Platform",3,0,0,"Ethereum","unknown",1,1,0,0,0,1,0,14397.45196,"Asia",51
+216,"N",2018-06-11,2018-04-01,49978560,12,"Bulgaria","Business services,Platform,Software",3.2,3.6,3.6,"Ethereum","1",1,1,0,1,0,0,0,8128.114848,"Europe",71
+217,"N",2018-06-10,2018-04-03,1.4e+09,4,"Singapore","Investment,Internet,Entertainment,Energy,Electronics,Education,Communication,Business services,Big Data,Artificial Intelligence,Art,Media,Platform,Smart Contract,Software,Virtual Reality",2.3,0,0,"Ethereum","1",1,0,0,1,0,1,0,8179.555353,"Asia",68
+218,"N",2018-03-31,2018-02-01,8e+07,8,"Croatia","Platform",2.4,0,0,"Ethereum","1",1,1,0,0,0.88,1,0,9245.310208,"Europe",58
+219,"N",2018-03-18,2018-01-16,9e+06,4,"USA","Real estate",2.4,0,0,"Ethereum","2",1,0,0,0,0.75,1,0,9998.431341,"Americas",61
+220,"Y",2017-11-30,2017-09-18,720000,4,"Guinea-Bissau","Energy,Internet,Infrastructure,Electronics",2.3,0,0,"Ethereum","1",1,0,3,0,1,1,1,6106.55282,"Africa",73
+221,"N",2018-05-30,2018-02-02,49,7,"UK","Business services,Casino & Gambling,Cryptocurrency,Media,Other,Platform,Retail",2.7,2.4,1.7,"Ethereum","1",1,0,0,1,0,0,0,8744.04594,"Europe",117
+222,"Y",2017-12-28,2017-11-29,3141592653,9,"Singapore","Platform,Infrastructure",2.4,0,0,"Ethereum","1",1,0,1,0,0,1,0,15082.66032,"Asia",29
+223,"N",2017-11-18,2017-10-18,0,7,"USA","Banking,Cryptocurrency",1.8,0,0,"Ethereum","1",0,1,0,0,1,1,0,6567.774994,"Americas",31
+224,"N",2018-05-31,2018-04-18,0,17,"Ireland","Software,Platform",2.7,3.8,3.1,"Ethereum","1",1,1,0,1,0.41,0.59,1,8607.57544,"Europe",43
+225,"Y",2018-04-08,2018-02-26,1.4e+07,21,"Russia","Health,Cryptocurrency,Artificial Intelligence,Infrastructure,Platform",4.4,4.4,4.1,"Ethereum","2",1,1,2,1,0.86,1,0,8746.853562,"Europe",41
+226,"Y",2017-09-05,2017-08-08,3141592653,9,"Singapore","Media",3.1,3,4,"Ethereum","2",1,1,2,1,0,1,0,4206.963101,"Asia",28
+227,"Y",2017-10-20,2017-09-14,6.3e+09,14,"UK","Cryptocurrency",4,4.4,4.2,"Electroneum","2",1,1,3,1,0.79,1,0,4487.889998,"Europe",36
+228,"Y",2017-11-04,2017-10-10,6.6e+07,11,"Switzerland","Retail",3.5,3.3,3.3,"Ethereum","2",1,1,0,0,1,1,0,5951.047288,"Europe",25
+229,"Y",2017-12-19,2017-11-28,4e+08,12,"UK","Business services,Platform,Banking",3.6,4.3,3.2,"Ethereum","2",1,1,3,1,1,1,0,14867.40501,"Europe",21
+230,"Y",2017-10-06,2017-09-08,3.5e+08,17,"Australia","Energy",3.4,3,3,"Ethereum","1",1,1,3,0,0.12,1,0,4004.849306,"Oceania",28
+231,"Y",2018-04-30,2018-04-01,140714286,9,"Georgia","Platform,Software,Sports,Tourism,Virtual Reality",3.9,4.4,4,"Ethereum","4",1,1,3,1,1,1,1,8033.596631,"Asia",29
+232,"Y",2018-05-31,2018-05-01,5.5e+09,6,"Switzerland","Casino & Gambling",2.8,0,0,"Ethereum","2",1,0,0,0,1,1,0,8450.997732,"Europe",30
+233,"N",2017-10-31,2017-10-01,1.28e+09,10,"United Arab Emirates","Energy",2.6,0,0,"Ethereum","2",1,1,0,1,0,1,1,5360.071604,"Asia",30
+234,"N",2018-05-16,2018-04-16,0,11,"Gibraltar","Artificial Intelligence",2.5,3,2.3,"Ethereum","2",1,0,0,1,0,1,0,8976.416772,"Europe",30
+235,"Y",2018-05-21,2018-03-05,1e+07,9,"Slovak Republic","Big Data,Infrastructure,Investment,Platform",2.1,0,0,"Ethereum","1",1,1,0,0,0.56,1,0,8503.92242,"Europe",77
+236,"N",2018-04-03,2018-03-19,0,16,"India","Business services,Education,Energy",2.3,0,0,"Ethereum","1",1,1,0,1,0,0,0,7978.512543,"Asia",15
+237,"Y",2018-02-28,2018-02-21,52941177,10,"Japan","Charity,Tourism",2.1,0,0,"Ethereum","1",1,0,0,0,0,1,0,10245.56262,"Asia",7
+238,"N",2018-05-31,2018-03-25,3.18e+08,10,"New Caledonia","Platform,Investment",2.7,2.6,2.9,"Ethereum","1",1,0,0,0,0.9,1,0,8183.989402,"Oceania",67
+239,"N",2018-01-15,2017-12-15,0,14,"Japan","Platform,Other",3.4,5,3,"Ethereum","1",1,0,0,1,0,1,1,15481.47809,"Asia",31
+240,"N",2018-05-01,2018-03-01,6e+06,5,"USA","Platform,Cryptocurrency,Business services,Banking",1.7,1.5,1.8,"Ethereum","unknown",1,0,0,0,1,1,1,8554.583528,"Americas",61
+241,"Y",2018-04-20,2018-01-31,2.5e+08,12,"Singapore","Cryptocurrency,Art,Platform,Software",3.4,3.4,3.2,"Ethereum","4",1,1,3,0,0,1,0,8815.668384,"Asia",79
+242,"Y",2018-04-30,2018-03-16,770,22,"Cayman Islands","Business services,Cryptocurrency,Platform,Software",4.5,4.8,4.4,"Ethereum","1",1,1,0,0,0.94,1,1,8081.714547,"Americas",45
+243,"N",2017-12-01,2017-11-01,8e+07,15,"France","Internet,Business services,Infrastructure",3.3,4,4.6,"Ethereum","1",1,1,0,1,1,1,0,7915.148028,"Europe",30
+244,"Y",2018-04-30,2018-02-12,1.692e+09,29,"Gibraltar","Platform",3.5,4.2,2.7,"Ethereum","1",1,1,0,1,0.21,1,0,8909.525391,"Europe",77
+245,"Y",2018-01-04,2017-12-07,2.75e+08,38,"Switzerland","Investment,Platform",3.6,4.4,2.9,"Ethereum","1",1,1,3,0,0.95,0.97,0,15942.17588,"Europe",28
+246,"Y",2017-12-01,2017-11-28,4.6e+07,13,"Russia","Retail,Health,Manufacturing,Platform",3.8,4,4.1,"Ethereum","2",1,1,2,0,0.85,0.92,1,10289.15234,"Europe",3
+247,"N",2018-05-29,2018-04-02,42500000,3,"Russia","Cryptocurrency,Entertainment,Investment",2,2,1,"Ethereum","1",1,0,0,0,0,1,0,8297.308771,"Europe",57
+248,"Y",2018-05-31,2018-04-12,1.28e+09,36,"Singapore","Software",4.5,4.6,4.5,"Ethereum","2",1,1,2,1,0.83,1,1,8535.892793,"Asia",49
+249,"N",2018-02-28,2018-01-15,3e+07,7,"Ukraine","Health",2.4,3,2.7,"Ethereum","2",1,1,0,0,0,1,1,10216.3852,"Europe",44
+250,"Y",2018-02-28,2017-12-05,3600000,7,"Bulgaria","Electronics,Manufacturing",2,3,3,"Ethereum","unknown",1,1,0,0,0,1,1,12790.23411,"Europe",85
+251,"N",2017-12-31,2017-11-25,1e+07,7,"Poland","Software",3,0,0,"Ethereum","2",1,1,0,1,1,1,0,14384.95215,"Europe",36
+252,"N",2018-03-31,2017-12-31,6.6e+07,14,"Russia","Platform",2.7,2,3.5,"Ethereum","1",1,1,0,0,0.43,1,1,10607.49454,"Europe",90
+253,"N",2018-02-23,2017-10-22,0,12,"USA","Entertainment,Platform",2.6,4,5,"Ethereum","2",1,1,0,0,0.5,1,1,11102.59601,"Americas",124
+254,"N",2018-03-15,2018-02-04,0,12,"USA","Tourism",3.1,0,0,"Ethereum","1",1,1,3,1,1,1,0,9688.653296,"Americas",39
+255,"N",2017-12-14,2017-12-01,1e+07,14,"Germany","Communication,Platform,Business services",2.6,2,2,"Ethereum","1",1,1,0,1,1,1,1,14547.56431,"Europe",13
+256,"N",2018-03-18,2018-02-19,35,10,"Singapore","Platform,Tourism",2.2,1,1,"Ethereum","3",1,0,0,1,0,1,0,9949.239642,"Asia",27
+257,"Y",2018-05-07,2017-12-09,1e+09,8,"UK","Entertainment,Media",2,1,1,"Ethereum","1",1,0,0,1,0.75,1,0,10848.22342,"Europe",149
+258,"Y",2018-02-28,2018-01-10,1e+08,18,"Russia","Cryptocurrency",3.9,4.4,4.4,"Bitshares 2.0","4",1,1,2,1,0.06,1,0,10604.58467,"Europe",49
+259,"N",2018-04-14,2018-02-14,7.2e+07,7,"Czech Republic","Entertainment",1.9,1,1,"Ethereum","1",1,0,0,0,0,0.57,0,8939.597347,"Europe",59
+260,"Y",2018-04-15,2018-02-01,15700000,7,"Russia","Health,Platform",3.7,3.1,2.7,"Ethereum","2",1,1,0,1,0.91,1,0,8834.703402,"Europe",73
+261,"Y",2018-05-01,2018-04-01,8800000,5,"South Africa","Cryptocurrency,Investment",2.4,2,3,"Ethereum","1",1,1,0,1,0.6,1,0,8068.609958,"Africa",30
+262,"N",2017-12-24,2017-11-03,7e+09,4,"Thailand","Platform,Investment,Business services",2,0,0,"Ethereum","1",1,0,1,0,0,1,0,11391.04576,"Asia",51
+263,"N",2017-12-07,2017-11-07,6.7e+07,20,"Lithuania","Platform,Business services",3.2,4,3.5,"Ethereum","1",1,1,0,1,0.95,1,0,9053.832204,"Europe",30
+264,"Y",2018-11-01,2018-12-01,15,19,"Germany","Cryptocurrency",4.6,5,4.6,"Ethereum","1",1,1,0,1,0.56,0.89,0,0,"Europe",-30
+265,"N",2017-11-12,2017-10-15,5e+07,13,"UK","Tourism,Platform",2.8,2.8,2.7,"Ethereum","1",1,1,0,0,0.08,1,1,6320.568242,"Europe",28
+266,"N",2017-10-06,2017-09-01,4.4e+07,11,"UK","Banking,Cryptocurrency,Investment,Platform,Business services",1.9,0,0,"unknown","unknown",1,1,0,0,0.64,0.45,1,4111.228041,"Europe",35
+267,"Y",2018-05-30,2018-04-07,1e+08,16,"Turkey","Internet,Media,Smart Contract",3.9,5,4,"Ethereum","1",1,1,0,1,1,1,1,8403.868318,"Asia",53
+268,"Y",2018-06-09,2018-04-25,1e+07,3,"Dubai","Business services",2,0,0,"Ethereum","2",1,0,0,0,0,1,0,8383.605225,"Asia",45
+269,"N",2017-11-12,2017-10-31,0,7,"Japan","Entertainment,Platform",2.1,0,0,"Ethereum","unknown",1,0,0,0,0.43,1,0,6923.503831,"Asia",12
+270,"N",2017-12-17,2017-11-17,2.1e+07,8,"Malta","Business services",2.9,2,2,"Ethereum","3",1,1,0,0,1,1,1,12338.23778,"Europe",30
+271,"N",2017-09-01,2017-08-01,0,3,"USA","Business services,Internet",2.3,0,0,"unknown","unknown",1,0,0,0,0,1,0,3912.584366,"Americas",31
+272,"Y",2018-05-31,2018-03-01,2.5e+09,10,"United Kingdom","Banking,Cryptocurrency,Investment",2.9,0,0,"Ethereum","4",1,1,0,0,0.9,1,1,8513.54455,"Europe",91
+273,"Y",2018-05-11,2018-02-02,28200000,7,"Spain","Communication,Electronics,Internet,Software",3.5,3.8,2.8,"Ethereum","1",1,1,3,1,0.86,1,0,8889.309107,"Europe",98
+274,"N",2018-05-20,2018-03-20,3500000,11,"USA","Investment",3.2,3.7,3.3,"Ethereum","4",1,1,0,0,0.91,1,1,8343.72257,"Americas",61
+275,"N",2018-03-31,2018-01-19,1.5e+07,6,"Curacao","Casino & Gambling",2.1,0,0,"Ethereum","unknown",1,0,0,0,0.17,1,0,9611.400058,"Americas",71
+276,"Y",2018-06-06,2018-05-31,5.04e+08,27,"Singapore","Business services,Platform,Software",4.1,3.9,3.6,"Ethereum","3",1,1,3,1,1,1,1,7600.21861,"Asia",6
+277,"Y",2018-02-18,2018-01-18,92233720,16,"USA","Cryptocurrency,Business services,Retail,Software,Internet",3.4,3.3,3.4,"Separate blockchain","4",1,1,2,1,0.81,0.94,1,9957.654175,"Americas",31
+278,"N",2018-02-12,2017-11-05,0,10,"Singapore","Cryptocurrency,Business services,Software",1.3,2,2,"unknown","2",1,0,0,0,0,0,0,11861.99961,"Asia",99
+279,"N",2018-03-19,2018-02-19,4e+08,2,"Czech Republic","Cryptocurrency,Entertainment,Infrastructure,Platform,Smart Contract,Virtual Reality",1.6,0,0,"Ethereum","1",1,0,0,0,0.5,1,1,9903.771047,"Europe",28
+280,"N",2018-05-04,2018-04-04,8e+06,14,"United States","Investment",2.3,2,1,"Ethereum","1",1,1,0,0,0,1,0,8303.977712,"Americas",30
+281,"Y",2017-05-31,2017-04-25,150720000,11,"Estonia","Platform,Cryptocurrency",3,0,0,"unknown","1",1,1,0,0,0.45,1,1,1800.198631,"Europe",36
+282,"N",2017-10-17,2017-09-18,0,7,"Russia","Cryptocurrency",2,0,0,"Ethereum","1",0,1,0,0,0.29,1,0,4491.362663,"Europe",29
+283,"Y",2018-03-12,2017-12-10,6.93e+08,37,"Russia","Tourism,Cryptocurrency",3.6,3.9,3.3,"Separate blockchain","2",1,1,0,1,0.43,1,0,12342.42381,"Europe",92
+284,"N",2018-06-10,2018-04-16,21750000,13,"British Virgin Islands","Artificial Intelligence,Banking,Cryptocurrency,Investment",3.1,2,2,"Ethereum","1",1,1,0,1,0,1,0,8393.260707,"Americas",55
+285,"N",2018-03-15,2018-01-20,0,8,"South Africa","Platform,Sports",3,4,5,"Ethereum","6",1,1,0,1,1,1,0,9993.862429,"Africa",54
+286,"Y",2017-10-29,2017-09-29,5e+08,16,"USA","Tourism,Infrastructure,Other",2.3,3.2,2,"Ethereum","1",1,1,0,1,0.06,1,0,5227.905478,"Americas",30
+287,"N",2018-03-31,2017-12-15,29750000,11,"Latvia","Business services,Platform",3.3,0,0,"Ethereum","5",1,1,0,1,0,0,0,11416.65517,"Europe",106
+288,"Y",2018-05-09,2018-02-27,9.5e+08,19,"South Africa","Casino & Gambling,Entertainment",3.6,4,3.9,"Ethereum","2",1,1,0,1,0.68,1,0,8717.141371,"Africa",71
+289,"Y",2017-11-05,2017-10-07,8e+07,6,"Estonia","Real estate,Tourism",3.3,0,0,"Ethereum","2",1,0,0,0,1,1,0,5864.800993,"Europe",29
+290,"Y",2018-03-06,2018-02-06,2e+10,23,"UK","Banking,Platform",3.7,3.6,3.8,"Ethereum","1",1,1,0,0,0.96,1,1,10006.91216,"Europe",28
+291,"N",2017-12-07,2017-11-06,1e+07,4,"Singapore","Platform,Banking,Business services",3,1.7,3.3,"Ethereum","5",1,1,0,0,1,1,1,8990.361191,"Asia",31
+292,"N",2018-01-02,2017-11-01,0,9,"USA","Business services,Cryptocurrency,Software",2.6,3,3,"Ethereum","1",1,1,0,1,0.89,1,0,11700.88396,"Americas",62
+293,"Y",2018-02-22,2018-02-11,240,8,"Singapore","Cryptocurrency,Investment",2.9,0,0,"Ethereum","1",1,0,1,1,0,1,0,10044.8901,"Asia",11
+294,"Y",2018-03-07,2018-01-25,3500000,32,"Estonia","Banking,Big Data,Cryptocurrency,Investment,Other,Platform,Software",2.4,3.3,3.1,"Ethereum","3",1,1,0,0,0.38,1,1,9996.573893,"Europe",41
+295,"N",2017-12-21,2017-09-21,0,12,"Estonia","Entertainment,Casino & Gambling",3.6,0,0,"Ethereum","1",1,1,0,1,0,1,0,8362.154231,"Europe",91
+296,"Y",2018-03-31,2018-03-01,4e+08,18,"Cayman Islands","Internet,Communication",4.1,4.4,3.9,"Ethereum","3",1,1,0,0,1,1,1,9040.557097,"Americas",30
+297,"Y",2018-02-22,2017-12-18,3.6e+07,10,"Ukraine","Investment,Business services",2.2,1,1,"unknown","4",1,1,0,0,0.6,1,1,12294.18852,"Europe",66
+298,"N",2018-06-10,2018-05-21,1900000,4,"Perú","Education",4.1,0,0,"Ethereum","unknown",1,1,0,1,1,1,0,7554.664783,"Americas",20
+299,"Y",2018-03-31,2018-02-28,1e+08,12,"Mexico","Platform,Banking",3,3.5,2.7,"Ethereum","1",1,1,0,0,1,1,1,9082.974075,"Americas",31
+300,"N",2017-12-10,2017-11-10,2e+08,8,"France","Real estate,Manufacturing",2.6,2.7,2.7,"Ethereum","1",1,1,0,1,1,1,0,9874.972562,"Europe",30
+301,"Y",2018-05-10,2018-04-10,230400000,10,"Estonia","Business services,Platform,Smart Contract",4,4.6,3.6,"Ethereum","1",1,1,0,1,1,1,1,8803.427089,"Europe",30
+302,"N",2018-01-25,2017-12-11,1.5e+08,11,"Czech Republic","Cryptocurrency,Platform,Smart Contract",2.6,0,0,"Ethereum","2",1,0,0,1,0.73,1,0,14726.32611,"Europe",45
+303,"N",2018-05-01,2018-04-01,2.7e+08,9,"Netherlands","Cryptocurrency",1.8,1.3,1.7,"Ethereum","1",1,0,0,0,0,1,0,8068.609958,"Europe",30
+304,"N",2018-03-24,2018-02-24,1e+06,4,"United States","Cryptocurrency",2.4,0,0,"Bitcoin, Scrypt","unknown",1,0,0,0,1,1,0,9575.959321,"Americas",28
+305,"Y",2018-04-30,2018-01-31,1e+07,5,"UK","Real estate,Tourism",3.4,0,0,"Ethereum","1",1,1,0,0,1,0.8,1,8852.247787,"Europe",89
+306,"N",2017-08-28,2017-07-28,0,8,"Brazil","Business services",1.9,0,0,"unknown","unknown",1,0,0,1,0,1,0,3675.967499,"Americas",31
+307,"Y",2018-03-23,2018-03-16,1e+08,6,"Singapore","Cryptocurrency,Smart Contract,Software",3.1,4,5,"NEO","unknown",1,1,3,1,1,1,0,8570.049927,"Asia",7
+308,"N",2017-10-16,2017-10-02,5e+05,4,"Russia","Business services",1.9,3,2,"Ethereum","2",1,0,0,0,0,1,0,4893.528678,"Europe",14
+309,"Y",2018-04-21,2018-03-21,20271000,21,"Czech Republic","Education,Cryptocurrency,Internet,Infrastructure,Electronics,Communication,Business services,Big Data,Investment,Legal,Media,Other,Platform,Smart Contract,Software",4.2,4.3,4.1,"Ethereum","2",1,1,0,1,0.85,1,0,7724.455933,"Europe",31
+310,"Y",2017-10-09,2017-09-25,1e+07,14,"Russia","Platform,Banking",2.8,0,0,"Ethereum","3",1,1,0,0,0,1,0,4304.274007,"Europe",14
+311,"N",2018-05-30,2018-05-01,5e+10,11,"Nigeria","Investment,Health,Entertainment,Education,Charity,Business services,Artificial Intelligence,Platform,Real estate,Retail",3.9,0,0,"Ethereum","1",1,1,2,0,1,1,1,8482.891992,"Africa",29
+312,"N",2018-01-14,2017-12-23,0,4,"USA","Business services,Platform,Software,Big Data",2.3,0,0,"Ethereum","1",1,0,2,1,0.75,0,0,14873.57388,"Americas",22
+313,"Y",2018-04-30,2018-03-11,7e+09,3,"UK","Investment",1.8,1,1,"Ethereum","1",0,0,0,0,0,1,0,8162.90468,"Europe",50
+314,"N",2018-04-13,2018-04-09,3.5e+07,9,"Thailand","Banking,Smart Contract,Software,Tourism",2.4,4,3,"Ethereum","unknown",1,1,0,0,1,1,0,7271.803906,"Asia",4
+315,"N",2018-05-20,2018-03-20,1,17,"New Zealand","Communication,Cryptocurrency,Infrastructure,Internet,Investment,Platform,Software",2.8,0,0,"Ethereum","2",1,0,0,1,0.59,1,0,8343.72257,"Oceania",61
+316,"Y",2018-03-21,2018-03-08,24157817,13,"Malta","Artificial Intelligence,Big Data,Investment,Legal,Platform,Software",4.2,4.7,4.1,"Ethereum","1",1,1,0,0,1,1,1,8792.867048,"Europe",13
+317,"Y",2018-06-01,2018-05-01,7.5e+08,17,"Spain","Platform,Business services,Real estate,Retail",4.5,4.7,4.4,"Ethereum","3",1,1,0,1,0,0,0,8422.574371,"Europe",31
+318,"N",2018-04-25,2018-03-12,5.5e+11,5,"Canada","Sports",2.5,0,0,"Ethereum","1",1,0,0,0,0.8,1,0,8010.063086,"Americas",44
+319,"N",2018-06-01,2018-02-01,1.4e+08,8,"Cyprus","Tourism",3.2,4,4,"Ethereum","1",1,1,0,1,1,1,1,8727.302323,"Asia",120
+320,"Y",2018-04-30,2018-04-15,1.68e+08,7,"Singapore","Communication,Cryptocurrency",3.5,2.9,3.2,"Ethereum","2",1,1,1,0,1,1,0,8815.141235,"Asia",15
+321,"Y",2017-04-28,2017-03-27,1.01e+08,4,"Singapore","Business services,Platform",3.6,4.5,4.2,"Ethereum","unknown",1,1,0,0,0.75,1,0,1174.565463,"Asia",32
+322,"N",2018-03-04,2018-02-11,3.6e+08,34,"Luxembourg","Platform,Cryptocurrency,Business services,Internet",2.6,3,3,"unknown","unknown",1,0,0,0,0.88,1,1,10311.24918,"Europe",21
+323,"Y",2017-12-15,2017-11-17,2.7e+07,5,"France","Platform,Communication,Cryptocurrency,Entertainment,Business services",2.4,0,0,"Ethereum","1",1,1,0,0,1,1,1,11856.79896,"Europe",28
+324,"N",2018-03-30,2018-01-02,0,15,"Australia","Entertainment",1.8,0,0,"Ethereum","unknown",1,1,0,0,0,1,0,10573.80538,"Oceania",87
+325,"N",2017-12-22,2017-11-21,1e+07,7,"Lithuania","Retail,Platform",1.6,0,0,"Ethereum","1",0,0,0,0,0.71,1,0,13559.3531,"Europe",31
+326,"N",2018-03-15,2018-02-10,2.1e+08,12,"USA","Cryptocurrency,Business services,Investment",4.5,5,4.8,"Ethereum","1",1,1,0,1,1,1,0,9998.117116,"Americas",33
+327,"Y",2018-06-08,2018-04-01,2.54e+08,18,"Singapore","Business services,Cryptocurrency,Energy,Infrastructure,Investment,Platform,Smart Contract,Software",3.4,0,0,"Ethereum","3",1,1,0,0,0.83,1,0,8173.903611,"Asia",68
+328,"N",2018-04-11,2018-03-16,3038234,7,"Netherlands","Investment",2.5,0,0,"Ethereum","1",1,1,0,0,1,1,0,7664.635525,"Europe",26
+329,"N",2017-10-19,2017-07-19,3e+08,4,"USA","Retail",1.8,0,0,"unknown","1",1,1,0,0,0,1,0,3999.645479,"Americas",92
+330,"N",2017-10-15,2017-09-15,2.98e+08,6,"Russia","Tourism",1.6,0,0,"Ethereum","1",0,0,0,0,0,1,0,4330.813555,"Europe",30
+331,"Y",2018-06-01,2018-02-28,5e+08,14,"UK","Banking",3.1,4,3.6,"unknown","unknown",1,1,0,0,0.93,1,0,8523.24946,"Europe",93
+332,"Y",2018-04-01,2018-01-31,256250000,18,"UK","Platform,Business services,Investment",3.6,3.2,3.6,"Ethereum","1",1,1,3,1,0.5,0.94,0,9221.944784,"Europe",60
+333,"N",2018-06-11,2018-05-14,1.2e+07,2,"Afghanistan","Health",1.7,2,2.5,"Ethereum","1",1,0,0,0,0,1,0,7732.986193,"Asia",28
+334,"Y",2018-04-24,2018-03-25,7.5e+08,2,"Indonesia","Energy,Platform,Investment",2.3,0,0,"Ethereum","1",1,0,0,0,1,1,0,7722.836757,"Asia",30
+335,"Y",2018-04-13,2018-03-01,4,16,"Netherlands","Banking,Platform",3.3,0,0,"Ethereum","2",1,0,0,0,0.94,0.88,0,8459.924294,"Europe",43
+336,"Y",2018-02-28,2018-02-03,9500000,16,"Switzerland","Investment",3.5,4.4,3.7,"Ethereum","2",1,1,0,1,1,1,0,9508.259315,"Europe",25
+337,"Y",2017-12-29,2017-12-01,336600000,21,"Lithuania","Education,Platform",4,4.1,3.5,"Ethereum","1",1,1,0,1,0.67,1,0,15414.26896,"Europe",28
+338,"N",2017-09-18,2017-08-18,9e+07,18,"Singapore","Platform,Internet,Software",2.1,0,0,"Ethereum","1",1,0,0,0,0,0.94,0,4220.290001,"Asia",31
+339,"N",2018-06-10,2018-05-25,2.5e+08,16,"Singapore","Platform",3.6,5,3,"Ethereum","1",1,1,3,0,1,1,0,7473.060633,"Asia",16
+340,"Y",2018-04-15,2018-01-29,3.5e+08,12,"Mexico","Health",4.2,4.5,4.7,"Ethereum","unknown",1,1,0,1,1,0.91,1,8901.192878,"Americas",76
+341,"N",2017-11-30,2017-11-01,0,7,"Romania","Cryptocurrency",1.9,0,0,"Ethereum","1",1,0,0,0,1,0.86,0,7813.132975,"Europe",29
+342,"Y",2018-02-16,2018-01-18,1e+08,12,"France","Education,Platform",3.5,3.8,3.2,"Ethereum","1",1,1,3,1,1,1,0,9899.347787,"Europe",29
+343,"N",2017-07-31,2017-07-14,3e+06,4,"USA","Banking,Cryptocurrency",1.4,0,0,"unknown","unknown",1,1,0,0,0,0,0,2539.398329,"Americas",17
+344,"Y",2018-04-01,2018-03-01,200,5,"United States","Cryptocurrency,Education,Health,Media",3,1,1,"Ethereum","1",1,0,3,0,0.4,1,0,8971.921875,"Americas",31
+345,"N",2018-02-15,2017-12-01,0,4,"USA","Platform,Cryptocurrency",1.3,0,0,"Ethereum","unknown",1,0,0,0,1,1,0,13097.38743,"Americas",76
+346,"N",2018-03-25,2018-02-26,1e+09,13,"Switzerland","Platform,Business services",1.8,0,0,"Ethereum","2",1,0,0,0,0.85,1,0,9525.74285,"Europe",27
+347,"Y",2018-03-26,2018-02-14,481500000,24,"British Virgin Islands","Platform",2.8,2.9,2.6,"Ethereum","4",1,1,0,1,0.83,1,1,9746.169064,"Americas",40
+348,"N",2018-01-31,2018-01-01,8e+07,5,"United Arab Emirates","Platform",2.5,0,0,"Ethereum","1",1,0,0,1,1,1,0,13085.55809,"Asia",30
+349,"Y",2018-02-08,2018-01-08,6e+08,4,"USA","Cryptocurrency,Platform,Entertainment,Internet,Media",3.1,2.3,2.1,"Ethereum","1",1,1,0,1,1,1,1,11275.87721,"Americas",31
+350,"Y",2018-04-23,2018-03-26,20,6,"UK","Cryptocurrency,Investment",3.1,0,0,"Scrypt","4",1,1,3,1,0.33,1,0,7628.091696,"Europe",28
+351,"N",2017-10-24,2017-08-25,1e+09,3,"USA","Platform,Cryptocurrency,Business services,Internet",2.6,0,0,"Ethereum","3",1,1,0,0,1,1,0,4549.215732,"Americas",60
+352,"N",2017-12-17,2017-12-12,9100000,5,"Spain","Platform,Banking,Investment",2.8,0,0,"Waves","unknown",1,0,0,0,1,1,0,17788.78353,"Europe",5
+353,"N",2018-02-25,2018-02-05,109923077,8,"Gibraltar","Health,Platform",2.7,3,2.8,"Ethereum","1",1,0,0,1,1,1,1,9441.553432,"Europe",20
+354,"Y",2018-05-21,2018-03-20,1e+11,25,"USA","Big Data,Infrastructure,Internet,Smart Contract",4.2,4.3,4.1,"Ethereum","1",1,1,0,1,1,1,1,8344.917295,"Americas",62
+355,"N",2017-12-23,2017-11-01,8.4e+07,12,"Russia","Business services",3.1,2,4,"Ethereum and Waves","3",1,1,2,1,0,1,0,11174.61113,"Europe",52
+356,"N",2018-06-01,2018-03-19,8e+06,18,"Russia","Art,Media",2.3,1,1,"Ethereum","1",1,0,0,1,0,1,1,8224.031198,"Europe",74
+357,"N",2017-10-20,2017-09-18,8.5e+07,7,"USA","Education,Internet,Platform,Entertainment",1.6,0,0,"Ethereum","1",0,0,0,0,0,1,0,4607.622425,"Americas",32
+358,"Y",2018-05-19,2018-04-03,4453135,27,"Norway","Investment",4.1,4.5,4.6,"Ethereum","1",1,1,0,1,1,1,0,8451.661891,"Europe",46
+359,"Y",2017-12-24,2017-11-24,7e+06,6,"Russia","Cryptocurrency,Platform,Business services,Retail",2.7,2,3,"Ethereum","2",1,0,0,0,1,1,0,14134.21677,"Europe",30
+360,"Y",2018-05-31,2018-05-01,5e+07,16,"Cyprus","Platform,Other,Investment,Cryptocurrency,Business services,Big Data",4.3,4.4,4.2,"Ethereum","5",1,1,2,0,0.38,0.94,1,8450.997732,"Asia",30
+361,"Y",2017-11-16,2017-10-19,1e+07,16,"Israel","Internet,Platform",3,3.4,2.6,"Ethereum","1",1,1,3,1,0.88,1,1,6519.964473,"Asia",28
+362,"N",2017-10-30,2017-10-16,7.2e+07,6,"Russia","Business services,Platform",2.7,2.5,3.1,"Ethereum","1",1,1,0,0,0,1,0,5840.849284,"Europe",14
+363,"Y",2017-12-15,2017-11-15,6.3e+07,8,"USA","Platform,Business services",2.3,0,0,"Ethereum","5",1,0,0,0,1,1,0,11581.75484,"Americas",30
+364,"N",2017-12-01,2017-11-01,0,5,"Israel","Sports",1.9,2.6,2,"Waves","3",1,0,0,0,0,0.8,0,7915.148028,"Asia",30
+365,"Y",2017-05-25,2017-05-19,5e+08,15,"USA","Platform,Software",2.5,0,0,"Ethereum","unknown",1,1,3,1,0,1,1,2193.725656,"Americas",6
+366,"N",2018-01-15,2017-12-01,1500000,9,"Russia","Manufacturing,Platform,Business services,Retail,Real estate",1.7,1.7,1,"Ethereum","1",1,1,0,0,0,1,1,15197.24346,"Europe",45
+367,"N",2018-05-31,2018-03-01,0,4,"USA","Investment",1.2,1,1,"Ethereum","1",1,0,0,0,0,1,1,8513.54455,"Americas",91
+368,"N",2017-11-30,2017-11-01,6e+07,9,"USA","Software,Platform",2.4,2.9,3.5,"Ethereum","1",1,1,0,0,1,1,0,7813.132975,"Americas",29
+369,"Y",2018-05-15,2018-01-08,5e+08,17,"Belize","Platform,Business services,Internet",3.1,3,2,"Ethereum","2",1,1,3,0,0.65,1,0,9519.115959,"Americas",127
+370,"N",2017-12-31,2017-12-18,7500000,4,"Gibraltar","Platform,Casino & Gambling",2.1,3.2,2.6,"Ethereum","1",0,0,0,0,0,1,0,15293.67132,"Europe",13
+371,"N",2018-05-15,2018-03-16,4e+06,2,"Nigeria","Cryptocurrency,Investment,Smart Contract",2.2,3,3,"Ethereum","1",1,1,0,0,0,1,1,8343.373927,"Africa",60
+372,"N",2017-10-17,2017-10-10,1.2e+08,13,"Slovenia","Business services",2.7,3,3,"Ethereum","2",1,1,0,0,0.92,0.92,1,5442.95874,"Europe",7
+373,"Y",2018-03-09,2018-02-09,6e+09,34,"Germany","Investment,Artificial Intelligence,Banking,Cryptocurrency",3.6,4.1,3,"Ethereum","4",1,1,2,1,0.88,1,1,10181.29975,"Europe",28
+374,"N",2017-11-15,2017-10-15,38175000,6,"Russia","Platform,Business services",2.3,2,2,"Ethereum","1",1,1,0,0,1,1,0,6368.976852,"Europe",31
+375,"Y",2018-02-28,2018-02-17,6.5e+08,21,"Estonia","Sports,Health",4.2,4.7,3.8,"Ethereum","1",1,1,2,0,1,1,1,10521.50008,"Europe",11
+376,"N",2018-04-15,2017-11-15,34020000,4,"USA","Cryptocurrency",2,0,0,"unknown","2",1,1,0,0,0,1,1,10994.76547,"Americas",151
+377,"Y",2017-12-31,2017-11-25,5e+08,16,"South Korea","Cryptocurrency,Business services",3.7,4.2,3.1,"Ethereum","1",1,1,0,1,1,1,1,14384.95215,"Asia",36
+378,"Y",2018-03-31,2018-02-17,5.5e+07,5,"United States of America","Big Data,Communication,Cryptocurrency,Internet,Legal,Platform,Smart Contract",1.6,1,1,"Ethereum","unknown",1,0,0,0,0.8,0,0,9453.843512,"Americas",42
+379,"Y",2018-04-22,2017-12-10,5e+08,10,"USA","Health,Platform",3.2,3.9,3.2,"Waves","6",1,0,0,1,1,1,0,10982.23144,"Americas",133
+380,"N",2017-11-01,2017-09-30,0,10,"India","Cryptocurrency,Platform",3.3,4,3,"Ethereum","2",1,1,0,0,1,1,0,5371.764841,"Asia",32
+381,"Y",2017-09-22,2017-09-22,400230000,37,"Japan","Infrastructure,Platform",3.8,4.2,3.8,"Ethereum","1",1,1,3,1,0,1,1,3630.699951,"Asia",0
+382,"Y",2017-04-24,2017-04-24,1e+07,10,"Germany","Platform",3.5,5,3,"Ethereum","1",1,1,3,0,0,1,0,1250.150024,"Europe",0
+383,"N",2017-12-15,2017-11-15,6e+07,12,"Russia","Platform,Communication",2.1,0,0,"Ethereum","1",1,1,0,0,0.25,1,0,11581.75484,"Europe",30
+384,"N",2018-02-18,2018-01-29,4.2e+08,1,"USA","Media,Entertainment,Cryptocurrency,Other,Platform,Smart Contract",3.3,0,0,"Ethereum","1",1,1,0,1,1,1,0,9154.587193,"Americas",20
+385,"N",2018-05-30,2018-03-14,7e+06,1,"USA","Business services,Cryptocurrency,Investment,Smart Contract",2.1,0,0,"Ethereum","2",1,1,0,0,1,1,0,8241.2346,"Americas",77
+386,"N",2018-05-06,2018-04-16,7.5e+07,14,"British Virgin Islands","Media,Platform,Sports",2.5,3,2,"Ethereum","9",1,1,0,0,0.36,1,0,9048.840448,"Americas",20
+387,"N",2018-03-20,2018-02-20,2e+08,15,"UK","Charity,Cryptocurrency",2.1,3,1,"Ethereum","5",1,0,0,1,0.33,1,0,9824.052768,"Europe",28
+388,"Y",2018-05-25,2018-02-19,100,6,"British Virgin Islands","Artificial Intelligence,Big Data,Infrastructure,Manufacturing",2.4,0,0,"Ethereum","2",1,1,0,0,0,1,0,8787.564891,"Americas",95
+389,"Y",2018-01-12,2017-07-07,1e+07,3,"Marshall Islands","Business services,Platform,Internet",3,3,3,"Ethereum","2",1,0,3,1,0,1,1,7172.199408,"Oceania",189
+390,"N",2018-04-05,2018-02-20,2e+06,1,"Sweden","Cryptocurrency,Investment,Smart Contract",2.1,2,3,"Ethereum","1",1,1,0,0,1,1,1,9081.664909,"Europe",44
+391,"Y",2018-03-04,2017-12-17,5e+08,12,"UK","Platform,Business services",3.2,4,4,"Ethereum","4",1,1,0,0,1,1,0,12168.72093,"Europe",77
+392,"N",2018-03-02,2018-02-22,0,11,"Singapore","Cryptocurrency,Platform,Business services,Communication",2.5,4,4,"Ethereum","1",1,0,0,0,0,1,0,10367.94455,"Asia",8
+393,"N",2017-12-29,2017-10-20,2e+09,6,"United Arab Emirates","Cryptocurrency,Platform,Software",1.9,0,0,"Ethereum","1",1,0,0,1,0,1,0,10603.64252,"Asia",70
+394,"N",2018-06-10,2018-03-18,3.1e+07,2,"Germany","Education,Cryptocurrency",2.2,2,2,"Ethereum","1",1,0,0,0,1,1,1,8150.742234,"Europe",84
+395,"N",2017-12-04,2017-11-20,1.5e+08,12,"UK","Charity",2.9,3.4,2.4,"Ethereum","1",1,1,0,1,1,1,0,9597.955892,"Europe",14
+396,"N",2017-12-23,2017-12-14,0,9,"Switzerland","Investment,Health,Manufacturing",2.7,3,2.3,"Ethereum","2",1,1,0,1,1,1,0,17075.85,"Europe",9
+397,"N",2018-06-11,2018-04-16,27500000,9,"Lithuania","Software",2.4,0,0,"Ethereum","1",1,0,0,0,0.44,1,0,8367.184553,"Europe",56
+398,"Y",2018-02-16,2018-02-18,4e+07,7,"USA","Artificial Intelligence,Banking,Big Data,Infrastructure,Internet,Platform,Smart Contract",3.1,3.1,2.5,"Ethereum","1",1,0,0,1,1,0.71,0,0,"Americas",-2
+399,"Y",2018-02-14,2018-01-28,1.05e+08,5,"Cayman Islands","Cryptocurrency",3.3,3,4.6,"Ethereum","3",1,0,0,1,1,1,1,8998.212782,"Americas",17
+400,"Y",2018-02-18,2018-01-18,1e+08,6,"Russia","Internet,Platform",2.6,0,0,"Ethereum","3",1,1,0,0,0.5,1,0,9957.654175,"Europe",31
+401,"Y",2017-02-16,2017-02-15,750000,6,"Switzerland","Software",2.3,0,0,"unknown","1",1,0,2,0,1,1,0,1017.459961,"Europe",1
+402,"N",2017-08-06,2017-07-27,0,4,"UK","Communication",1.3,0,0,"unknown","unknown",0,0,0,1,0.5,1,0,2857.832697,"Europe",10
+403,"Y",2017-09-30,2017-08-02,9.8e+07,13,"Seychelles","Business services,Internet",2.9,0,0,"Ethereum","3",1,0,0,0,0.23,1,0,3992.291988,"Africa",59
+404,"Y",2018-04-30,2018-04-01,217500000,14,"Singapore","Infrastructure,Platform",3.9,4,3.9,"Ethereum","2",1,1,0,1,1,1,0,8033.596631,"Asia",29
+405,"N",2018-04-17,2018-02-22,2e+07,5,"Singapore","Business services,Internet,Platform,Retail",2.3,0,0,"Ethereum","1",1,1,0,1,0,1,1,8650.670543,"Asia",54
+406,"N",2017-12-20,2017-11-20,1.2e+07,9,"Estonia","Platform,Cryptocurrency,Business services,Investment,Retail,Software",3.1,3,4,"Ethereum","1",1,1,0,0,1,1,1,13305.33028,"Europe",30
+407,"N",2017-09-24,2017-05-27,12400786,11,"United Arab Emirates","Cryptocurrency",2.5,2,1,"unknown","unknown",1,0,3,1,0.64,1,0,3187.276362,"Asia",120
+408,"Y",2018-05-31,2018-04-15,1.5e+08,27,"Singapore","Media,Artificial Intelligence,Platform,Smart Contract",4,4.3,4,"Ethereum","1",1,1,0,1,0.88,1,0,8574.961478,"Asia",46
+409,"N",2018-06-01,2017-12-01,1e+08,5,"USA","Health,Cryptocurrency",1.8,2,1.8,"Ethereum","1",1,0,0,0,0,1,1,10578.0234,"Americas",182
+410,"N",2018-06-02,2018-04-23,1.2e+09,6,"USA","Internet,Cryptocurrency,Smart Contract,Software",2.4,0,0,"Ethereum","2",1,1,1,1,0.67,0,0,8558.941954,"Americas",40
+411,"Y",2018-03-31,2018-01-30,2.26e+16,8,"British Virgin Islands","Business services,Media,Software",2.8,0,0,"Ethereum","1",1,1,0,1,0,1,1,9275.421339,"Americas",60
+412,"N",2018-05-31,2018-05-01,0,10,"Russia","Platform",2.1,2.6,2,"Ethereum","unknown",1,1,0,1,0,1,0,8450.997732,"Europe",30
+413,"Y",2018-03-31,2018-02-28,2.2e+08,12,"Mauritius","Cryptocurrency,Communication",3.6,4.5,2.6,"Ethereum","2",1,1,3,1,0.42,0.92,0,9082.974075,"Africa",31
+414,"Y",2018-05-10,2018-04-10,1.51e+09,27,"Gibraltar","Investment,Cryptocurrency,Business services,Big Data,Banking,Platform",3.8,4.2,3.7,"Ethereum","1",1,1,2,1,0.93,0.89,0,8803.427089,"Europe",30
+415,"Y",2018-05-11,2018-03-30,1e+09,14,"South Korea","Banking,Big Data,Business services,Platform",3.1,3,3.2,"Infinity Blockchain","3",1,1,3,1,0.86,1,0,8316.34626,"Asia",42
+416,"N",2018-05-30,2018-04-30,74,5,"UK","Tourism",2.4,0,0,"Ethereum","1",1,0,0,0,0,1,1,8507.332567,"Europe",30
+417,"N",2018-05-25,2018-02-26,40,9,"India","Software",2.5,0,0,"Ethereum","2",1,0,0,1,1,1,0,8657.336278,"Asia",88
+418,"Y",2018-05-10,2018-04-10,7.3e+08,26,"UK","Cryptocurrency,Internet,Platform",4.4,4.6,4.5,"Ethereum","2",1,1,0,1,0.96,1,0,8803.427089,"Europe",30
+419,"N",2018-03-31,2018-01-29,2.7e+07,12,"India","Business services",3.4,3.4,3.5,"Ethereum","2",1,1,0,1,1,1,0,9308.017775,"Asia",61
+420,"N",2017-10-05,2017-08-17,3.5e+07,4,"Russia","Communication,Charity",1.6,1,2,"Waves","3",1,0,0,0,0,1,0,4166.655596,"Europe",49
+421,"Y",2017-09-01,2017-06-30,18565200,2,"USA","Entertainment",1.8,0,0,"Ethereum","1",1,1,3,0,0,1,1,3215.39859,"Americas",63
+422,"N",2017-09-29,2017-07-01,1e+08,1,"USA","Entertainment",1.5,1,1,"unknown","unknown",1,0,0,1,1,0,0,3472.736696,"Americas",90
+423,"N",2018-03-16,2018-02-16,1500000,8,"Russia","Health,Cryptocurrency,Other,Manufacturing",2.1,4,3,"Ethereum","1",1,0,0,0,0.25,1,1,10149.53623,"Europe",28
+424,"N",2018-01-10,2017-12-11,7.5e+07,8,"USA","Cryptocurrency,Platform,Entertainment,Sports",3,4,4,"Ethereum","1",1,0,0,0,1,0,1,15915.9129,"Americas",30
+425,"N",2017-11-17,2017-11-14,8e+08,21,"UK","Cryptocurrency,Casino & Gambling,Sports,Virtual Reality",2.1,0,0,"unknown","3",1,0,0,0,0.81,1,0,7382.992554,"Europe",3
+426,"N",2018-05-31,2018-05-14,240,10,"Indonesia","Artificial Intelligence,Big Data,Education,Health,Platform",2.3,0,0,"Stellar","1",1,0,0,0,1,1,1,7890.064399,"Asia",17
+427,"N",2018-05-15,2018-05-09,6.5e+09,13,"UK","Cryptocurrency,Investment,Platform",3.7,3.8,3.2,"Ethereum","2",1,1,0,1,0.77,1,0,8752.372907,"Europe",6
+428,"N",2017-09-28,2017-08-28,9e+06,4,"Virgin Islands","Cryptocurrency",1.8,1,3.5,"Ethereum","2",0,1,0,0,0,0,0,4114.80249,"Americas",31
+429,"N",2018-05-26,2018-04-26,1.08e+08,14,"Belgium","Internet,Cryptocurrency,Platform,Smart Contract",4.1,3.5,4.2,"Ethereum","1",1,1,1,1,1,1,0,8754.197077,"Europe",30
+430,"N",2018-02-13,2018-01-12,1.5e+07,4,"France","Infrastructure,Other",2.4,3,3,"Ethereum","1",1,0,0,0,0.25,1,0,10475.67279,"Europe",32
+431,"N",2018-02-19,2018-01-22,3.2e+07,11,"Australia","Banking,Business services,Cryptocurrency,Entertainment,Retail",2.4,0,0,"Ethereum","1",1,1,0,0,0.64,1,1,9734.090787,"Oceania",28
+432,"Y",2018-05-01,2018-04-12,6.5e+08,18,"Estonia","Smart Contract,Platform,Legal,Infrastructure,Education,Artificial Intelligence,Software",3.1,2.9,2.5,"iOlite Blockchain","1",1,1,0,0,1,1,1,8696.635986,"Europe",19
+433,"N",2017-08-14,2017-07-24,1.6e+08,3,"Netherlands","Platform",1.6,2,1.5,"Ethereum","1",0,0,0,1,0,1,0,3125.14998,"Europe",21
+434,"Y",2017-10-30,2017-10-16,6e+08,11,"Australia","Cryptocurrency,Platform",4,4,4.5,"Ethereum","1",1,1,1,0,1,1,0,5840.849284,"Oceania",14
+435,"Y",2017-09-15,2017-08-15,1e+08,18,"USA","Real estate",3.6,5,4,"Ethereum","unknown",1,1,3,0,0,1,1,4270.825318,"Americas",31
+436,"Y",2018-04-30,2018-03-12,6e+07,12,"UK","Cryptocurrency",3.7,3.7,3.9,"Ethereum","5",1,1,0,0,0.92,1,0,8134.590176,"Europe",49
+437,"N",2018-05-04,2018-02-23,109609500,12,"USA","Entertainment",1.8,1,1,"Ethereum","2",1,0,0,0,0.67,1,0,8737.096047,"Americas",70
+438,"N",2018-04-28,2018-04-06,4.5e+07,7,"Sweden","Banking,Business services,Cryptocurrency",1.9,1,2,"unknown","3",1,1,0,0,0,0,1,8143.426928,"Europe",22
+439,"N",2018-01-31,2017-09-21,0,22,"USA","Cryptocurrency,Health",2.5,3,4,"unknown","4",1,1,2,0,1,1,0,9923.033759,"Americas",132
+440,"Y",2017-10-14,2017-08-05,5e+08,4,"Netherlands","Other",2.5,5,4,"Ardor","unknown",1,0,3,0,1,1,1,4190.550988,"Europe",70
+441,"N",2018-04-12,2018-03-08,0,10,"France","Platform,Cryptocurrency,Software",2.5,0,0,"Ethereum","1",1,0,0,1,0,1,0,7971.728841,"Europe",35
+442,"N",2018-03-01,2017-12-01,7e+07,10,"UK","Platform,Real estate",2,0,0,"Ethereum","2",1,0,0,0,0,1,1,12702.65641,"Europe",90
+443,"N",2018-04-21,2018-03-10,6e+08,7,"Italy","Manufacturing",2.6,2,2.5,"Ethereum","1",1,0,0,0,0.86,1,0,7967.927644,"Europe",42
+444,"Y",2018-03-07,2018-02-05,2.5e+08,18,"USA","Big Data,Business services,Cryptocurrency,Internet,Smart Contract",3.3,3.8,3.1,"Ethereum","3",1,1,0,0,0.72,1,1,9907.138483,"Americas",30
+445,"N",2018-06-01,2018-02-26,3.5e+07,18,"Panama","Cryptocurrency,Platform,Investment",4.2,4.5,4.1,"Ethereum","2",1,1,0,1,1,1,0,8565.393219,"Americas",95
+446,"Y",2017-10-31,2017-07-25,2e+08,10,"USA","Internet",3.1,5,5,"Ethereum","2",1,1,3,0,0.7,1,1,4316.804939,"Americas",98
+447,"Y",2017-11-17,2017-10-17,54300000,14,"Singapore","Cryptocurrency,Platform,Retail",3.6,3.7,1.7,"Ethereum","2",1,1,3,1,1,1,0,6499.50499,"Asia",31
+448,"Y",2018-03-05,2018-01-29,1.5e+08,31,"British Virgin Islands","Cryptocurrency,Other",3.9,4.1,4.1,"Ethereum","2",1,1,0,0,0.88,1,1,9818.134223,"Americas",35
+449,"N",2018-04-30,2018-02-01,0,9,"Ukraine","Cryptocurrency,Entertainment",3.2,3,3,"Ethereum","1",1,1,0,1,1,1,1,8836.867429,"Europe",88
+450,"Y",2017-08-31,2017-07-17,4e+07,8,"Canada","Health",2.7,2,1,"unknown","unknown",1,1,0,0,0.88,1,0,3475.170431,"Americas",45
+451,"Y",2017-09-07,2017-08-08,2e+07,16,"China","Cryptocurrency,Platform",4.1,5,5,"NEO","1",1,1,3,1,0,1,0,4232.223546,"Asia",30
+452,"N",2018-05-30,2018-05-08,0,10,"Ecuador","Platform,Manufacturing,Business services,Big Data,Artificial Intelligence,Tourism",2.3,3.5,2,"Ethereum","2",1,0,0,1,1,1,0,8165.271739,"Americas",22
+453,"Y",2018-03-28,2017-12-20,4.5e+07,21,"British Virgin Islands","Cryptocurrency,Communication,Charity,Business services,Entertainment,Infrastructure,Internet,Media,Other,Platform,Retail,Smart Contract,Software,Sports",4,4.3,3.7,"Ethereum","3",1,1,0,1,0.95,1,1,11185.01367,"Americas",98
+454,"Y",2018-02-07,2017-12-07,481302774,15,"Russia","Platform,Communication",3.2,4,3.4,"Ethereum","1",1,1,3,1,0.87,1,1,13751.10605,"Europe",62
+455,"N",2018-01-03,2017-10-03,4.4e+08,16,"India","Cryptocurrency",2.7,3,3,"Ethereum","1",1,0,0,1,0.63,1,0,9781.783324,"Asia",92
+456,"N",2017-10-12,2017-09-14,0,3,"USA","Platform,Software",2.3,0,0,"Waves","2",1,1,0,0,1,1,0,4146.65449,"Americas",28
+457,"Y",2018-05-31,2018-04-03,474500000,38,"Thailand","Internet,Media,Platform,Smart Contract",4.3,5,4,"Stellar","2",1,1,1,1,0.5,1,0,8289.166082,"Asia",58
+458,"N",2018-03-22,2018-03-01,4.5e+08,5,"Romania","Entertainment",2.1,0,0,"Ethereum","1",1,1,0,1,0,0,0,9508.503596,"Europe",21
+459,"N",2018-04-02,2018-02-05,1.5e+08,6,"Italy","Internet,Media,Platform",3.1,3,2,"Ethereum","3",1,0,0,1,1,1,1,9192.072317,"Europe",56
+460,"N",2018-06-06,2018-04-02,2100000,7,"Switzerland","Banking,Business services",2.4,0,0,"unknown","4",1,1,0,1,0,1,0,8209.878167,"Europe",65
+461,"N",2017-12-19,2017-11-28,5e+05,6,"USA","Platform,Business services",2.5,0,0,"Ethereum","1",1,1,0,0,1,1,1,14867.40501,"Americas",21
+462,"N",2018-04-30,2018-04-03,5e+08,39,"Russia","Banking,Business services,Cryptocurrency,Infrastructure,Investment,Legal,Platform",3.4,4.1,3.2,"Ethereum","4",1,1,0,1,0.85,1,0,8109.995327,"Europe",27
+463,"N",2018-01-25,2017-12-15,5.8e+07,8,"Ukraine","Cryptocurrency",2.5,2.7,2.4,"Ethereum","1",1,1,0,0,0.25,1,0,14525.87144,"Europe",41
+464,"N",2018-03-01,2018-01-01,0,4,"UK","Business services,Cryptocurrency,Health",1.5,2,1,"Ethereum","3",1,0,0,0,0,0.75,0,11363.65555,"Europe",59
+465,"N",2017-09-22,2017-08-22,6e+08,3,"Switzerland","Cryptocurrency",2.9,0,0,"Ethereum","2",1,1,0,1,1,1,0,4178.069367,"Europe",31
+466,"N",2017-12-19,2017-11-20,1500000,5,"Cyprus","Business services,Cryptocurrency",2.1,0,0,"Waves","5",1,1,0,0,0,1,0,13194.68797,"Asia",29
+467,"N",2018-05-31,2018-04-17,22500000,12,"Russia","Infrastructure",2.8,4,3,"Ethereum","4",1,0,0,0,0,1,0,8591.897982,"Europe",44
+468,"N",2018-03-15,2018-03-03,2e+08,6,"United Arab Emirates","Business services,Smart Contract",3,0,0,"Ethereum","2",1,0,1,0,1,1,1,9805.299955,"Asia",12
+469,"N",2018-05-22,2018-04-23,6.5e+07,6,"Estonia","Business services,Media,Platform",2.7,3,2,"Ethereum","1",1,1,0,0,1,1,1,8962.434994,"Europe",29
+470,"N",2018-04-13,2018-02-27,0,4,"France","Art",2.1,0,0,"Ethereum","1",1,0,0,0,1,1,0,8551.308021,"Europe",45
+471,"N",2018-05-02,2018-03-23,1.2e+07,6,"Cyprus","Cryptocurrency,Investment,Platform",2,1,1,"X11","1",1,0,0,0,0,1,0,8059.34194,"Asia",40
+472,"Y",2018-06-03,2018-02-10,7.5e+10,17,"Switzerland","Platform,Real estate,Software",3.7,3.3,2.7,"Ethereum","2",1,1,2,1,0.71,1,0,8741.937993,"Europe",113
+473,"Y",2018-02-15,2018-01-15,4e+08,12,"Ukraine","Platform,Cryptocurrency",3.2,2.6,2.9,"Ethereum","1",1,1,0,1,0,0,0,10101.41977,"Europe",31
+474,"N",2018-03-23,2018-02-21,150,4,"Germany","Communication,Entertainment,Internet,Media",1.9,0,0,"Ethereum","1",1,0,0,1,0.25,1,0,9678.425813,"Europe",30
+475,"N",2018-04-15,2018-03-21,5e+08,18,"Switzerland","Art",3.9,3.7,3.7,"Ethereum","1",1,1,0,1,0.94,1,0,7577.795786,"Europe",25
+476,"N",2018-04-08,2018-03-26,3e+10,5,"USA","Media,Entertainment,Platform",2.7,2.4,2,"Ethereum","1",1,1,0,1,1,1,1,7189.074986,"Americas",13
+477,"Y",2017-10-16,2017-09-16,1e+08,20,"Italy","Platform,Cryptocurrency",3.3,0,0,"unknown","unknown",1,0,1,1,0.15,0.95,1,4398.170646,"Europe",30
+478,"Y",2018-05-31,2018-04-15,6.5e+07,26,"Singapore","Education",3.3,4,4,"Multichain","4",1,1,0,0,0.12,1,1,8574.961478,"Asia",46
+479,"Y",2017-12-15,2017-10-16,1e+10,10,"USA","Banking,Cryptocurrency",3.1,5,5,"Ethereum","1",1,1,0,0,0.9,1,0,9013.900479,"Americas",60
+480,"N",2018-02-07,2018-01-08,5e+07,15,"Switzerland","Cryptocurrency",2.4,0,0,"Separate blockchain","1",1,1,0,1,0,1,0,11372.98326,"Europe",30
+481,"N",2018-01-31,2018-01-01,0,4,"Indonesia","Cryptocurrency,Investment,Real estate,Tourism",1.3,0,0,"unknown","unknown",1,0,0,0,0.75,1,0,13085.55809,"Asia",30
+482,"N",2017-09-19,2017-08-19,0,18,"UK","Media,Internet",2.3,0,0,"Ethereum","1",1,0,0,0,0,1,0,4212.925934,"Europe",31
+483,"Y",2016-11-13,2016-11-13,820,15,"Poland","Platform,Infrastructure,Software",3,0,0,"Ethereum","1",1,1,3,0,0.86,1,1,702.031006,"Europe",0
+484,"Y",2018-05-27,2018-05-13,4.92e+08,15,"Netherlands","Business services,Retail",4.2,4.3,3.9,"Ethereum","1",1,1,3,0,0.93,1,1,8082.388639,"Europe",14
+485,"Y",2018-01-18,2017-11-22,266400000,5,"USA","Internet",4.1,3.8,3.9,"Stellar","3",1,1,0,1,1,1,0,14067.1386,"Americas",57
+486,"N",2017-12-10,2017-11-01,0,3,"Switzerland","Cryptocurrency,Platform",1.8,1.6,2.1,"Ethereum","1",0,1,0,1,0,1,0,9268.387231,"Europe",39
+487,"Y",2018-06-03,2018-05-03,37500000,10,"Bulgaria","Entertainment",2.4,2,2.1,"Ethereum","1",1,1,0,0,1,1,0,8329.09845,"Europe",31
+488,"N",2018-04-15,2018-01-15,0,15,"Germany","Communication,Infrastructure,Internet",2.1,0,0,"Ethereum","unknown",1,1,0,1,0.13,1,0,9321.861028,"Europe",90
+489,"Y",2018-04-15,2018-03-24,2e+08,13,"Singapore","Infrastructure,Platform",3.7,4.2,3,"Ethereum","1",1,1,3,1,0.85,1,1,7412.405231,"Asia",22
+490,"N",2018-01-30,2017-12-01,0,13,"USA","Business services,Entertainment,Communication",2.4,0,0,"Ethereum","unknown",1,1,0,0,0.08,0.92,1,14254.97707,"Americas",60
+491,"Y",2017-08-07,2017-07-23,3.35e+08,11,"USA","Internet",2.5,3,4,"Ethereum","unknown",1,0,0,0,1,1,1,2837.893097,"Americas",15
+492,"N",2018-02-26,2017-10-09,15260000,9,"Russia","Communication,Platform",2.5,2,2,"Ethereum","1",1,0,0,1,0,1,0,10562.6025,"Europe",140
+493,"Y",2018-04-25,2018-01-25,8e+05,17,"Tanzania","Investment,Manufacturing",2.8,3,3,"UNIVERSA","4",1,1,0,0,0.29,1,1,8983.364086,"Africa",90
+494,"Y",2017-09-15,2017-08-16,58500000,3,"UK","Cryptocurrency",3,0,0,"Ethereum","1",1,0,0,1,1,1,1,4273.692903,"Europe",30
+495,"N",2018-03-31,2018-02-02,8e+09,6,"Estonia","Big Data,Business services,Investment,Platform",2.6,0,0,"Ethereum","unknown",1,1,0,0,1,1,1,9246.599348,"Europe",57
+496,"N",2018-05-30,2018-03-01,0,22,"Russia","Software,Business services,Cryptocurrency",3.4,4,3.6,"Ethereum","1",1,1,0,1,0.62,1,1,8524.746469,"Europe",90
+497,"N",2018-04-04,2018-03-09,6.5e+07,5,"Ukraine","Platform",1.9,0,0,"Separate blockchain","unknown",1,0,0,1,0,0.8,0,8212.658113,"Europe",26
+498,"N",2018-03-28,2018-03-28,2.16e+08,3,"Australia","Business services",2.6,3.9,3.9,"Ethereum","1",1,0,0,0,0,1,1,7954.47998,"Oceania",0
+499,"Y",2017-12-19,2017-11-19,2e+08,14,"Russia","Cryptocurrency,Investment",2.6,3,2.3,"Ethereum","1",1,1,0,0,0.57,1,0,13028.2945,"Europe",30
+500,"Y",2017-08-26,2017-08-12,29400000,7,"UK","Platform,Software",3.4,0,0,"unknown","2",1,1,0,1,0.43,0.86,0,4195.186019,"Europe",14
+501,"Y",2017-03-17,2017-03-12,5.1e+07,18,"Singapore","Cryptocurrency,Business services",3.7,4.3,4.3,"Ethereum","2",1,1,3,1,0,1,0,1205.158346,"Asia",5
+502,"Y",2018-04-06,2018-03-09,52500000,16,"USA","Investment",4.3,4.5,4.1,"Ethereum","1",1,1,3,1,0.88,0.88,0,8109.984796,"Americas",28
+503,"Y",2018-05-03,2018-04-03,100,17,"Russia","Cryptocurrency,Platform,Investment",2.9,2.5,2.2,"NEM","9",1,1,0,0,0.94,1,0,8231.569651,"Europe",30
+504,"N",2018-03-27,2018-03-05,1.7e+08,18,"Switzerland","Cryptocurrency",4.1,4.8,3.7,"Ethereum","1",1,1,3,1,0.89,1,1,8966.66695,"Europe",22
+505,"N",2018-04-09,2018-03-09,1e+08,5,"Singapore","Investment,Platform,Cryptocurrency",2.9,2.5,2,"Ethereum","1",1,1,0,1,1,1,0,7996.715591,"Asia",31
+506,"Y",2017-11-17,2017-10-17,156118,7,"Bulgaria","Platform,Entertainment",2.4,0,0,"Ethereum","7",1,0,0,0,0.57,1,1,6499.50499,"Europe",31
+507,"N",2017-12-15,2017-12-10,0,4,"Canada","Internet",2.4,0,0,"NEO","3",1,1,0,0,0,1,0,16747.78353,"Americas",5
+508,"Y",2018-01-15,2017-11-10,2e+07,16,"Russia","Entertainment,Platform,Cryptocurrency",3.1,3.7,3.1,"Ethereum","1",1,1,0,1,0.81,1,0,12967.99774,"Europe",66
+509,"Y",2018-02-17,2018-01-20,695800000,10,"British Virgin Islands","Platform,Business services,Investment",3.1,3.4,3.1,"Ethereum","1",1,1,0,0,1,0.22,1,9827.959759,"Americas",28
+510,"N",2018-03-31,2018-01-14,4e+08,5,"India","Business services,Internet",2.3,0,0,"Ethereum","1",1,0,0,0,1,1,0,9789.176675,"Asia",76
+511,"N",2017-12-15,2017-11-14,0,3,"South Korea","Entertainment",1.6,2,2,"Ethereum","1",1,0,0,0,0,0,1,11427.19218,"Asia",31
+512,"Y",2018-03-07,2018-02-28,6e+07,26,"Australia","Cryptocurrency,Platform",3.5,3.7,3.2,"Ethereum","2",1,1,0,1,1,1,1,10969.54639,"Oceania",7
+513,"Y",2018-04-15,2018-02-01,6e+08,32,"USA","Business services,Big Data,Cryptocurrency,Infrastructure,Internet,Other,Platform,Smart Contract,Software",4.1,4.2,3.9,"Graphene","4",1,1,0,1,1,0.97,1,8834.703402,"Americas",73
+514,"N",2017-12-10,2017-10-10,4e+08,3,"Poland","Software",1.6,1.5,1.5,"Ethereum","1",1,0,0,0,0,1,0,8016.59998,"Europe",61
+515,"Y",2017-12-11,2017-12-01,3e+08,10,"South Africa","Business services,Platform",3.2,5,4,"Ethereum","1",1,1,0,1,0.3,1,1,13934.39098,"Africa",10
+516,"Y",2018-04-15,2018-02-25,356264000,16,"UK","Real estate,Sports",3.6,3.2,4,"Ethereum","3",1,1,0,1,0.81,0.94,0,8594.139004,"Europe",49
+517,"Y",2018-03-12,2018-02-10,5e+08,12,"Gibraltar","Platform,Cryptocurrency,Business services,Investment,Banking",3.6,4.3,3.9,"Ethereum","3",1,1,2,0,0.75,1,1,10134.53105,"Europe",30
+518,"Y",2018-04-21,2018-03-21,3e+07,10,"Singapore","Investment",2.9,3.4,2.6,"Ethereum","4",1,1,0,1,1,1,0,7724.455933,"Asia",31
+519,"Y",2018-01-29,2017-12-04,43200000,17,"USA","Entertainment,Cryptocurrency,Platform",3.3,3.3,2.9,"Ethereum","1",1,1,2,1,1,1,1,14492.5246,"Americas",56
+520,"N",2018-03-31,2018-02-01,0,10,"Thailand","Cryptocurrency,Platform",2.8,0,0,"Ethereum","2",1,1,0,0,0,1,1,9245.310208,"Asia",58
+521,"N",2018-03-31,2018-02-03,4e+09,14,"Singapore","Cryptocurrency",2.4,0,0,"Ethereum","2",1,0,0,1,0,1,0,9253.894951,"Asia",56
+522,"Y",2018-03-31,2018-02-20,476228844,6,"Cayman Islands","Banking,Cryptocurrency,Investment,Platform,Software",4,0,0,"Ethereum","1",1,1,2,0,1,1,0,9340.63678,"Americas",39
+523,"N",2018-05-31,2018-04-01,4e+10,6,"Singapore","Entertainment,Casino & Gambling,Platform,Smart Contract",2.4,2.4,2.7,"Ethereum","2",1,0,0,0,0.83,1,0,8245.718502,"Asia",60
+524,"Y",2018-03-15,2018-02-25,6.6e+07,13,"British Virgin Islands","Investment,Banking,Cryptocurrency,Platform",2.9,2.8,2.6,"Ethereum","1",1,1,3,1,0.85,0.92,0,10034.8016,"Americas",18
+525,"N",2017-12-03,2017-10-03,0,13,"Singapore","Business services",2.6,0,0,"Ethereum","1",1,0,2,0,1,1,0,6856.718522,"Asia",61
+526,"Y",2018-02-02,2018-01-18,5e+08,12,"Singapore","Platform,Software,Internet",3.6,4,3.6,"Ethereum","1",1,1,3,1,1,1,0,11001.48077,"Asia",15
+527,"Y",2017-12-31,2017-12-06,5e+07,11,"USA","Platform,Business services,Investment,Cryptocurrency",2.9,3.3,2.5,"Ethereum","1",1,1,0,1,0.36,1,0,16045.19618,"Americas",25
+528,"N",2017-12-25,2017-11-25,5e+07,25,"UK","Business services,Investment,Banking",2.5,0,0,"Ethereum","1",1,0,0,0,0,1,0,14320.43964,"Europe",30
+529,"Y",2017-12-07,2017-11-07,4e+08,6,"Seychelles","Platform",3.3,0,0,"Ethereum","1",1,1,2,1,0,1,1,9053.832204,"Africa",30
+530,"N",2018-05-31,2018-02-15,1e+09,10,"United Arab Emirates","Manufacturing,Energy,Infrastructure",3.6,3.8,3.6,"Ethereum","1",1,1,0,0,1,0.9,1,8772.683023,"Asia",105
+531,"Y",2017-07-31,2017-06-02,3e+07,15,"USA","Cryptocurrency",3.3,4,3.4,"unknown","unknown",1,1,0,0,0,1,0,2579.670341,"Americas",59
+532,"Y",2017-11-20,2017-10-22,3e+07,9,"Australia","Platform,Cryptocurrency",3.9,3,4,"Ethereum","1",1,1,1,1,1,1,0,6768.788981,"Oceania",29
+533,"N",2018-01-31,2017-12-01,5e+07,8,"Switzerland","Business services,Software",2.1,0,0,"Ethereum","1",1,0,0,0,0.88,1,1,14189.91454,"Europe",61
+534,"N",2018-04-30,2018-03-01,3.5e+07,7,"UK","Infrastructure",2.3,0,0,"Ethereum","4",1,0,0,1,0.86,1,0,8545.330638,"Europe",60
+535,"N",2018-03-11,2018-02-09,2e+08,7,"Russia","Cryptocurrency,Platform,Software,Health",3.2,2.4,2.4,"Ethereum","1",1,1,2,1,0,1,0,10119.42977,"Europe",30
+536,"Y",2018-03-22,2018-02-21,7600000,19,"Estonia","Communication,Business services,Big Data,Cryptocurrency,Education,Investment,Other,Platform,Smart Contract,Software",3.3,3.7,2.8,"Ethereum","1",1,1,0,1,1,1,0,9705.052669,"Europe",29
+537,"Y",2018-02-15,2017-10-01,7.8e+07,5,"USA","Business services",3.1,3.7,3,"Ethereum","1",1,1,0,1,1,1,1,10210.54378,"Americas",137
+538,"N",2018-05-31,2018-04-02,2800000,9,"Ukraine","Legal,Investment,Cryptocurrency,Platform",4.2,4.6,4.2,"Ethereum","3",1,1,0,1,0.89,1,0,8269.076644,"Europe",59
+539,"Y",2018-03-20,2018-02-20,2e+09,6,"Canada","Entertainment,Internet,Media",3,3,4,"Ethereum","1",1,0,0,0,0,1,0,9824.052768,"Americas",28
+540,"N",2018-04-07,2018-02-21,3.65e+08,14,"Switzerland","Banking,Cryptocurrency,Internet,Investment,Platform,Smart Contract,Software",1.7,1.7,1.5,"Ethereum","4",1,0,0,0,0.29,1,0,8930.839791,"Europe",45
+541,"N",2017-11-14,2017-11-01,4.1e+08,8,"USA","Health",2.9,2,3.7,"Ethereum","2",1,1,3,0,0.38,1,0,6909.456438,"Americas",13
+542,"Y",2018-01-24,2018-01-18,204780000,15,"Colombia","Platform,Cryptocurrency",3.7,4,3.7,"Ethereum","3",1,1,0,1,1,1,1,11534.40025,"Americas",6
+543,"Y",2018-04-01,2018-02-15,71250000,9,"Estonia","Cryptocurrency,Platform,Business services,Software,Internet,Smart Contract",3.6,3.5,3.4,"Ethereum","1",1,1,2,1,1,1,1,9429.560908,"Europe",45
+544,"Y",2017-10-08,2017-09-07,3e+07,8,"UK","Platform,Other,Art",3.1,0,0,"Ethereum","1",1,0,3,0,1,1,1,4055.558746,"Europe",31
+545,"Y",2017-07-29,2017-06-28,14700000,23,"Costa Rica","Casino & Gambling",3.3,4,3.4,"Ethereum","unknown",1,1,3,1,0.7,1,1,2502.012505,"Americas",31
+546,"Y",2015-09-03,2015-08-04,1e+08,8,"Switzerland","Cryptocurrency",1.8,1,1,"Counterparty","unknown",0,0,3,0,0,1,0,245.5449657,"Europe",30
+547,"Y",2018-02-28,2018-02-01,5e+07,8,"British Virgin Islands","Banking",3.6,2.7,2.7,"Ethereum","6",1,1,2,1,1,1,1,9472.001151,"Americas",27
+548,"N",2018-03-31,2018-02-01,2e+08,14,"USA","Business services",2.8,4,4,"Ethereum","1",1,0,0,1,0.86,1,0,9245.310208,"Americas",58
+549,"N",2018-04-21,2018-02-20,720000,7,"Isle of Man","Retail",2.5,0,0,"Waves","5",1,1,0,0,1,1,0,8722.62492,"Europe",60
+550,"Y",2017-09-06,2017-07-27,8e+07,9,"Israel","Energy",3.1,0,0,"Ethereum","1",1,0,0,0,0.22,1,1,3843.19404,"Asia",41
+551,"N",2017-12-31,2017-12-03,1e+07,7,"USA","Other,Investment,Internet,Cryptocurrency,Business services,Retail",2.5,0,0,"Stellar Consensus Protocol (SCP)","1",1,0,0,1,0.86,1,1,15588.69659,"Americas",28
+552,"N",2018-04-10,2018-03-15,8e+06,16,"USA","Entertainment,Cryptocurrency,Platform",4,3.8,3.7,"Ethereum","1",1,1,3,1,0.94,1,0,7713.988878,"Americas",26
+553,"N",2018-06-05,2017-12-01,2310000,18,"Serbia","Manufacturing",2.7,5,3,"Ethereum","unknown",1,1,0,1,0,1,0,10514.92092,"Europe",186
+554,"N",2018-01-31,2017-11-28,1e+07,17,"United Arab Emirates","Business services,Cryptocurrency,Media",2.3,0,0,"unknown","unknown",1,1,0,1,0,1,1,13999.31863,"Asia",64
+555,"Y",2018-05-04,2018-04-16,5e+08,18,"USA","Virtual Reality,Entertainment",4.5,4.8,4.4,"Ethereum","2",1,1,2,0,0.94,1,0,8974.352591,"Americas",18
+556,"N",2018-02-28,2018-02-01,1.41e+08,9,"Belgium","Real estate",2.4,3,2,"Ethereum","1",1,1,0,0,0,1,0,9472.001151,"Europe",27
+557,"N",2017-12-18,2017-11-16,7.5e+07,21,"Belarus","Media,Platform,Software",2.6,0,0,"Ethereum","2",1,1,0,0,0,1,0,12408.22001,"Europe",32
+558,"N",2018-03-25,2018-02-21,12500000,6,"UK","Communication,Cryptocurrency,Internet,Software",1.4,0,0,"Ethereum","1",1,0,0,0,0,0,0,9611.972745,"Europe",32
+559,"N",2018-03-31,2018-02-01,0,4,"South Africa","Cryptocurrency",1.2,1.2,1,"Ethereum","3",1,0,0,0,0,0,0,9245.310208,"Africa",58
+560,"Y",2017-11-01,2017-09-07,103548812,12,"Russia","Real estate",4,4.3,3.9,"Ethereum","1",1,1,0,1,0.33,1,0,4778.766418,"Europe",55
+561,"Y",2017-09-04,2017-08-21,7e+08,12,"Russia","Platform",3.4,0,0,"unknown","7",1,1,3,1,0.17,1,0,4414.384001,"Europe",14
+562,"N",2018-02-15,2018-01-01,0,7,"Singapore","Cryptocurrency",1.4,0,0,"Ethereum","unknown",1,0,0,1,0,1,0,11616.87895,"Asia",45
+563,"Y",2017-08-18,2017-08-09,5.5e+08,13,"USA","Platform,Software",3.5,0,0,"Ethereum","1",1,1,0,0,1,1,1,3970.834009,"Americas",9
+564,"Y",2016-12-19,2016-11-05,2.5e+07,4,"Mexico","Banking,Cryptocurrency",1.3,1,1,"Waves","1",0,0,0,0,0,1,0,748.13098,"Americas",44
+565,"Y",2018-06-07,2018-02-07,10120000,20,"UK","Artificial Intelligence,Banking,Cryptocurrency,Platform,Smart Contract",4.1,4.3,3.9,"Ethereum","4",1,1,2,1,0.75,1,1,8691.613649,"Europe",120
+566,"Y",2017-10-12,2017-09-12,1872221,20,"Estonia","Cryptocurrency,Business services,Software",3.1,3.6,2.9,"Ethereum","2",1,1,0,1,1,1,0,4137.625173,"Europe",30
+567,"Y",2018-02-28,2018-02-01,5e+08,23,"USA","Platform,Cryptocurrency,Business services",4.6,4.7,4.6,"Ethereum","3",1,1,0,1,0.74,0.96,1,9472.001151,"Americas",27
+568,"Y",2018-03-31,2018-03-01,3e+08,18,"Singapore","Software",4.5,4.9,4.7,"Ethereum","3",0,1,0,0,1,1,0,9040.557097,"Asia",30
+569,"Y",2017-07-26,2017-06-29,133333328,15,"Singapore","Casino & Gambling",3.5,4.7,4.8,"Ethereum","unknown",1,1,2,1,0.4,1,0,2474.370361,"Asia",27
+570,"Y",2018-01-08,2017-12-08,64200000,17,"Poland","Software,Investment",3.7,3.9,3.4,"Ethereum","1",1,1,2,0,0.82,1,0,15969.61252,"Europe",31
+571,"N",2017-11-30,2017-11-01,5e+08,4,"China","Entertainment",2.3,0,0,"Ethereum","1",1,0,0,1,0,1,0,7813.132975,"Asia",29
+572,"Y",2018-02-01,2018-01-16,1e+08,37,"Switzerland","Cryptocurrency,Charity",3.3,3.6,2.9,"Ethereum","5",1,1,0,0,0.97,1,0,11168.94365,"Europe",16
+573,"Y",2018-03-31,2018-02-15,3.5e+08,11,"Georgia","Manufacturing,Cryptocurrency",2.5,3,3,"Ethereum","1",1,0,0,0,1,1,1,9487.012706,"Asia",44
+574,"N",2018-05-07,2018-04-17,0,13,"Australia","Cryptocurrency",2.3,0,0,"Ethereum","3",1,0,0,0,0.62,1,0,9111.42806,"Oceania",20
+575,"Y",2018-03-30,2018-02-15,4.08e+08,12,"South Africa","Artificial Intelligence,Big Data,Internet",4.6,4.6,4.5,"Ethereum","8",1,1,1,1,1,1,1,9544.137318,"Africa",43
+576,"N",2018-01-21,2018-01-21,0,12,"Indonesia","Platform,Cryptocurrency",3.6,3.2,4,"Ethereum","1",1,1,3,0,0.33,1,0,11600.09961,"Asia",0
+577,"Y",2018-06-01,2018-04-30,15,4,"UK","Investment,Internet,Cryptocurrency,Business services,Banking,Platform,Smart Contract",2.4,1,2,"Ethereum","1",1,1,0,0,0.75,1,0,8447.361506,"Europe",32
+578,"N",2018-05-30,2018-04-01,1.5e+07,12,"Ireland","Banking,Business services,Cryptocurrency,Infrastructure,Investment,Platform",3.5,0,0,"Ethereum","4",1,1,2,0,0,0,0,8258.244312,"Europe",59
+579,"Y",2017-12-31,2017-11-20,7.6e+07,4,"Netherlands","Platform,Business services",3.9,4.8,3.9,"Ethereum","1",1,1,3,1,1,1,1,13644.31284,"Europe",41
+580,"Y",2018-04-30,2018-03-01,3e+07,14,"Switzerland","Big Data,Infrastructure,Legal,Platform,Smart Contract,Virtual Reality",3.4,3.2,2.9,"Ethereum","7",1,1,0,0,1,1,0,8545.330638,"Europe",60
+581,"Y",2018-02-18,2018-01-18,2e+08,18,"USA","Investment,Banking",2.4,3.6,2.7,"unknown","unknown",1,1,0,0,0.89,1,0,9957.654175,"Americas",31
+582,"N",2018-05-23,2018-03-07,8.25e+08,14,"UK","Investment",2.5,0,0,"Ethereum","1",1,1,0,0,0,1,0,8417.337797,"Europe",77
+583,"Y",2017-06-30,2017-06-30,46800000,16,"Russia","Business services,Internet",2.8,0,0,"Ethereum","unknown",1,0,3,1,0.87,1,1,2480.840088,"Europe",0
+584,"N",2018-02-02,2017-11-27,0,11,"UK","Real estate,Investment",1.6,2,2,"Ethereum","unknown",0,1,0,0,0,0.82,0,13790.81398,"Europe",67
+585,"Y",2018-04-30,2018-03-12,7.5e+07,10,"Czech Republic","Investment,Cryptocurrency,Big Data,Artificial Intelligence,Platform,Software",3.6,3.7,3.2,"Ethereum","1",1,1,3,0,1,1,1,8134.590176,"Europe",49
+586,"N",2018-05-01,2018-04-01,7e+08,11,"Germany","Artificial Intelligence,Health",2.6,0,0,"Ethereum","3",1,1,0,0,0.18,0.91,0,8068.609958,"Europe",30
+587,"N",2018-03-31,2018-03-01,12,46,"Panama","Entertainment",2.5,2.5,2.5,"NEM","6",1,1,0,1,0.73,0.96,0,9040.557097,"Americas",30
+588,"Y",2017-11-08,2017-11-06,5e+08,18,"Singapore","Platform,Cryptocurrency",4.1,4.8,4.3,"Ethereum","1",1,1,0,0,0.5,1,0,7208.943197,"Asia",2
+589,"N",2018-05-31,2018-01-31,3.6e+07,8,"Hungary","Platform,Media,Communication,Business services,Software",3.6,3.6,3.9,"Ethereum","3",1,1,1,1,1,1,0,8749.448186,"Europe",120
+590,"Y",2018-03-25,2018-02-25,6e+07,15,"Malta","Platform,Casino & Gambling,Entertainment,Cryptocurrency,Internet",3.5,3.8,3.2,"Ethereum","1",1,1,0,1,0.93,1,0,9530.535527,"Europe",28
+591,"Y",2018-02-14,2017-12-28,2e+07,23,"Thailand","Platform,Cryptocurrency,Internet,Communication",2.7,3,3.5,"NEM","5",1,1,0,0,0,0.48,1,11848.59861,"Asia",48
+592,"N",2018-04-30,2018-01-23,1,4,"Spain","Business services,Cryptocurrency,Legal",2.3,2,2,"Ethereum","3",1,1,0,0,0,1,0,9040.720434,"Europe",97
+593,"Y",2017-10-20,2017-09-22,5.5e+07,8,"China","Platform,Tourism",2.8,0,0,"Ethereum","1",1,0,3,1,0.75,1,1,4707.737246,"Asia",28
+594,"Y",2018-02-22,2018-02-13,5e+08,19,"British Virgin Islands","Platform,Business services,Software,Internet",4.4,4.5,4.2,"Ethereum","unknown",1,1,2,1,0.84,1,0,10348.21406,"Americas",9
+595,"Y",2017-09-10,2017-08-10,2e+08,13,"USA","Platform,Cryptocurrency",2.9,4.2,3.9,"Filecoin network","4",1,1,0,0,0,0.92,0,4281.695938,"Americas",31
+596,"Y",2018-06-07,2018-05-08,4e+07,9,"Gibraltar","Infrastructure",3.9,4.5,4.5,"Ethereum","1",1,1,3,1,0.89,1,1,8021.968404,"Europe",30
+597,"Y",2018-03-15,2018-01-30,1e+07,8,"UK","Banking,Cryptocurrency,Smart Contract",1.8,1,1,"Ethereum","2",1,1,0,0,0,1,0,9667.77181,"Europe",44
+598,"Y",2016-09-29,2016-08-25,1e+08,26,"Slovenia","Platform",3.6,4.3,4.9,"Ethereum","4",0,0,0,0,0.88,1,0,599.8354713,"Europe",35
+599,"N",2018-03-31,2018-01-01,2e+06,5,"Russia","Cryptocurrency,Manufacturing",2.2,2.1,2.3,"Ethereum and Waves","6",1,1,0,0,0.4,1,0,10568.06226,"Europe",89
+600,"Y",2018-03-31,2018-03-01,450,10,"UK","Real estate",4.2,4.7,4.4,"Ethereum","3",1,1,1,0,1,1,1,9040.557097,"Europe",30
+601,"N",2017-12-06,2017-11-22,0,6,"Poland","Tourism,Platform",2.3,2.5,2.1,"unknown","1",1,0,0,0,0.5,1,0,10260.37594,"Europe",14
+602,"Y",2017-11-30,2017-11-25,1e+09,25,"Estonia","Cryptocurrency",4.1,4.2,4.3,"Ethereum","1",1,1,0,1,0.92,1,0,9686.80485,"Europe",5
+603,"Y",2018-05-20,2018-04-20,100500000,13,"Germany","Business services,Infrastructure,Platform,Smart Contract",4.1,4.3,3.8,"Ethereum","2",1,1,2,0,0.79,1,0,8998.585481,"Europe",30
+604,"N",2017-12-19,2017-11-20,1e+08,12,"Russia","Platform,Infrastructure",2.8,3,2.5,"Ethereum","1",1,1,0,0,1,1,1,13194.68797,"Europe",29
+605,"Y",2018-05-17,2018-02-15,2.87e+08,21,"Ras al-Khaimah","Cryptocurrency,Platform",3.6,4,3.2,"Ethereum","4",1,1,0,0,0.8,1,1,8930.147403,"Asia",91
+606,"Y",2018-05-19,2018-03-01,1.5e+08,21,"Cayman Islands","Cryptocurrency,Investment,Banking,Real estate",3.5,4.2,3.2,"Ethereum","2",1,1,0,1,0.9,1,0,8642.667609,"Americas",79
+607,"Y",2018-03-26,2018-02-23,3e+07,3,"France","Platform,Business services,Retail",3.7,4,3.4,"Ethereum","1",1,1,0,1,1,1,1,9522.159393,"Europe",31
+608,"Y",2017-11-26,2017-11-06,1500000,6,"UK","Platform,Cryptocurrency,Business services",3.1,4.1,1.7,"Ethereum","3",1,0,0,0,1,1,0,7550.176177,"Europe",20
+609,"N",2018-03-25,2018-03-18,1e+09,6,"Singapore","Education",2,1,3,"Ethereum","1",1,1,0,1,0,1,0,8683.633789,"Asia",7
+610,"N",2018-03-31,2017-12-07,8e+08,6,"Seychelles","Platform,Communication,Cryptocurrency,Retail",3.6,3.7,3.3,"Ethereum","3",1,1,0,1,1,1,0,11773.99307,"Africa",114
+611,"Y",2017-12-16,2017-11-17,1e+09,18,"USA","Business services,Platform",3.2,4.2,4.6,"Ethereum","1",0,1,3,1,0.94,1,0,12111.48568,"Americas",29
+612,"N",2018-01-31,2018-01-17,0,6,"Israel","Platform",2.1,2.9,2.2,"Ethereum","unknown",1,0,0,0,1,1,0,11280.73346,"Asia",14
+613,"Y",2018-05-20,2018-03-20,29750000,14,"Russia","Platform",3.3,3.3,3.2,"Ethereum","3",1,1,0,1,0.79,1,1,8343.72257,"Europe",61
+614,"Y",2017-12-30,2017-11-10,3500000,11,"Spain","Platform,Entertainment",3.4,3.7,3.7,"Waves","4",1,1,3,1,1,1,0,12348.01273,"Europe",50
+615,"N",2017-12-11,2017-11-11,7e+10,14,"Germany","Infrastructure,Cryptocurrency,Platform",1.8,0,0,"Ethereum","1",1,1,0,0,0,1,1,10207.83258,"Europe",30
+616,"Y",2017-06-30,2017-05-20,1.5e+07,6,"Russia","Software,Platform",2.8,0,0,"unknown","1",1,0,2,0,0,1,0,2513.549523,"Europe",41
+617,"Y",2017-08-04,2017-08-02,29600000,20,"Gibraltar","Investment",2.9,0,0,"Ethereum","1",1,1,3,0,0.7,1,0,2803.763265,"Europe",2
+618,"N",2017-12-31,2017-12-01,0,7,"UK","Business services,Investment",2.1,1,1,"Ethereum","3",1,0,0,0,1,1,0,15294.27098,"Europe",30
+619,"N",2018-03-31,2018-02-16,5e+05,3,"USA","Artificial Intelligence,Charity,Cryptocurrency,Education,Infrastructure,Virtual Reality",2.5,2,2,"Ethereum","8",1,0,0,1,1,1,0,9471.572077,"Americas",43
+620,"N",2018-05-16,2018-04-17,0,7,"Estonia","Business services,Cryptocurrency,Investment,Platform,Retail",2.5,0,0,"Ethereum","4",1,1,0,0,0.71,1,0,9007.008333,"Europe",29
+621,"N",2018-06-02,2018-03-17,0,6,"Indonesia","Cryptocurrency,Smart Contract",2.2,2.5,2.5,"Ethereum","unknown",1,0,0,0,0,1,0,8212.645508,"Asia",77
+622,"N",2018-04-09,2018-03-12,1.75e+08,14,"Estonia","Infrastructure",3,3.6,2.7,"Ethereum","1",1,1,0,1,1,1,0,7865.955836,"Europe",28
+623,"Y",2018-06-05,2018-04-03,9.9e+07,23,"Israel","Tourism",4.1,4.1,4.2,"Ethereum","3",1,1,0,1,1,1,1,8236.15905,"Asia",63
+624,"Y",2018-05-16,2018-04-27,2.2e+09,24,"Singapore","Platform,Cryptocurrency,Banking,Smart Contract",3.7,3.6,3.5,"Ethereum","1",1,1,2,0,0.58,1,1,9127.546533,"Asia",19
+625,"N",2018-02-01,2017-11-01,3.5e+08,13,"Switzerland","Platform,Cryptocurrency",2.7,3,2.3,"Waves","4",1,1,0,0,0.83,0.83,0,12078.91646,"Europe",92
+626,"Y",2018-05-10,2018-01-22,5e+07,12,"UK","Cryptocurrency,Platform",3.1,3.5,2.6,"Ethereum","1",1,1,0,1,1,1,1,9093.683056,"Europe",108
+627,"Y",2018-05-31,2018-04-11,2.1e+08,22,"UK","Platform,Entertainment,Education,Casino & Gambling,Sports",3.6,3.5,3.3,"Ethereum","3",1,1,0,1,0.77,1,1,8505.156068,"Europe",50
+628,"Y",2018-03-19,2018-01-15,3.5e+08,16,"Singapore","Business services,Infrastructure,Real estate,Software",3.6,4,3,"Ethereum","4",1,1,3,1,0.88,1,0,10036.76865,"Asia",63
+629,"N",2017-11-30,2017-11-01,0,9,"Cambodia","Platform,Cryptocurrency,Internet,Communication",2.3,3.9,2.9,"Tendermint","2",0,0,0,1,0.78,0.78,0,7813.132975,"Asia",29
+630,"N",2018-06-01,2018-02-28,2e+07,16,"Singapore","Banking,Cryptocurrency,Investment,Platform,Smart Contract,Software",4.2,4.7,4.3,"Ethereum","4",1,1,0,0,1,1,1,8523.24946,"Asia",93
+631,"N",2017-12-25,2017-11-13,8e+07,10,"Estonia","Platform,Business services,Internet",2.8,0,0,"Ethereum","4",1,1,0,0,0.6,1,0,12480.68928,"Europe",42
+632,"Y",2018-01-31,2017-12-14,1e+08,12,"Russia","Entertainment",3.4,3.5,3.3,"Ethereum","3",1,1,0,1,0.75,1,0,14136.17961,"Europe",48
+633,"N",2017-12-06,2017-10-28,7e+07,6,"Switzerland","Platform,Other,Business services",3.2,3.6,3.5,"Ethereum","1",1,1,0,1,1,1,0,8253.466467,"Europe",39
+634,"Y",2017-08-31,2017-08-31,2e+08,16,"Lithuania","Business services,Platform",3.7,3.4,2.9,"Ethereum","unknown",1,0,3,1,0.94,1,0,4703.390137,"Europe",0
+635,"N",2018-05-27,2018-04-27,5e+07,10,"United States","Platform,Smart Contract",3.3,0,0,"Ethereum","1",1,1,3,1,0.63,0.88,0,8692.478059,"Americas",30
+636,"N",2018-05-15,2018-04-01,151151515,6,"Peru","Business services,Investment",2.1,0,0,"Ethereum","4",1,0,0,0,0,1,0,8404.329764,"Americas",44
+637,"Y",2018-05-20,2018-03-22,6.5e+07,3,"United Arab Emirates","Investment",2.1,1,1,"Ethereum","1",1,1,0,0,1,0,1,8324.467489,"Asia",59
+638,"N",2017-10-20,2017-08-20,6.8e+07,9,"USA","Other,Platform",2,0,0,"Ethereum","unknown",0,0,0,0,0,1,0,4430.343545,"Americas",61
+639,"N",2018-04-05,2018-02-25,9.9e+07,4,"Belize","Entertainment,Casino & Gambling",3.3,3,2.4,"unknown","2",1,1,0,1,1,1,0,8911.54126,"Americas",39
+640,"N",2018-03-25,2018-03-11,2e+09,32,"United Kingdom","Cryptocurrency,Sports",3.3,0,0,"Ethereum","1",1,1,0,1,0.03,0.94,0,8684.904622,"Europe",14
+641,"Y",2017-10-15,2017-09-15,1e+08,12,"Russia","Platform",3.5,3,1,"Ethereum","1",1,1,3,0,1,1,1,4330.813555,"Europe",30
+642,"Y",2018-04-06,2018-01-06,4e+07,15,"Germany","Cryptocurrency,Education",3.2,2.6,2.5,"Ethereum","1",1,0,0,1,1,1,0,10065.3008,"Europe",90
+643,"N",2018-06-10,2018-05-01,8.8e+07,27,"Georgia","Cryptocurrency,Infrastructure",3.9,4.2,3.7,"Ethereum","3",1,1,0,1,0.93,1,1,8227.059761,"Asia",40
+644,"Y",2017-09-04,2017-08-18,9800000,3,"USA","Sports,Entertainment",2,0,0,"Waves","unknown",1,0,0,0,0,1,0,4369.874458,"Americas",17
+645,"Y",2017-12-30,2017-12-04,7e+07,21,"China","Banking,Cryptocurrency",3.2,4,4,"Ethereum","1",1,1,3,0,0.29,1,1,15799.72595,"Asia",26
+646,"N",2017-12-30,2017-11-10,4e+07,5,"Russia","Platform,Entertainment",2.3,0,0,"Ethereum","1",1,1,0,1,0,1,0,12348.01273,"Europe",50
+647,"N",2017-12-08,2017-11-22,4.25e+08,3,"USA","Platform,Business services",2.1,0,0,"Ethereum","2",1,0,0,0,1,1,0,11080.86699,"Americas",16
+648,"N",2018-05-07,2018-04-23,7e+07,14,"Switzerland","Investment,Platform",2.4,0,0,"Ethereum","2",1,0,0,0,0,1,0,9362.419987,"Europe",14
+649,"N",2017-09-29,2017-08-01,0,5,"Slovenia","Real estate",2.6,0,0,"Ethereum","2",1,1,3,0,0,1,0,3965.284489,"Europe",59
+650,"N",2018-05-01,2018-03-10,0,11,"Romania","Investment",3.8,3.7,3.9,"Ethereum","1",1,1,0,1,1,1,1,8194.210348,"Europe",52
+651,"Y",2017-11-29,2017-10-24,647500000,10,"Cayman Islands","Cryptocurrency,Business services,Entertainment,Internet,Platform,Smart Contract,Software,Virtual Reality",3.8,2,3,"Ethereum","2",1,1,3,1,0.8,1,1,7341.335924,"Americas",36
+652,"N",2018-06-10,2018-05-27,5.5e+09,24,"Singapore","Banking",3.2,3,3,"Stellar","3",1,1,1,0,0.96,1,1,7480.400716,"Asia",14
+653,"Y",2018-04-05,2018-03-15,4,9,"Cayman Islands","Entertainment",3.8,4.3,3.5,"Ethereum","1",1,1,2,1,1,1,0,7913.694558,"Americas",21
+654,"Y",2017-11-30,2017-10-30,1.5e+09,13,"Ukraine","Business services,Platform",3.8,4,3.3,"Ethereum","1",1,1,0,0,0.62,1,1,7718.528717,"Europe",31
+655,"Y",2018-04-30,2018-03-02,2.25e+08,14,"UK","Banking,Investment,Cryptocurrency",2.4,5,5,"Ethereum","1",1,1,0,0,1,0.89,0,8505.236149,"Europe",59
+656,"N",2017-10-23,2017-10-20,1.4e+07,4,"UK","Cryptocurrency,Software",1.7,1,1,"unknown","unknown",1,0,0,0,0,0,0,5995.44751,"Europe",3
+657,"N",2018-01-31,2018-01-19,4.5e+07,15,"South Korea","Platform,Cryptocurrency,Smart Contract,Legal",3.7,3.9,3.3,"Ethereum","2",1,0,0,1,0.81,1,0,11272.88477,"Asia",12
+658,"Y",2018-03-15,2018-02-15,5e+08,19,"British Virgin Islands","Communication,Platform",3.1,4,3,"Ethereum","3",1,1,3,0,0.88,1,1,10212.57247,"Americas",28
+659,"Y",2017-11-10,2017-10-10,21760000,10,"Russia","Other",2.4,0,0,"Waves","9",1,0,0,0,0,1,0,6172.59967,"Europe",31
+660,"N",2018-03-07,2018-02-07,5e+07,7,"Netherlands","Cryptocurrency,Internet,Platform",2.6,0,0,"Ethereum","1",1,1,0,1,0.86,1,1,10083.17321,"Europe",28
+661,"N",2018-05-11,2018-05-04,2e+08,11,"Australia","Software,Smart Contract,Retail,Platform,Cryptocurrency,Business services",3.5,3.9,3.3,"Ethereum","1",1,1,0,1,1,1,1,9329.018799,"Oceania",7
+662,"Y",2018-03-25,2018-01-29,2.5e+07,6,"USA","Banking,Business services,Cryptocurrency,Investment,Smart Contract",2.4,0,0,"Ethereum","2",1,0,0,0,1,1,1,9501.257708,"Americas",55
+663,"N",2018-06-01,2017-11-20,0,7,"Russia","Cryptocurrency,Communication",2.7,2.5,2,"Ethereum","2",1,1,3,1,0.14,1,0,10488.23207,"Europe",193
+664,"N",2018-01-15,2017-12-25,0,16,"USA","Platform,Electronics",2.3,3.6,2,"Ethereum, Bitcoin","unknown",1,1,0,0,0,1,0,14876.68177,"Americas",21
+665,"N",2018-04-03,2018-01-25,5e+06,3,"Japan","Entertainment",2.4,0,0,"Ethereum","2",1,1,0,1,0,1,1,9335.348442,"Asia",68
+666,"N",2018-01-14,2017-12-15,4e+06,3,"India","Platform",1.8,0,0,"Ethereum","1",1,0,0,0,0.33,1,0,15535.08061,"Asia",30
+667,"Y",2018-03-31,2018-03-01,7e+07,18,"Russia","Real estate,Tourism",2.6,0,0,"Ethereum","1",1,1,0,0,0.22,1,1,9040.557097,"Europe",30
+668,"Y",2018-01-23,2018-01-15,4e+08,23,"Romania","Cryptocurrency,Energy",3.7,3.8,3.1,"Ethereum","5",1,1,2,1,0.96,1,1,11764.47786,"Europe",8
+669,"N",2017-12-31,2017-10-02,1.4e+08,5,"USA","Investment",2.7,1.7,2.3,"Ethereum","1",1,1,0,1,1,0.8,0,9563.4601,"Americas",90
+670,"N",2018-03-31,2018-03-01,2e+06,5,"Greece","Banking,Business services,Communication,Cryptocurrency,Platform,Smart Contract,Software",2.1,0,0,"Ethereum","unknown",1,0,0,0,1,1,0,9040.557097,"Europe",30
+671,"N",2018-04-11,2018-03-09,2.1e+07,11,"UK","Cryptocurrency,Business services,Internet,Platform,Retail,Smart Contract",3.9,4.3,4.3,"Ethereum","4",1,1,3,1,1,1,0,7932.293486,"Europe",33
+672,"N",2018-06-08,2018-05-11,7e+07,6,"Switzerland","Other,Internet,Big Data,Smart Contract",2.3,0,0,"Ethereum","1",1,0,0,0,0,1,1,7886.275862,"Europe",28
+673,"N",2018-06-11,2018-04-16,22222222,18,"UK","Cryptocurrency,Other",4.1,4,3.3,"Ethereum","1",1,1,0,1,0.72,1,1,8367.184553,"Europe",56
+674,"Y",2018-04-13,2018-03-17,5e+07,22,"Gibraltar","Platform,Investment",3.7,3.9,3.3,"Ethereum","4",1,1,0,1,1,0.96,0,7656.85784,"Europe",27
+675,"Y",2017-06-28,2017-06-27,1000,3,"Netherlands","Business services,Real estate",3,0,0,"Waves","unknown",1,1,2,0,0.67,1,0,2563.619995,"Europe",1
+676,"N",2018-04-20,2018-03-20,2.1e+09,19,"Belarus","Cryptocurrency,Entertainment,Communication,Platform",2.9,3.6,2.6,"Ethereum","1",1,1,0,0,0.58,1,0,7725.014984,"Europe",31
+677,"N",2017-10-31,2017-09-01,0,1,"Virgin Islands","Platform,Business services",2.6,0,0,"Ethereum","1",1,1,0,1,1,1,0,4723.070641,"Americas",60
+678,"Y",2018-03-31,2018-03-17,36009615,16,"Switzerland","Cryptocurrency",4.1,4.4,3.8,"NEO","2",1,1,3,1,1,1,1,8160.841374,"Europe",14
+679,"Y",2018-02-28,2018-02-01,151250000,13,"Canada","Platform",3.8,3.9,3.2,"Ethereum","6",1,1,3,1,1,1,0,9472.001151,"Americas",27
+680,"N",2018-04-15,2018-02-01,0,19,"Russia","Platform,Cryptocurrency,Investment,Entertainment,Software",3.6,4.8,4.3,"Ethereum","1",1,1,0,1,0.5,0.94,1,8834.703402,"Europe",73
+681,"Y",2018-04-05,2018-03-10,1.06e+08,15,"Malta","Media,Internet,Cryptocurrency,Other,Platform",3.5,3.9,3.3,"Ethereum","4",1,1,2,1,1,1,1,8119.099609,"Europe",26
+682,"Y",2017-09-28,2017-09-07,4.5e+07,5,"Spain","Internet",2.6,0,0,"Ethereum","1",1,0,0,1,0,1,1,3917.254994,"Europe",21
+683,"Y",2018-05-21,2018-05-01,8.2e+09,14,"Poland","Cryptocurrency,Platform,Smart Contract",4,4.1,3.7,"Ethereum","2",1,0,0,1,0,0,0,8908.594285,"Europe",20
+684,"N",2018-06-07,2018-04-24,3.5e+08,8,"UK","Cryptocurrency,Energy,Platform",1.9,1,1,"Ethereum","unknown",1,1,0,1,0,1,0,8448.587565,"Europe",44
+685,"N",2018-05-27,2018-04-16,111,12,"USA","Infrastructure",2.4,2,2,"Ethereum","3",1,1,0,0,0.75,1,0,8694.876407,"Americas",41
+686,"Y",2018-05-16,2018-04-18,362,18,"Malta","Platform,Entertainment",4.1,4,3.8,"Ethereum","2",1,1,3,1,1,1,0,9045.108971,"Europe",28
+687,"N",2018-03-28,2017-11-28,1e+08,6,"Indonesia","Platform",1.9,0,0,"unknown","10",1,0,0,0,0,1,0,11854.53937,"Asia",120
+688,"Y",2018-03-10,2018-03-01,2e+08,22,"Singapore","Banking,Business services",4.6,4.3,4.2,"Ethereum","1",1,1,2,1,1,1,1,10495.70303,"Asia",9
+689,"Y",2018-05-31,2018-04-01,4.5e+08,17,"Brazil","Platform,Cryptocurrency",3,2.9,2.5,"Separate Blockchain","3",1,1,2,1,1,1,0,8245.718502,"Americas",60
+690,"Y",2018-05-31,2018-03-01,1.5e+09,15,"Belize","Business services,Communication,Cryptocurrency,Media",4.8,4.8,4.7,"Ethereum","5",1,1,3,1,1,1,1,8513.54455,"Americas",91
+691,"N",2017-09-13,2017-08-13,1e+08,6,"Russia","Health",2.3,0,0,"Waves","1",1,1,0,0,0.5,1,0,4321.010315,"Europe",31
+692,"Y",2018-03-01,2017-12-26,8e+06,14,"Russia","Cryptocurrency,Business services,Tourism",3.3,3.5,3.1,"Ethereum","3",1,1,0,1,1,1,1,11668.62021,"Europe",65
+693,"Y",2018-02-14,2018-01-31,5.5e+08,16,"Canada","Cryptocurrency,Platform,Banking",3.3,4,4,"Ethereum","1",1,1,2,0,0.81,1,1,8585.255339,"Americas",14
+694,"Y",2017-07-31,2017-06-13,12500000,11,"Singapore","Cryptocurrency,Platform",3.1,3,2,"Ethereum","1",1,1,3,0,0,1,0,2546.682861,"Asia",48
+695,"Y",2018-05-31,2018-05-04,1.04e+09,23,"Malta","Banking",3,0,0,"Ethereum","1",1,0,0,0,0.96,1,1,8352.933559,"Europe",27
+696,"N",2017-09-11,2017-08-28,2.5e+07,8,"Russia","Retail",2.8,0,0,"Ethereum","3",1,0,0,0,0.38,1,0,4455.531315,"Europe",14
+697,"Y",2017-10-20,2017-09-25,26400000,6,"USA","Investment,Platform,Cryptocurrency",3.4,4.2,3.4,"Ethereum","1",1,0,1,0,0.33,1,0,4823.786161,"Americas",25
+698,"N",2018-04-12,2018-03-15,0,5,"Russia","Cryptocurrency,Legal,Other",3.3,0,0,"Ethereum","1",1,1,2,1,0.2,1,0,7694.319639,"Europe",28
+699,"N",2018-05-31,2018-01-14,3.6e+07,2,"USA","Health",2.1,2,2,"unknown","2",1,1,0,0,1,1,0,9106.923425,"Americas",137
+700,"N",2018-04-30,2018-04-01,250500000,11,"USA","Business services,Real estate",2.4,0,0,"Ethereum","1",1,0,0,0,1,1,0,8033.596631,"Americas",29
+701,"Y",2018-04-15,2018-02-15,9250000,18,"Latvia","Electronics",4.4,4.7,4.2,"Ethereum","2",1,1,0,1,0.88,1,1,8920.172022,"Europe",59
+702,"N",2018-06-11,2018-04-21,0,24,"USA","Banking,Platform",3.3,3,2,"Multichain","1",1,1,3,0,0.71,1,0,8378.176927,"Americas",51
+703,"Y",2017-12-20,2017-11-07,1.5e+07,15,"Russia","Entertainment",3.6,3.8,3.6,"Ethereum","1",1,1,0,1,0.53,1,0,11478.56362,"Europe",43
+704,"N",2017-08-31,2017-08-01,7e+06,3,"Belize","Cryptocurrency",2,0,0,"unknown","unknown",1,1,0,1,1,1,0,3880.989998,"Americas",30
+705,"N",2017-12-17,2017-11-27,3e+07,6,"Singapore","Cryptocurrency,Infrastructure,Electronics",2.7,2.3,2.7,"Ethereum","2",1,0,0,0,0.83,1,1,14286.20768,"Asia",20
+706,"N",2018-03-31,2018-03-02,5e+05,9,"India","Charity,Business services,Investment,Smart Contract",2.4,2.3,1,"Ethereum","1",1,1,0,1,0,0,0,8976.875667,"Asia",29
+707,"Y",2018-03-15,2017-12-04,5e+07,7,"UK","Banking,Cryptocurrency,Charity,Platform",3.1,3.4,2.8,"Ethereum","unknown",1,1,0,0,1,1,1,12363.95719,"Europe",101
+708,"Y",2017-07-21,2017-07-07,2e+08,11,"Estonia","Software,Platform",3.1,5,4.8,"Ethereum","1",1,0,0,0,0.73,1,1,2369.575326,"Europe",14
+709,"N",2017-09-23,2017-08-26,2.3e+07,6,"USA","Platform",1.5,1,1,"Ethereum","2",0,0,0,0,0,1,0,4156.286183,"Americas",28
+710,"Y",2017-11-11,2017-09-20,7,16,"Russia","Investment,Platform",3.3,3.2,2.5,"Ethereum","2",1,1,0,1,0.88,1,0,5416.751502,"Europe",52
+711,"N",2018-06-01,2018-03-26,1e+11,18,"USA","Entertainment,Communication,Platform",4,3.5,4,"unknown","3",1,1,0,1,0.61,1,0,8169.955136,"Americas",67
+712,"N",2018-02-28,2018-01-01,1.6e+08,7,"USA","Entertainment,Platform",3,0,0,"Ethereum","1",1,0,0,1,0.17,1,1,11370.64971,"Americas",58
+713,"N",2018-06-08,2018-05-08,15817083,10,"Australia","Platform,Cryptocurrency,Internet",3.6,4.2,3.1,"Ethereum","1",1,1,0,1,0.9,1,1,8009.560638,"Oceania",31
+714,"Y",2018-03-15,2018-02-16,37500000,14,"Latin America","Investment",3,0,0,"Ethereum","1",1,0,0,1,1,1,0,10214.22147,"Americas",27
+715,"N",2018-01-01,2017-12-01,0,14,"USA","Energy,Other",4,4.7,3.4,"Ethereum","1",1,1,3,1,0.93,0.93,0,15243.11252,"Americas",31
+716,"N",2017-09-11,2017-08-14,0,7,"Australia","Platform",2.4,0,0,"Ethereum","unknown",1,1,0,0,1,1,1,4351.229997,"Oceania",28
+717,"Y",2018-03-12,2018-02-12,2.5e+09,12,"USA","Platform,Entertainment,Sports",3.5,4,3.3,"Ethereum","unknown",1,0,2,0,1,1,1,10255.81351,"Americas",28
+718,"Y",2018-04-30,2018-01-15,2e+08,5,"Czech Republic","Banking",4,3.7,4.1,"Ethereum","5",1,1,0,1,1,1,0,9254.740594,"Europe",105
+719,"N",2018-06-08,2018-05-25,2.75e+10,21,"Cayman Islands","Platform",3.3,0,0,"VeChain","1",1,1,3,0,0.87,1,0,7514.935384,"Americas",14
+720,"Y",2017-10-30,2017-09-19,6e+07,16,"Belize","Tourism,Infrastructure",3.9,3.9,3.5,"Ethereum","2",1,1,1,1,0.88,1,1,4927.555228,"Americas",41
+721,"Y",2018-05-31,2018-05-01,1.5e+07,15,"India & Australia","Platform",3.5,3,2,"Ethereum","2",1,1,0,1,0.73,1,0,8450.997732,"#N/A",30
+722,"N",2018-05-20,2018-02-22,90,7,"Czech Republic","Real estate",2,0,0,"Ethereum","4",1,1,0,0,0,1,0,8763.644992,"Europe",87
+723,"Y",2017-10-29,2017-10-01,5e+07,26,"Canada","Cryptocurrency",3.6,4,2,"Ethereum","1",1,1,0,1,0.15,1,0,5295.285863,"Americas",28
+724,"N",2018-03-29,2018-02-27,0,17,"Saint Lucia","Cryptocurrency,Charity,Platform,Infrastructure",3.1,3.1,2.4,"Ethereum","1",1,1,0,0,1,1,0,9274.73291,"Americas",30
+725,"N",2018-04-24,2018-03-25,3.15e+08,10,"Canada","Artificial Intelligence,Cryptocurrency,Platform",2.8,0,0,"New Blockchain","2",1,1,0,1,0.7,1,0,7722.836757,"Americas",30
+726,"N",2018-03-15,2018-02-15,3.6e+07,13,"Australia","Media",1.9,3,2,"Waves","1",1,0,0,0,0,1,0,10212.57247,"Oceania",28
+727,"Y",2018-05-17,2018-04-07,2.6e+08,10,"Singapore","Infrastructure",2.5,2.8,2.8,"Ethereum","1",1,0,0,0,0,1,0,8609.07853,"Asia",40
+728,"Y",2018-02-05,2017-12-11,5e+07,14,"Cyprus","Banking,Cryptocurrency,Platform,Business services",3.4,4.5,3.4,"unknown","7",1,1,0,0,0.93,1,0,13786.69616,"Asia",56
+729,"Y",2018-02-14,2017-11-26,2e+07,14,"Estonia","Platform,Cryptocurrency,Investment,Banking",3.6,3.8,3.2,"Ethereum","4",1,1,3,0,0.93,1,1,12934.10297,"Europe",80
+730,"N",2018-05-01,2018-04-01,7e+07,7,"USA","Banking,Cryptocurrency,Internet,Investment",2.4,0,0,"Ethereum","1",1,0,0,0,1,1,0,8068.609958,"Americas",30
+731,"N",2018-06-10,2018-05-28,3e+08,17,"Singapore","Platform",3.4,0,0,"Ethereum","1",1,1,0,1,0.94,0.75,1,7488.413609,"Asia",13
+732,"N",2018-05-16,2018-04-30,4e+08,4,"UAE","Real estate",2.9,0,0,"Ethereum","unknown",1,1,0,0,0,1,0,9105.665901,"Asia",16
+733,"Y",2018-01-27,2017-12-27,2.4e+08,14,"Singapore","Infrastructure,Communication",3.3,4,4,"Ethereum","2",1,1,3,1,0.5,0.79,0,13576.62506,"Asia",31
+734,"Y",2018-02-11,2018-01-01,1.5e+08,20,"UK","Manufacturing,Platform",2.3,0,0,"unknown","unknown",1,1,0,0,0.9,1,0,11837.86956,"Europe",41
+735,"N",2018-05-05,2018-04-05,0,7,"USA","Infrastructure,Cryptocurrency,Business services,Banking,Investment,Platform,Smart Contract",3.4,0,0,"Ethereum","2",1,1,3,0,1,1,0,8400.890956,"Americas",30
+736,"N",2017-11-30,2017-11-02,0,26,"Singapore","Banking,Cryptocurrency",3.7,3,3,"Ethereum","1",1,1,3,1,0.81,1,1,7849.195834,"Asia",28
+737,"N",2017-12-15,2017-10-31,5e+07,8,"Canada","Platform,Business services",2,4,3,"Ethereum","3",1,0,0,0,0.5,1,1,10048.59109,"Americas",45
+738,"Y",2018-03-20,2018-01-21,3e+09,19,"Thailand","Infrastructure,Software,Retail",3.8,4.2,4.5,"Stellar","2",1,1,0,1,1,0.84,0,9809.936656,"Asia",58
+739,"N",2017-11-21,2017-10-22,5e+06,2,"Russia","Software,Platform",1.6,1,2,"unknown","1",1,0,0,0,1,1,1,6810.804168,"Europe",30
+740,"N",2018-02-28,2018-01-30,1e+08,9,"UK","Entertainment",1.9,0,0,"Ethereum","1",0,1,0,0,1,1,0,9518.114388,"Europe",29
+741,"N",2018-03-31,2018-02-01,2e+08,14,"Panama","Platform",2.3,0,0,"Ethereum","1",1,1,0,0,0,1,1,9245.310208,"Americas",58
+742,"N",2018-05-23,2018-04-25,2.1e+08,5,"USA","Cryptocurrency,Investment,Platform",3.4,3,3,"Ethereum","1",1,1,0,1,1,1,0,8889.741026,"Americas",28
+743,"Y",2017-08-17,2017-07-17,5e+06,21,"Switzerland","Energy",4.1,0,0,"Ethereum","1",1,1,0,1,0,0,0,3109.067169,"Europe",31
+744,"Y",2017-07-21,2017-06-21,600,6,"Russia","Cryptocurrency,Platform",1.6,1.8,1.5,"Ethereum","1",0,0,0,0,0,0,0,2478.20322,"Europe",30
+745,"Y",2018-01-16,2017-12-05,2.5e+07,8,"UK","Casino & Gambling,Banking,Investment",2.6,4,4,"Ethereum","2",1,0,0,0,1,1,0,15477.51394,"Europe",42
+746,"N",2018-01-15,2017-12-11,1.92e+08,17,"Slovenia","Platform,Business services,Investment,Retail,Manufacturing",2.8,3.1,2.3,"Ethereum","1",1,1,0,1,0.71,1,0,15631.43609,"Europe",35
+747,"Y",2018-04-21,2018-03-20,7e+08,17,"UK","Big Data,Cryptocurrency,Smart Contract,Software",2.4,2.2,2.2,"Ethereum","2",1,1,0,1,0.88,1,0,7760.486654,"Europe",32
+748,"Y",2018-03-31,2018-03-01,8e+06,13,"Singapore","Artificial Intelligence,Banking,Big Data,Business services,Cryptocurrency,Internet",2.8,0,0,"Ethereum","3",1,0,0,0,0.85,1,1,9040.557097,"Asia",30
+749,"N",2018-03-21,2018-02-21,0,8,"Mexico","Education",2.3,0,0,"Ethereum","2",1,1,0,1,0,1,1,9738.727943,"Americas",28
+750,"Y",2017-12-16,2017-12-08,3e+07,17,"USA","Platform,Cryptocurrency",4.2,4.9,4.9,"Ethereum","1",1,1,2,1,0,1,1,16859.07802,"Americas",8
+751,"N",2018-06-02,2018-04-12,1.14e+08,8,"UK","Health",1.9,1,2,"MAHRA platform","unknown",1,0,0,0,0,0.5,0,8499.606539,"Europe",51
+752,"N",2018-01-15,2017-12-01,2e+08,11,"Russia","Platform,Business services,Cryptocurrency",2.4,3,2,"Ethereum","1",1,1,0,0,0,1,0,15197.24346,"Europe",45
+753,"Y",2017-12-25,2017-10-15,1500001,9,"Russia","Platform,Banking",3.6,3.9,3.8,"Ethereum","1",1,1,0,1,0.78,1,0,9999.529419,"Europe",71
+754,"Y",2018-05-19,2018-02-19,1e+07,25,"UK","Retail",4.1,4.6,4.1,"Ethereum","6",1,1,0,0,0.76,1,0,8844.521219,"Europe",89
+755,"N",2017-10-27,2017-10-02,0,5,"Singapore","Real estate",2.2,1.4,1.2,"unknown","unknown",1,1,0,0,1,1,0,5278.946533,"Asia",25
+756,"Y",2018-02-23,2017-11-24,6e+07,7,"USA","Business services,Entertainment,Banking,Retail,Media",3.4,4.6,4.1,"Ethereum","2",1,1,0,0,0.14,1,1,12613.01361,"Americas",91
+757,"N",2018-02-10,2018-01-10,0,4,"Estonia","Investment",2,0,0,"Ethereum","1",1,1,0,0,0,1,0,10888.17036,"Europe",31
+758,"Y",2017-12-07,2017-11-02,3e+07,7,"Australia","Platform",3.8,3.7,3.2,"Ethereum","1",1,1,2,1,0.57,1,0,8799.032728,"Oceania",35
+759,"N",2018-05-18,2018-03-20,28301260,36,"Serbia, France","Banking,Cryptocurrency,Investment,Platform",3.4,4,4,"Ethereum","4",1,0,0,1,1,1,0,8342.506161,"Europe",59
+760,"N",2018-05-10,2018-04-10,22500000,6,"Germany","Legal,Investment,Cryptocurrency,Other,Platform",1.6,1,1,"Ethereum","1",1,0,0,0,0,1,0,8803.427089,"Europe",30
+761,"Y",2017-11-24,2017-10-27,4.9e+08,10,"Netherlands","Business services,Investment",3,0,0,"Ethereum","1",1,1,0,1,0,1,0,7122.756196,"Europe",28
+762,"N",2017-10-07,2017-09-07,9e+06,5,"Russia","Education",2.4,1,2,"Waves","5",1,0,0,0,1,1,0,4037.658061,"Europe",30
+763,"Y",2017-11-18,2017-10-26,6e+07,10,"Russia","Casino & Gambling,Platform",3.5,3.5,3.5,"Ethereum","4",1,1,0,1,0,1,1,6817.098328,"Europe",23
+764,"Y",2017-11-20,2017-11-02,5e+08,31,"Switzerland","Platform,Cryptocurrency,Software",4.1,4.4,4.2,"Ethereum","2",1,1,0,0,0.9,1,1,7204.662109,"Europe",18
+765,"Y",2017-11-18,2017-10-18,6e+07,35,"Cambodia","Banking,Platform",4.1,4.3,3.9,"Ethereum","1",1,1,0,1,0.8,1,0,6567.774994,"Asia",31
+766,"Y",2018-04-30,2018-03-20,1.3e+08,8,"Switzerland","Internet",3.5,3,2,"Ethereum","2",1,1,0,0,1,1,0,8063.078799,"Europe",41
+767,"Y",2017-06-03,2017-05-31,1e+08,6,"USA","Platform,Infrastructure,Software",3,0,0,"Ethereum","unknown",1,1,2,0,1,0,0,2424.547486,"Americas",3
+768,"Y",2018-02-25,2018-01-25,4e+08,15,"Lithuania","Platform,Business services,Cryptocurrency,Investment",3.1,3.2,2.7,"Ethereum","1",1,1,1,1,1,1,0,9718.982269,"Europe",31
+769,"N",2018-01-31,2017-12-15,0,8,"Brazil","Manufacturing",2.6,3,3,"Ethereum","1",1,0,3,1,1,1,0,14085.60002,"Americas",47
+770,"Y",2018-04-30,2018-03-01,86400000,11,"UK","Platform,Internet,Cryptocurrency,Business services,Software",3.9,3.6,3.8,"Ethereum","3",1,1,0,1,1,1,1,8545.330638,"Europe",60
+771,"N",2017-10-26,2017-09-26,4.8e+08,14,"United Arab Emirates","Education",3.6,5,4,"Ethereum","1",1,1,2,0,0.5,1,1,5053.06387,"Asia",30
+772,"Y",2018-01-30,2017-11-28,4e+07,19,"UK","Platform,Business services,Retail",4.3,4.5,4.1,"Ethereum","4",1,1,3,1,1,1,0,14058.3533,"Europe",63
+773,"N",2018-05-27,2018-04-09,6e+08,34,"Korea","Business services,Platform",2.5,0,0,"Keccak","1",1,1,0,0,0,1,0,8527.738351,"Asia",48
+774,"Y",2018-02-28,2017-11-13,5e+07,11,"Singapore","Cryptocurrency,Platform,Investment",3.5,3.9,3.5,"Ethereum","2",1,1,0,1,1,0.91,0,11998.58864,"Asia",107
+775,"Y",2018-05-25,2018-04-20,2.1e+07,6,"Belize","Communication",2.7,2.4,2.4,"BitShares","6",1,1,0,1,1,1,1,8834.506104,"Americas",35
+776,"N",2018-05-22,2018-04-20,26520000,9,"USA","Artificial Intelligence",2.5,0,0,"Ethereum","4",1,0,0,0,0.78,1,1,8952.027877,"Americas",32
+777,"N",2017-10-21,2017-10-01,0,4,"Brazil","Platform,Cryptocurrency",1.6,0,0,"Waves","unknown",1,0,0,0,1,1,0,5083.544782,"Americas",20
+778,"N",2018-02-12,2018-01-15,4e+08,8,"USA","Entertainment,Platform",3.6,4.5,4,"StreamSpace","3",1,1,0,1,0.25,1,1,10171.93423,"Americas",28
+779,"Y",2018-02-26,2017-11-27,195555360,9,"UK","Business services,Platform,Software",4,4,3.9,"Ethereum","3",1,1,1,1,0.89,1,1,12650.72383,"Europe",91
+780,"N",2018-06-01,2018-03-01,1e+08,1,"Canada","Retail",2.3,1,1,"Waves","5",0,0,0,0,1,1,0,8503.091923,"Americas",92
+781,"Y",2018-05-10,2018-05-03,9.9e+08,13,"Isle of Man","Big Data,Health,Platform,Software",4,4,3.6,"Ethereum","3",1,1,3,0,0.46,1,0,9491.815064,"Europe",7
+782,"N",2018-05-01,2018-02-18,0,10,"Russia","Platform,Retail",2.5,0,0,"unknown","unknown",1,1,0,0,0.7,1,0,8842.869582,"Europe",72
+783,"Y",2018-01-30,2017-12-07,180000,7,"USA","Other",2.7,4,4,"Ethereum","2",1,1,0,1,1,0.83,1,14514.81458,"Americas",54
+784,"Y",2017-11-26,2017-10-20,2.5e+07,4,"Russia","Business services,Platform",2.6,2,2,"Ethereum","7",1,1,0,1,0.5,1,0,6995.933144,"Europe",37
+785,"N",2017-12-16,2017-11-16,7.2e+08,21,"Russia","Entertainment,Platform,Virtual Reality",3.4,4.2,3,"Ethereum","1",1,1,0,1,0.95,1,0,11974.71807,"Europe",30
+786,"N",2018-05-01,2018-04-23,3e+06,1,"Russia","Entertainment",1.5,1,1,"Waves","1",1,1,3,0,0.08,1,0,9207.755534,"Europe",8
+787,"N",2018-04-03,2018-03-04,5.236e+09,21,"Singapore","Cryptocurrency,Investment,Platform,Smart Contract",3.1,3,2.5,"Ethereum","2",1,1,3,1,0.71,1,1,8648.84868,"Asia",30
+788,"N",2018-02-15,2018-01-01,0,4,"Denmark","Cryptocurrency",1.5,2,2,"Bitcoin","unknown",1,1,0,0,0,0,0,11616.87895,"Europe",45
+789,"N",2018-03-21,2018-02-28,0,5,"Russia","Infrastructure",2.6,3,3,"Ethereum","1",1,0,0,1,0,1,1,9584.386808,"Europe",21
+790,"N",2018-04-16,2018-06-16,5e+07,14,"USA","Cryptocurrency,Entertainment",2.5,3,2,"Ethereum","1",1,0,0,1,0.71,1,1,0,"Americas",-61
+791,"N",2017-12-01,2017-11-01,3e+06,6,"Russia","Real estate,Investment",1.4,2,2,"Waves","6",0,0,0,0,0,1,0,7915.148028,"Europe",30
+792,"Y",2018-06-07,2018-04-26,6e+07,20,"Malta","Business services,Cryptocurrency,Platform,Smart Contract",4,5,5,"Ethereum","1",1,1,3,1,0.7,1,1,8410.306981,"Europe",42
+793,"Y",2017-10-12,2017-09-12,331700000,12,"Russia","Cryptocurrency",3.6,4.6,4.2,"Waves","5",1,1,0,0,0.5,1,0,4137.625173,"Europe",30
+794,"N",2018-01-31,2017-12-12,0,7,"Germany","Cryptocurrency,Entertainment",3.5,3,4,"Ethereum","5",1,1,0,1,1,1,1,14245.02746,"Europe",50
+795,"N",2017-11-01,2017-10-01,6.5e+07,3,"Germany","Software",2,0,0,"Waves","3",1,0,0,0,1,1,0,5404.047806,"Europe",31
+796,"N",2017-12-01,2017-10-15,0,6,"Thailand","Real estate",2.4,1,1,"Ethereum","1",1,0,0,1,0.5,1,0,7190.185791,"Asia",47
+797,"Y",2017-12-05,2017-11-06,1e+08,9,"Singapore","Platform,Other",3.4,3.6,3,"Ethereum","1",1,1,3,0,1,1,0,8516.67863,"Asia",29
+798,"Y",2018-04-25,2018-03-25,4.2e+10,21,"Switzerland","Platform,Infrastructure",4,4.4,3.7,"Ethereum","1",1,1,3,1,0.86,1,0,7757.92749,"Europe",31
+799,"N",2018-01-31,2017-12-18,3.5e+08,8,"Ukraine","Casino & Gambling",2.6,3.4,2.4,"Ethereum","1",1,0,0,0,0.5,1,0,13772.52665,"Europe",44
+800,"N",2018-04-29,2018-03-01,4e+09,3,"UK","Software",2.3,0,0,"Ethereum","1",1,0,0,0,0,1,0,8533.743652,"Europe",59
+801,"N",2018-05-30,2018-04-16,355200000,13,"Philippines","Platform",2.5,0,0,"Ethereum","3",1,0,0,0,0.69,1,1,8604.442426,"Asia",44
+802,"N",2018-01-30,2017-12-01,0,3,"Canada","Platform,Retail",1.8,0,0,"Ethereum","1",1,1,0,0,0.67,1,0,14254.97707,"Americas",60
+803,"Y",2018-05-01,2018-03-31,3.5e+08,15,"Estonia","Health",4.1,4.1,3.5,"Ethereum","2",1,1,2,1,0.8,1,0,8034.388702,"Europe",31
+804,"N",2017-12-05,2017-10-24,1.5e+08,18,"USA","Software,Media,Communication",3,0,0,"NEM","unknown",1,0,0,0,0.44,1,0,7879.309968,"Americas",42
+805,"Y",2017-08-16,2017-08-01,1.4e+13,3,"China","Platform",3,3,3,"Ethereum","unknown",1,0,3,1,0,1,1,3475.706848,"Asia",15
+806,"Y",2017-01-06,2016-11-18,1e+08,14,"Switzerland","Platform",3.4,4.7,5,"Ethereum","1",1,1,0,0,0.62,0.92,0,828.799519,"Europe",49
+807,"N",2018-03-26,2018-01-15,1.8e+07,8,"USA","Platform,Cryptocurrency,Software,Internet,Media,Smart Contract,Communication,Education",4.3,4.3,4.3,"Ethereum","1",1,1,0,1,1,1,1,9903.906113,"Americas",70
+808,"N",2018-03-26,2018-02-26,0,6,"USA","Business services,Communication,Platform",2.3,0,0,"Ethereum","1",1,0,0,1,0.5,0.5,1,9480.351731,"Americas",28
+809,"Y",2017-10-26,2017-09-21,1.4e+08,18,"Netherlands","Business services,Platform",3.1,4.2,4.2,"Ethereum","2",1,1,0,1,0.76,1,0,4869.667501,"Europe",35
+810,"Y",2017-08-31,2017-07-15,1.34e+09,5,"India","Cryptocurrency,Investment",2.4,5,4,"Ethereum","1",1,0,0,0,1,1,1,3412.219162,"Asia",47
+811,"Y",2018-04-30,2018-03-15,7200000,18,"United Arab Emirates","Energy,Investment",3.5,4.5,3.4,"Ethereum","3",1,1,3,1,0.78,1,1,8086.377223,"Asia",46
+812,"N",2018-02-24,2017-12-26,0,6,"Canada","Charity,Health",2.1,2.8,1.5,"Ethereum","2",1,0,0,0,0,1,0,11770.8689,"Americas",60
+813,"N",2018-05-05,2018-03-10,1e+07,8,"Czechia","Entertainment,Platform",2.1,3,2,"Ethereum","1",1,0,0,1,1,1,0,8295.295419,"Europe",56
+814,"Y",2017-10-16,2017-09-16,5e+07,10,"Singapore","Cryptocurrency,Platform,Investment,Banking,Real estate",3.5,4,3.3,"Ethereum","1",1,1,1,0,1,1,0,4398.170646,"Asia",30
+815,"N",2017-11-14,2017-10-14,18200000,13,"Greece","Platform,Software,Business services",2.5,0,0,"unknown","1",1,0,0,1,0.38,1,0,6322.609665,"Europe",31
+816,"Y",2018-05-10,2018-03-26,102500000,10,"Belize","Platform,Investment,Real estate",2.8,3.1,3,"Ethereum","1",1,1,0,1,1,1,0,8267.913468,"Americas",45
+817,"Y",2018-02-10,2017-12-10,1e+08,10,"Germany","Business services,Legal,Platform,Smart Contract",3.7,4.1,4.3,"Ethereum","unknown",1,1,0,0,0.4,1,0,13369.7913,"Europe",62
+818,"Y",2017-12-24,2017-12-16,1.06e+08,6,"Switzerland","Cryptocurrency,Platform,Banking,Software",3.2,3.8,3.7,"Ethereum","1",1,1,0,1,0,1,1,16712.59994,"Europe",8
+819,"Y",2018-04-30,2018-03-01,4e+07,30,"UK","Big Data,Health,Platform,Smart Contract",4,4.1,3.9,"Ethereum","4",1,1,3,1,1,1,0,8545.330638,"Europe",60
+820,"Y",2017-11-30,2017-10-31,2e+07,8,"Russia","Cryptocurrency,Communication,Internet,Platform",4,4.1,3.8,"Ethereum","5",1,1,3,0,0.89,0.89,0,7769.754489,"Europe",30
+821,"N",2018-06-02,2018-05-02,500,4,"UK","Cryptocurrency,Big Data,Artificial Intelligence,Investment,Platform,Software",2.1,1.5,1,"Ethereum","1",1,1,0,1,0.75,1,1,8376.463135,"Europe",31
+822,"Y",2018-02-01,2018-02-01,2307692310,15,"Gibraltar","Energy",4,4.2,4.1,"Ethereum","1",1,1,3,0,0.73,1,0,9170.540039,"Europe",0
+823,"Y",2018-03-20,2018-03-01,1.5e+09,18,"Switzerland","Business services,Communication,Internet,Media,Platform",4.7,4.7,4.7,"Ethereum","1",1,1,1,0,1,1,0,9576.466455,"Europe",19
+824,"N",2018-01-31,2017-11-06,24999,10,"Estonia","Platform,Business services,Investment,Real estate,Cryptocurrency",2.3,0,0,"Ethereum","5",1,1,0,0,0.9,0.9,0,12394.57196,"Europe",86
+825,"Y",2017-11-24,2017-11-09,1.25e+08,10,"Japan","Platform",3.5,3.8,2.8,"Ethereum","2",1,1,3,1,1,1,0,7425.337524,"Asia",15
+826,"Y",2017-08-17,2017-07-17,1e+09,9,"Israel","Platform",1.8,0,0,"Ethereum","unknown",1,1,0,0,0,0,0,3109.067169,"Asia",31
+827,"N",2018-05-15,2018-04-02,4e+08,15,"Singapore","Business services,Infrastructure",3.4,3.4,3.4,"Ethereum","1",1,1,1,1,0.81,1,0,8439.786577,"Asia",43
+828,"N",2017-12-06,2017-11-01,0,8,"Russia","Platform,Manufacturing",2.1,0,0,"Ethereum","3",1,0,0,0,0,1,0,8489.799696,"Europe",35
+829,"N",2017-11-30,2017-10-25,0,15,"USA","Platform,Software",3.1,0,0,"Ethereum","1",1,1,0,0,1,1,0,7468.551045,"Americas",36
+830,"N",2017-12-24,2017-12-05,0,11,"Russia","Platform,Entertainment",3,3,3,"Ethereum","1",1,1,0,1,0,1,1,16337.78003,"Europe",19
+831,"Y",2018-04-15,2018-01-15,4.5e+07,5,"Russia","Cryptocurrency,Retail,Business services",2.8,4,3,"ThePower","2",1,1,0,1,0,1,0,9321.861028,"Europe",90
+832,"N",2018-03-29,2018-03-01,4e+07,10,"Belarus","Business services,Infrastructure",2.9,3,3,"Waves","5",1,1,0,1,0.4,1,1,9185.973111,"Europe",28
+833,"Y",2017-06-18,2017-05-18,9476400,4,"Switzerland","Banking",2.5,0,0,"Ethereum","1",1,1,3,0,1,1,0,2442.832809,"Europe",31
+834,"Y",2017-12-22,2017-11-27,5e+07,12,"Lithuania","Platform,Communication",4.2,4.3,4.7,"Ethereum","3",1,1,0,0,1,1,0,14736.9446,"Europe",25
+835,"Y",2018-03-31,2018-02-19,7e+07,27,"Russia","Cryptocurrency,Business services,Internet,Platform",3.6,3.9,3.6,"Ethereum","3",1,1,3,1,0.81,1,1,9386.604171,"Europe",40
+836,"N",2018-01-31,2018-01-15,3e+07,16,"USA","Platform,Cryptocurrency,Internet",3.7,4,3.6,"Ethereum","1",1,1,0,1,1,1,1,11442.42952,"Americas",16
+837,"Y",2018-05-21,2018-04-04,3e+08,30,"China","Real estate",3.6,5,4,"Ethereum","3",1,1,0,0,1,1,1,8473.004985,"Asia",47
+838,"N",2018-04-30,2018-04-01,1.3e+08,11,"Russia","Business services,Education,Internet",2.8,3,3,"Ethereum","2",1,0,0,1,0.36,1,0,8033.596631,"Europe",29
+839,"Y",2018-02-18,2018-02-14,4.5e+08,53,"Israel","Platform",4.1,4.7,4.4,"Ethereum","1",1,1,0,0,0.91,1,0,10311.88613,"Asia",4
+840,"Y",2018-03-04,2018-01-04,1.68e+10,13,"UK","Infrastructure,Platform,Smart Contract,Software",3.8,4.4,3.9,"Ethereum","3",1,1,0,0,0.77,1,1,11201.12889,"Europe",59
+841,"Y",2018-03-22,2018-03-01,1e+08,10,"Seychelles","Cryptocurrency,Investment,Platform,Smart Contract",4.1,4.2,3.8,"Ethereum","1",1,1,3,1,0.9,1,0,9508.503596,"Africa",21
+842,"Y",2018-02-14,2018-01-30,2e+07,22,"Singapore","Platform,Business services,Artificial Intelligence,Big Data",2.6,3.1,3.1,"Ethereum","6",1,1,0,0,0.79,0.26,1,8680.320618,"Asia",15
+843,"Y",2017-10-26,2017-08-10,2.7e+07,11,"Poland","Cryptocurrency",3,0,0,"Ethereum","1",1,1,0,0,0,1,1,4492.224102,"Europe",77
+844,"Y",2017-12-01,2017-11-01,2.4e+07,17,"Germany","Entertainment",3.8,4,3.7,"unknown","2",1,1,3,0,0.76,0.94,0,7915.148028,"Europe",30
+845,"N",2018-01-31,2018-01-01,0,3,"UK","Platform",1.5,0,0,"Ethereum","1",0,0,0,0,0,1,0,13085.55809,"Europe",30
+846,"N",2018-06-01,2017-11-17,2e+08,5,"Chile","Real estate",1.6,2,1.6,"unknown","2",0,0,0,0,1,1,0,10447.983,"Americas",196
+847,"N",2018-05-16,2018-04-16,1.5e+08,11,"Belize","Platform",2.5,4,4,"Ethereum","1",1,1,0,1,0.91,1,1,8976.416772,"Americas",30
+848,"Y",2018-05-04,2018-04-19,8e+07,12,"Malta","Communication",3,0,0,"Ethereum","2",1,1,0,0,0.92,1,1,9149.282471,"Europe",15
+849,"N",2017-11-29,2017-11-08,5e+07,11,"Colombia","Education,Platform",3.5,4.4,3.4,"Ethereum","1",1,1,0,1,1,1,1,7916.014537,"Americas",21
+850,"Y",2018-01-14,2018-01-14,6e+09,67,"Cayman Islands","Business services",3.5,4,4,"Ethereum","unknown",1,1,0,1,0.18,1,0,13772,"Americas",0
+851,"Y",2018-03-31,2018-03-01,2.6e+08,18,"Netherlands","Artificial Intelligence,Platform",3.9,3.4,3.4,"NEO","2",1,1,3,1,0.78,1,0,9040.557097,"Europe",30
+852,"N",2018-03-26,2018-03-05,50031000,18,"Slovenia","Platform,Investment,Cryptocurrency,Business services,Smart Contract",3.9,3.9,3.7,"Ethereum","1",1,1,1,1,0.94,1,0,9018.195446,"Europe",21
+853,"N",2018-06-10,2018-04-01,187500000,8,"Cayman Island","Cryptocurrency",2.5,0,0,"Ethereum","4",1,0,0,0,0.75,1,0,8145.314776,"Americas",70
+854,"N",2017-10-31,2017-09-07,0,2,"UK","Real estate",2.1,0,0,"Ethereum","unknown",1,0,0,0,1,1,0,4742.61108,"Europe",54
+855,"Y",2018-03-14,2018-02-07,8.4e+07,6,"USA","Software",2,3,1.2,"Ethereum","3",1,0,0,0,0,1,0,9896.083103,"Americas",35
+856,"Y",2018-02-10,2018-02-01,28672000,18,"Singapore","Banking",3.3,0,0,"Ethereum","1",1,0,3,1,0.72,1,0,8340.825049,"Asia",9
+857,"N",2018-01-16,2017-12-01,0,10,"South Africa","Cryptocurrency",2.9,4,4,"Ethereum","1",1,1,0,1,0.4,1,0,15118.37658,"Africa",46
+858,"N",2017-11-04,2017-10-04,70000,5,"Australia","Charity",1.9,0,0,"Ethereum","1",0,0,0,0,1,1,0,5670.787491,"Oceania",31
+859,"Y",2017-09-11,2017-09-11,7.5e+07,9,"USA","Investment,Platform",3.3,2.5,2.5,"Ethereum","2",1,0,3,1,0.56,1,1,4161.27002,"Americas",0
+860,"N",2017-09-22,2017-09-08,2.8e+08,3,"Russia","Communication",2.4,0,0,"Ethereum","1",1,0,0,0,1,1,0,3860.711328,"Europe",14
+861,"Y",2017-10-28,2017-10-21,1e+08,21,"USA","Internet,Cryptocurrency,Artificial Intelligence,Investment,Platform",4.7,4.5,3.9,"Ethereum","1",1,1,0,1,0.9,1,0,5835.824951,"Americas",7
+862,"Y",2018-03-31,2018-02-13,400,7,"South Africa","Artificial Intelligence,Cryptocurrency,Investment,Smart Contract",2.6,0,0,"Ethereum","3",1,0,0,1,1,1,1,9468.266196,"Africa",46
+863,"N",2018-05-22,2018-03-12,5.7e+08,10,"USA","Communication,Internet,Media",3.5,0,0,"Ethereum","4",1,1,2,1,0.58,1,0,8359.052341,"Americas",71
+864,"N",2017-12-25,2017-11-25,0,2,"Russia","Platform,Business services",1.5,0,0,"Ethereum","1",1,0,0,0,0,0,0,14320.43964,"Europe",30
+865,"Y",2018-05-10,2018-04-17,300,40,"Slovenia","Artificial Intelligence,Platform,Retail",4.5,4.6,4.2,"Ethereum","1",1,1,2,1,0.93,1,0,9122.663737,"Europe",23
+866,"Y",2018-01-15,2018-01-15,5.5e+07,15,"Romania","Platform,Communication",3.8,4,3.4,"Ethereum","2",1,1,3,1,1,1,0,13819.79981,"Europe",0
+867,"Y",2018-06-01,2018-02-21,3e+09,23,"USA","Health",3.6,0,0,"Ethereum","5",1,0,3,1,0.96,1,1,8641.109404,"Americas",100
+868,"Y",2017-09-06,2017-09-06,6e+06,7,"UK","Entertainment",3.1,3,4,"Ethereum","1",1,1,2,1,0.89,0.5,1,4597.120117,"Europe",0
+869,"Y",2018-02-10,2018-01-15,1e+07,9,"UK","Education,Platform",2.3,1.8,1.5,"Ethereum","2",1,1,0,0,0.11,1,0,10293.68712,"Europe",26
+870,"Y",2018-04-30,2018-04-16,2.1e+08,21,"Costa Rica","Smart Contract,Platform,Entertainment,Cryptocurrency,Casino & Gambling,Software,Sports",4.8,4.8,4.8,"Ethereum","3",1,1,3,1,1,1,1,8847.543294,"Americas",14
+871,"Y",2018-01-16,2018-01-16,2.01e+08,23,"Liechtenstein","Platform,Business services,Infrastructure",4,4.5,3.3,"Ethereum","1",1,1,0,1,1,1,0,11490.5,"Europe",0
+872,"Y",2018-01-01,2017-11-30,1.5e+08,9,"USA","Platform,Banking,Infrastructure",3.4,3.4,3.3,"Ethereum","1",1,1,0,0,0.44,1,1,15091.3091,"Americas",32
+873,"Y",2018-05-05,2018-03-16,3.1e+09,23,"Philippines","Communication",3.2,2.9,3.1,"Ethereum","5",1,1,0,1,0.96,1,1,8223.854301,"Asia",50
+874,"Y",2016-09-15,2016-08-23,80000,1,"Switzerland","Platform,Cryptocurrency,Business services",1.3,2.4,2.4,"BitShares","unknown",0,1,0,0,0,0,0,595.5389124,"Europe",23
+875,"N",2017-12-09,2017-11-10,0,13,"UK","Cryptocurrency,Business services,Banking",2.8,3,3,"Ethereum","1",1,1,0,1,1,1,0,9688.958301,"Europe",29
+876,"Y",2017-09-29,2017-09-11,462500000,12,"Russia","Platform,Cryptocurrency",1.5,0,0,"unknown","1",0,0,0,0,0,1,0,3850.792095,"Europe",18
+877,"Y",2018-06-01,2018-04-01,6400000,2,"UK","Cryptocurrency,Investment",2.4,0,0,"Ethereum","2",1,1,0,1,1,1,1,8234.359336,"Europe",61
+878,"Y",2018-03-30,2018-01-29,4.5e+07,18,"Cyprus","Banking,Business services",2.6,0,0,"Ethereum","1",1,1,2,0,0.89,1,0,9346.28807,"Asia",60
+879,"N",2018-01-31,2018-01-10,0,9,"Russia","Platform,Communication",1.6,1.6,1,"unknown","unknown",1,0,0,0,0,1,0,12046.0546,"Europe",21
+880,"N",2018-05-31,2018-05-10,3.5e+07,5,"Russia","Education,Investment,Smart Contract,Big Data,Banking,Business services,Cryptocurrency",1.4,1.3,1,"unknown","unknown",1,0,0,0,0,1,0,8033.428178,"Europe",21
+881,"Y",2018-05-25,2018-02-01,1e+09,9,"Australia","Cryptocurrency,Investment",2.5,0,0,"Ethereum","2",1,1,0,0,0.71,1,1,8809.024217,"Oceania",113
+882,"N",2017-11-30,2017-10-30,1.3e+07,14,"Switzerland","Business services,Platform",2.8,3.2,2.5,"Ethereum","1",1,1,0,0,0.86,1,1,7718.528717,"Europe",31
+883,"N",2018-05-31,2018-01-01,5e+08,14,"UK","Banking,Cryptocurrency",2.7,2.4,2.5,"Ethereum","7",1,1,1,1,1,1,0,9629.896898,"Europe",150
+884,"N",2018-05-01,2017-12-01,0,10,"Kenya","Business services",1.1,1,1,"unknown","unknown",0,0,3,1,0.4,0,0,11022.20337,"Africa",151
+885,"N",2017-10-31,2017-10-21,1e+09,27,"USA","Platform,Communication",3.4,4,3,"Ethereum","4",1,1,0,1,0.29,1,0,5949.03449,"Americas",10
+886,"N",2018-01-29,2017-12-19,9e+07,6,"Finland","Software",2.3,0,0,"Ethereum","unknown",1,0,0,1,0.78,1,1,13817.19287,"Europe",41
+887,"N",2018-05-10,2018-02-11,46900000,33,"Gibraltar","Artificial Intelligence,Education,Platform,Virtual Reality",2.6,0,0,"Ethereum","2",1,1,0,0,0,1,0,8959.1281,"Europe",88
+888,"N",2018-04-30,2018-04-01,1.15e+08,9,"USA","Health",3.6,4,3.2,"Ethereum","4",1,1,0,1,0.33,1,0,8033.596631,"Americas",29
+889,"N",2018-03-31,2018-03-01,7.5e+10,6,"Russia","Investment,Real estate",1.6,1.7,1.3,"Ethereum","1",0,0,0,0,0.17,1,0,9040.557097,"Europe",30
+890,"N",2018-04-20,2018-03-29,0,11,"Netherland","Smart Contract",2.4,0,0,"Ethereum","2",1,0,0,0,0,1,0,7416.905167,"Europe",22
+891,"Y",2018-04-24,2018-02-24,2.5e+07,6,"Romania","Charity,Cryptocurrency,Platform",2.5,2.4,1.4,"Ethereum","4",1,1,2,1,1,1,0,8618.512663,"Europe",59
+892,"N",2017-09-14,2017-08-15,0,2,"USA","Media,Platform",3,0,0,"Ethereum","1",1,1,0,0,0,1,1,4291.254521,"Americas",30
+893,"N",2018-02-05,2018-01-05,0,4,"Russia","Cryptocurrency",1.5,0,0,"unknown","unknown",1,0,0,0,0,1,0,12144.41502,"Europe",31
+894,"N",2018-03-31,2018-03-01,2.7e+08,9,"Singapore","Business services,Platform",2.9,0,0,"Ethereum","1",1,1,2,1,0.44,1,0,9040.557097,"Asia",30
+895,"Y",2018-05-28,2018-04-24,1.3e+08,14,"Australia","Business services,Cryptocurrency,Investment,Platform,Retail",2.7,2.8,2.4,"Ethereum","4",1,1,0,1,0.43,1,0,8697.930288,"Oceania",34
+896,"Y",2018-02-09,2018-02-07,6.6e+07,11,"France","Platform,Banking",3.9,4.5,3.9,"Ethereum","1",1,1,2,1,1,1,0,8207.956706,"Europe",2
+897,"N",2018-04-22,2018-02-01,10450000,5,"USA","Business services",2.1,2,1,"Ethereum","1",1,0,0,0,0,1,0,8799.140878,"Americas",80
+898,"Y",2017-10-18,2017-09-18,3170000,4,"Russia","Infrastructure",2.5,0,0,"Ethereum","unknown",1,1,0,1,0,1,0,4526.824833,"Europe",30
+899,"Y",2018-04-27,2018-04-11,1,20,"Singapore","Cryptocurrency,Platform",3.3,5,5,"unknown","unknown",1,1,2,0,0,1,1,8457.289378,"Asia",16
+900,"N",2017-11-07,2017-10-07,0,8,"Israel","Sports,Health,Cryptocurrency",1.7,2,2,"Ethereum","1",0,0,0,0,0,1,0,5940.974045,"Asia",31
+901,"N",2018-01-19,2017-11-19,0,19,"USA","Platform,Business services",2.1,0,0,"Ethereum","1",1,0,0,1,0.89,1,0,13738.8682,"Americas",61
+902,"Y",2018-03-24,2018-02-15,1e+08,17,"Korea","Casino & Gambling,Platform",3,0,0,"QRC","3",1,1,0,0,0,1,0,9826.134766,"Asia",37
+903,"Y",2017-07-21,2017-06-22,3e+07,26,"China","Banking,Cryptocurrency",3.7,4,4,"Ethereum","1",1,1,2,1,0,1,0,2471.173324,"Asia",29
+904,"Y",2017-10-15,2017-09-15,8500000,5,"UK","Real estate",2.4,2,2,"Bitshares","1",1,0,0,0,0,1,1,4330.813555,"Europe",30
+905,"N",2018-04-27,2018-01-22,1e+08,4,"USA","Entertainment,Media",2.4,0,0,"Ethereum","unknown",1,0,3,0,0.75,1,0,9051.186381,"Americas",95
+906,"N",2017-11-30,2017-10-30,1250200000,12,"Belarus","Platform,Cryptocurrency",3.4,3.9,4.1,"Ethereum","1",1,1,0,1,1,1,0,7718.528717,"Europe",31
+907,"N",2018-05-26,2018-04-26,50,1,"Cayman Islands","Big Data,Infrastructure,Investment,Platform",3.6,4,3.5,"Ethereum","1",1,1,0,1,1,1,0,8754.197077,"Americas",30
+908,"Y",2017-07-16,2017-06-28,4.77e+15,10,"USA","Cryptocurrency,Software",2.4,0,0,"Ethereum","1",1,1,0,0,0,1,0,2428.935277,"Americas",18
+909,"N",2018-01-29,2017-12-01,4e+06,3,"USA","Business services,Platform",1.9,0,0,"unknown","1",1,1,0,1,1,1,0,14324.1217,"Americas",59
+910,"N",2017-10-26,2017-10-02,1e+07,10,"Australia","Platform,Other",3.8,4.3,4.2,"Ethereum","1",1,1,3,0,0.8,1,1,5258.868398,"Oceania",24
+911,"N",2018-01-31,2017-11-15,26600000,20,"Cyprus","Business services,Platform,Cryptocurrency,Banking,Communication",3.3,4.3,3.6,"Ethereum","unknown",1,0,0,1,0.6,1,0,13044.05513,"Asia",77
+912,"Y",2017-06-09,2017-05-26,1e+08,2,"China","Platform",1.5,1.7,1,"unknown","4",1,0,0,0,0,1,0,2463.31801,"Asia",14
+913,"Y",2018-03-22,2018-02-22,4e+08,19,"Switzerland","Business services,Health,Manufacturing,Software",3.8,3.9,3.7,"Ethereum","4",1,1,3,0,0.89,1,1,9671.075162,"Europe",28
+914,"Y",2017-12-01,2017-11-01,6e+07,15,"Russia","Entertainment,Platform",3.6,2.8,3.5,"Ethereum","1",1,1,3,1,0.71,1,1,7915.148028,"Europe",30
+915,"N",2017-12-15,2017-12-01,4e+07,10,"USA","Real estate,Cryptocurrency",2.9,4.6,4.6,"unknown","1",1,0,0,0,1,1,1,14758.18672,"Americas",14
+916,"N",2018-01-31,2018-01-01,4e+07,9,"Thailand","Platform",3,4.2,3.6,"Ethereum","unknown",1,0,0,0,1,1,0,13085.55809,"Asia",30
+917,"Y",2018-05-01,2018-02-19,5.5e+08,17,"Russia","Business services,Big Data,Artificial Intelligence,Internet",3.5,5,4,"Ethereum","1",1,1,3,1,0.41,1,1,8819.13444,"Europe",71
+918,"N",2018-05-05,2018-03-20,27,14,"Netherlands","Charity",2.6,0,0,"Ethereum","4",1,1,0,0,1,1,0,8219.29808,"Europe",46
+919,"Y",2018-01-26,2018-01-19,2.75e+08,15,"British Virgin Islands","Entertainment,Casino & Gambling",3.3,2.9,3,"Ethereum","1",1,1,3,0,0.93,1,1,11462.08777,"Americas",7
+920,"Y",2018-03-14,2018-01-15,5e+07,15,"Seychelles","Business services,Communication,Infrastructure,Legal,Retail",3.4,0,0,"Ethereum","1",1,1,0,1,1,1,0,10185.47074,"Africa",58
+921,"N",2018-01-10,2017-12-10,13300000,2,"Switzerland","Other,Investment",2,0,0,"Ethereum","1",1,0,0,0,1,1,0,15901.52188,"Europe",31
+922,"N",2018-06-10,2018-04-30,9.4e+08,7,"Slovenia","Banking,Business services",2.5,0,0,"Ethereum","1",1,1,0,0,1,1,0,8251.190476,"Europe",41
+923,"Y",2018-05-25,2018-04-25,700,26,"Seychelles","Platform,Entertainment,Business services",1.9,1.8,1.6,"Ethereum","1",1,1,0,1,0,1,1,8802.257088,"Africa",30
+924,"N",2018-05-26,2018-04-09,0,16,"Cayman Islands","Cryptocurrency,Business services,Investment",3.8,4.3,5,"Ethereum","4",1,1,0,1,1,1,0,8551.894979,"Americas",47
+925,"Y",2018-01-24,2018-01-15,3.4e+07,20,"Switzerland","Cryptocurrency",3.3,3.7,3,"Ethereum","2",1,1,2,1,1,1,1,11723.97012,"Europe",9
+926,"Y",2018-02-28,2017-11-20,6.5e+08,11,"China","Banking,Business services",2.5,3,3.1,"Ethereum","1",1,1,0,1,0,0.55,1,12316.13339,"Asia",100
+927,"Y",2017-10-12,2017-09-13,314159265,15,"USA","Platform",2.3,2,2,"unknown","1",1,1,0,1,0.93,1,0,4137.852344,"Americas",29
+928,"N",2018-02-14,2018-02-01,5e+09,12,"United Kingdom","Investment",2.8,0,0,"Ethereum","4",1,1,1,0,1,1,1,8468.409319,"Europe",13
+929,"N",2018-02-28,2017-11-30,0,3,"Belgium","Platform,Cryptocurrency,Business services,Investment,Software",2.1,0,0,"WAVES","2",1,0,0,1,0,1,0,12694.77289,"Europe",90
+930,"N",2018-05-31,2018-04-20,1.6e+07,7,"Poland","Charity",2.5,2.6,2.3,"Ethereum","5",1,0,0,0,0.57,1,0,8625.609282,"Europe",41
+931,"Y",2017-12-20,2017-12-13,4.5e+08,21,"Singapore","Software,Platform,Business services",3.8,4.3,3.4,"Ethereum","1",1,1,2,1,1,1,0,17854.09985,"Asia",7
+932,"N",2018-01-15,2017-12-01,1e+07,16,"Ukraine","Platform,Cryptocurrency,Business services,Investment",2.7,3.3,3.3,"Ethereum","3",1,1,0,1,0.69,1,0,15197.24346,"Europe",45
+933,"Y",2017-12-01,2017-11-16,8.8e+08,16,"USA","Infrastructure,Electronics",2.3,4,4,"unknown","unknown",1,1,3,1,0,1,1,8832.603668,"Americas",15
+934,"N",2018-02-28,2018-02-01,7e+06,4,"British Virgin Islands","Business services,Education,Legal,Tourism",2.5,0,0,"Ethereum","1",1,1,0,0,1,1,0,9472.001151,"Americas",27
+935,"N",2018-01-14,2017-12-14,0,9,"Jersey","Cryptocurrency",2.2,3,2,"Ethereum","3",1,0,0,1,0.11,0.78,1,15567.23434,"Europe",31
+936,"N",2018-03-12,2018-02-12,0,6,"Panama","Casino & Gambling",1.3,1.8,1.6,"unknown","unknown",0,0,0,0,0,1,0,10255.81351,"Americas",28
+937,"Y",2017-04-17,2017-03-19,6666666,1,"Switzerland","Entertainment,Platform,Cryptocurrency",1.2,1,1,"unknown","1",0,1,0,0,0,1,0,1106.466144,"Europe",29
+938,"Y",2018-04-20,2018-02-07,1.44e+08,17,"France","Platform",2.9,4.4,2,"Ethereum","6",1,1,3,0,1,1,1,8833.834125,"Europe",72
+939,"N",2018-02-28,2017-11-27,2e+08,14,"USA","Platform,Business services,Infrastructure,Health",3.2,4.2,4.1,"Ethereum","4",1,1,0,1,1,1,1,12606.27758,"Americas",93
+940,"Y",2017-11-30,2017-11-01,1181031,17,"South Korea","Cryptocurrency,Platform",3.4,4,4,"Ethereum","1",1,1,0,1,0.94,1,1,7813.132975,"Asia",29
+941,"N",2017-12-15,2017-11-20,1172500000,18,"Russia","Software,Smart Contract,Health",3.3,2.9,2.9,"Ethereum","1",1,1,0,1,0.61,1,0,12319.6746,"Europe",25
+942,"Y",2017-09-10,2017-08-10,7e+07,14,"USA","Internet,Platform,Communication",3.1,3.4,3.9,"unknown","unknown",1,1,2,1,0,1,0,4281.695938,"Americas",31
+943,"Y",2017-11-29,2017-11-29,1e+09,19,"USA","Internet",3.2,4,2.7,"unknown","unknown",1,1,0,1,1,1,0,9888.610352,"Americas",0
+944,"Y",2018-02-28,2018-01-15,1e+07,19,"Gibraltar","Platform,Investment,Smart Contract,Software",2.9,0,0,"Ethereum","1",1,1,1,1,0.68,1,0,10216.3852,"Europe",44
+945,"N",2017-09-24,2017-08-25,2.1e+08,10,"Chile","Business services",3.1,3,3.5,"Ethereum","1",1,1,0,0,0.7,1,1,4147.959339,"Americas",30
+946,"Y",2018-01-18,2017-11-18,8e+06,4,"Switzerland","Other",1.9,0,0,"Ethereum","unknown",1,1,0,0,0.75,0,0,13677.29965,"Europe",61
+947,"N",2018-06-11,2018-05-11,1e+08,9,"Singapore","Software",2.7,4,4,"unknown","3",1,1,0,0,0.67,1,0,7810.216248,"Asia",31
+948,"N",2018-03-31,2018-03-14,4.25e+08,5,"Switzerland","Smart Contract",2.4,0,0,"Ethereum","2",1,0,0,0,0.4,1,1,8184.535563,"Europe",17
+949,"N",2017-11-20,2017-09-21,5.6e+08,5,"Russia","Cryptocurrency,Business services,Investment,Banking",2.4,0,0,"Ethereum","1",1,0,0,0,0.2,1,0,5725.421143,"Europe",60
+950,"N",2017-12-24,2017-11-28,2.5e+08,24,"USA","Software,Business services",2.8,0,0,"Ethereum","2",1,1,0,1,0.88,1,0,14887.67444,"Americas",26
+951,"Y",2018-02-16,2017-12-01,122400000,22,"Singapore","Investment,Platform",3,3.6,3.3,"Waves","unknown",1,1,0,1,0.41,1,1,13060.67606,"Asia",77
+952,"N",2018-01-06,2017-11-22,5e+08,11,"Marshall Islands","Business services,Software",1.8,0,0,"Ethereum","2",1,1,0,0,0,0,0,14156.20086,"Oceania",45
+953,"Y",2018-02-18,2017-11-01,8e+08,16,"Russia","Other",3.5,4,4,"unknown","3",1,1,0,1,0,1,0,11589.01111,"Europe",109
+954,"N",2018-01-31,2017-12-28,0,3,"Belize","Banking,Cryptocurrency",1.5,0,0,"CryptoNote","unknown",1,0,0,0,0,1,0,13200.67433,"Americas",34
+955,"N",2018-01-27,2018-01-06,0,3,"UK","Software,Cryptocurrency,Entertainment",1.5,1,1,"Waves","4",1,0,0,1,0.33,1,1,12971.50914,"Europe",21
+956,"Y",2017-12-29,2017-11-29,5e+07,11,"Russia","Business services,Platform",2.8,4,3.5,"Ethereum","5",1,0,0,0,0.36,1,0,15068.90354,"Europe",30
+957,"Y",2018-06-05,2018-04-20,3e+08,14,"Estonia","Artificial Intelligence,Education,Electronics,Infrastructure,Internet,Platform,Software",3.9,3,3.3,"Ethereum","1",1,1,0,0,0.77,1,1,8517.637664,"Europe",46
+958,"N",2018-03-02,2018-02-01,99996000,8,"Switzerland","Investment",2.3,0,0,"Ethereum","unknown",1,1,0,1,0.75,0.75,0,9575.114421,"Europe",29
+959,"N",2018-02-15,2017-11-26,1.5e+09,8,"Singapore","Platform,Cryptocurrency,Business services,Investment",1.6,0,0,"Waves","unknown",1,0,0,1,0,0,0,12900.3505,"Asia",81
+960,"Y",2017-07-25,2017-07-12,1.3e+07,4,"China","Investment,Cryptocurrency",2.5,0,0,"Ethereum","1",1,0,0,1,1,0,0,2435.478568,"Asia",13
+961,"Y",2017-10-25,2017-08-26,4900000,8,"Russia","Communication",2.3,0,0,"Waves","3",1,0,0,0,0,1,0,4571.825564,"Europe",60
+962,"N",2018-04-02,2018-03-03,2.64e+08,11,"Germany","Business services,Retail,Platform",3.3,3.7,3.5,"Ethereum","3",1,1,0,1,1,1,0,8778.964497,"Europe",30
+963,"Y",2018-02-20,2017-12-20,7.5e+07,5,"Romania","Cryptocurrency,Business services,Investment,Communication",2.6,3,2.3,"Ethereum","1",1,1,0,1,1,1,0,12160.70368,"Europe",62
+964,"Y",2018-05-23,2018-03-14,1.25e+08,19,"Slovenia","Communication,Cryptocurrency,Entertainment,Internet,Media,Platform,Smart Contract",2.9,0,0,"Ethereum","1",1,1,0,1,0.79,1,1,8324.079136,"Europe",70
+965,"Y",2017-12-31,2017-09-10,10100000,18,"Estonia","Cryptocurrency,Platform",3.4,4.2,4.2,"Ethereum","4",1,1,0,1,0,0,0,8462.878841,"Europe",112
+966,"Y",2017-10-10,2017-08-22,1.8e+08,34,"Singapore","Investment,Real estate,Platform,Cryptocurrency",4.2,4.4,4,"Ethereum","1",1,1,3,1,0.73,1,0,4210.391201,"Asia",49
+967,"N",2017-10-09,2017-09-09,0,2,"Australia","Business services,Cryptocurrency,Investment",1.8,0,0,"Ethereum","1",0,0,0,1,1,1,0,4055.524839,"Oceania",30
+968,"N",2017-08-29,2017-08-01,150000,6,"Germany","Banking,Cryptocurrency",2.3,0,0,"unknown","unknown",1,0,0,1,0.83,1,0,3829.034483,"Europe",28
+969,"N",2018-04-30,2018-03-01,1.1e+07,10,"Spain","Investment,Cryptocurrency,Casino & Gambling",2.5,0,0,"Waves","4",1,0,0,0,0.3,1,0,8545.330638,"Europe",60
+970,"Y",2018-05-30,2018-03-30,3.03e+08,20,"Belize","Entertainment,Communication,Big Data,Artificial Intelligence,Software",4.2,4.5,3.9,"Ethereum","2",1,1,0,1,1,1,1,8215.46304,"Americas",61
+971,"Y",2018-04-14,2018-01-31,14070000,9,"Pakistan","Banking",2,0,0,"Waves","3",1,0,0,0,0,1,0,8860.270825,"Asia",73
+972,"Y",2018-04-22,2018-04-15,1e+08,9,"UK","Cryptocurrency,Investment,Other",3.2,3.7,4.2,"Ethereum","1",1,1,0,1,1,1,0,8411.433716,"Europe",7
+973,"Y",2018-04-22,2018-03-22,5.2e+07,22,"Seychelles","Artificial Intelligence,Big Data,Cryptocurrency,Infrastructure,Platform,Smart Contract,Software",3.6,3.9,2.6,"Ethereum","1",1,1,3,0,0.79,0.08,0,7720.492798,"Africa",31
+974,"N",2018-02-05,2018-01-05,0,7,"Russia","Business services,Entertainment,Infrastructure,Software,Investment",1.9,0,0,"Ethereum","unknown",1,0,0,0,0,1,0,12144.41502,"Europe",31
+975,"Y",2017-11-29,2017-10-29,1.53e+09,18,"Switzerland","Platform,Cryptocurrency,Business services,Investment,Internet,Software",3.4,3,2,"unknown","1",1,1,0,1,0.83,1,1,7591.036545,"Europe",31
+976,"Y",2017-10-19,2017-09-19,1.05e+09,14,"USA","Communication,Internet",4.2,4.5,3.9,"Ethereum","1",1,1,1,1,0.93,1,0,4579.835158,"Americas",30
+977,"Y",2018-03-07,2018-02-08,6.6e+07,24,"Singapore","Investment,Platform",4,4.8,3.5,"Ethereum","1",1,1,3,0,0.96,1,1,10171.09726,"Asia",27
+978,"Y",2018-05-28,2018-05-14,5e+08,12,"Switzerland","Artificial Intelligence,Big Data,Smart Contract",4.1,4.7,3.7,"Ethereum","1",1,1,0,1,1,1,1,7976.525293,"Europe",14
+979,"Y",2018-03-02,2018-02-09,1.3e+08,16,"UK","Platform,Investment",4.1,4.4,4,"Ethereum","3",1,1,0,0,1,1,0,10054.73014,"Europe",21
+980,"N",2018-05-20,2018-04-20,212062500,6,"Lithuania","Cryptocurrency,Smart Contract",2.6,0,0,"Ethereum","1",1,0,0,0,0.83,1,1,8998.585481,"Europe",30
+981,"N",2017-11-30,2017-10-31,9.5e+07,5,"Ukraine","Cryptocurrency",2.3,0,0,"Waves","4",1,1,0,0,0.8,1,0,7769.754489,"Europe",30
+982,"N",2018-05-17,2018-04-17,5e+08,14,"Germany","Artificial Intelligence,Platform",3.1,4,5,"Ethereum","1",1,1,2,1,0.71,1,1,8977.566769,"Europe",30
+983,"Y",2018-03-31,2018-02-19,1e+08,8,"Italy","Communication,Cryptocurrency,Platform,Smart Contract",2.5,3,3,"Ethereum","1",1,0,0,1,0.88,1,0,9386.604171,"Europe",40
+984,"Y",2018-01-10,2018-01-09,7e+06,12,"USA","Entertainment,Casino & Gambling,Sports",4.1,4,4,"Ethereum","1",1,1,0,1,0.9,1,0,14784.3501,"Americas",1
+985,"Y",2017-10-31,2017-09-10,9.9e+07,11,"Russia","Sports",3.4,3.3,3,"Ethereum","2",1,1,0,1,0.73,1,0,4765.171528,"Europe",51
+986,"Y",2017-10-01,2017-09-01,2.5e+08,5,"Japan","Internet,Platform,Media",3.3,0,0,"Ethereum","1",1,1,3,1,0,1,1,4075.768696,"Asia",30
+987,"N",2018-03-22,2017-12-11,0,20,"USA","Business services,Cryptocurrency,Platform,Health",3.7,4.3,3.1,"Ethereum","4",1,1,0,1,1,1,1,11939.57169,"Americas",101
+988,"N",2018-06-03,2018-01-31,200,19,"Philippines","Platform",2.1,3,2,"Ethereum","1",1,1,0,0,0.89,1,0,8722.486942,"Asia",123
+989,"Y",2017-12-17,2017-12-07,1.5e+08,20,"Switzerland","Platform,Business services",3.6,0,0,"Ethereum","4",1,1,0,0,1,0.85,0,17161.10929,"Europe",10
+990,"Y",2017-09-04,2017-08-28,1e+08,4,"Estonia","Retail",2,0,0,"Ethereum","unknown",0,1,0,0,1,1,0,4565.052491,"Europe",7
+991,"Y",2018-05-31,2018-03-01,4.41e+08,26,"Estonia","Platform,Software,Communication",4.2,4.3,3.8,"Ethereum","1",1,1,3,1,1,1,0,8513.54455,"Europe",91
+992,"N",2018-01-22,2017-12-18,6.3e+07,11,"South Korea","Cryptocurrency,Software",2.3,0,0,"Ethereum","1",1,1,0,0,0,1,0,14451.50827,"Asia",35
+993,"Y",2018-01-03,2017-12-01,343192038,14,"Switzerland","Business services,Infrastructure",3.7,4.4,4.2,"Ethereum","1",1,1,2,1,0.86,1,1,15234.19706,"Europe",33
+994,"Y",2018-05-20,2018-04-20,6e+07,9,"India","Internet,Media,Platform",4.3,4.6,4.2,"Ethereum","1",1,1,0,1,1,1,1,8998.585481,"Asia",30
+995,"N",2017-12-15,2017-10-13,0,8,"Russia","Manufacturing",2,0,0,"Waves","1",1,0,0,0,0,1,0,8859.454987,"Europe",63
+996,"Y",2018-02-15,2018-01-15,7e+08,6,"Seychelles","Cryptocurrency,Platform,Smart Contract,Software",2.9,2.7,2.2,"Ethereum","4",1,1,3,0,0,1,0,10101.41977,"Africa",31
+997,"N",2018-04-30,2018-03-30,11430800,14,"Russia","Communication,Media,Virtual Reality",2.5,0,0,"Waves","unknown",1,1,0,0,0.43,1,1,7964.748398,"Europe",31
+998,"N",2018-02-25,2018-02-09,7.5e+08,7,"Canada","Sports,Cryptocurrency,Tourism",2.5,2,2,"NXT","5",1,0,3,0,0.43,1,1,9863.321318,"Americas",16
+999,"Y",2018-03-16,2018-02-09,4e+07,36,"Ukraine","Media",4.2,4.2,4.1,"Ethereum","11",1,1,2,1,0.97,1,1,9916.980889,"Europe",35
+1000,"Y",2017-06-30,2017-05-31,2e+07,11,"Estonia","Banking",2.5,4,4,"Ethereum","unknown",1,1,0,0,1,1,1,2624.920654,"Europe",30
+1001,"N",2017-11-30,2017-11-08,23302500,12,"Russia","Platform,Business services,Software,Communication",2.5,2.3,1,"Ethereum","2",1,1,0,0,0.67,1,0,8016.779106,"Europe",22
+1002,"Y",2018-04-06,2018-03-05,13800000,8,"British Virgin Islands","Entertainment,Platform",2.6,2,1,"Ethereum","2",1,1,0,1,0.75,1,0,8391.010284,"Americas",32
+1003,"N",2018-05-07,2018-03-07,1.5e+08,1,"Spain","Banking,Investment",1.9,0,0,"Ethereum","1",1,1,0,0,1,1,1,8396.093199,"Europe",61
+1004,"N",2018-05-16,2018-03-15,2.1e+07,2,"USA","Other,Investment,Internet,Entertainment,Education,Cryptocurrency,Communication,Charity,Art,Platform,Smart Contract",2,0,0,"Ethereum","2",1,1,0,0,1,1,1,8343.103175,"Americas",62
+1005,"N",2018-03-13,2018-02-12,0,9,"Estonia","Artificial Intelligence,Big Data,Health",2.3,3,2,"Ethereum","1",1,1,0,0,0,1,0,10220.44805,"Europe",29
+1006,"N",2017-10-29,2017-09-29,2e+08,1,"UK","Casino & Gambling",0.8,1,1,"unknown","unknown",0,1,0,0,0,1,0,5227.905478,"Europe",30
+1007,"Y",2018-03-31,2017-11-06,2.4e+08,13,"UK","Banking,Business services,Cryptocurrency",3.3,3.4,2.8,"Ethereum","2",1,1,0,1,1,1,0,11121.92509,"Europe",145
+1008,"Y",2017-08-24,2017-07-20,1.2e+09,10,"Latvia","Other",2,0,0,"Ethereum","6",1,1,0,0,0,1,0,3380.551948,"Europe",35
+1009,"Y",2018-03-31,2017-12-01,699500000,20,"UK","Platform,Retail,Infrastructure,Real estate",3.7,3.2,3,"Ethereum","1",1,1,0,1,0.7,1,0,11778.90912,"Europe",120
+1010,"N",2017-12-30,2017-12-01,5.1e+09,5,"Russia","Platform",2.3,0,0,"Ethereum","1",1,0,0,1,0,1,0,15332.2,"Europe",29
+1011,"N",2018-05-31,2018-05-01,2e+06,12,"Czech Republic","Cryptocurrency,Energy,Infrastructure,Investment,Smart Contract",2.9,3.4,3.6,"Ethereum","2",1,1,0,0,0.58,1,0,8450.997732,"Europe",30
+1012,"N",2018-05-27,2018-05-01,0,9,"Estonia","Cryptocurrency,Platform",2.2,3,2.5,"Ethereum","3",1,1,0,0,0,1,0,8610.061469,"Europe",26
+1013,"Y",2018-05-18,2018-04-18,2.5e+08,19,"British Virgin Islands","Communication,Cryptocurrency,Entertainment,Investment,Platform,Smart Contract",4,4,4,"Ethereum","1",1,1,0,1,1,1,1,8988.820958,"Americas",30
+1014,"Y",2017-08-20,2017-08-06,1.25e+08,2,"USA","Business services,Cryptocurrency",3.4,0,0,"NEBL","3",1,1,1,1,1,1,1,3866.834668,"Americas",14
+1015,"Y",2018-01-11,2017-11-01,2.84e+08,20,"UK","Platform,Cryptocurrency,Investment,Communication,Internet",3.4,3.6,2.7,"Ethereum","1",1,1,2,0,1,1,1,12187.9804,"Europe",71
+1016,"N",2018-04-29,2018-04-14,1.2e+08,9,"Nigeria","Cryptocurrency,Infrastructure,Investment,Platform",2.6,0,0,"Ethereum","2",1,1,0,1,1,1,1,8736.746887,"Africa",15
+1017,"N",2018-04-07,2018-03-03,2.8e+07,16,"Slovenia","Platform,Cryptocurrency,Business services",3.5,4.1,3.2,"Ethereum","1",1,1,0,1,1,1,0,8522.686917,"Europe",35
+1018,"N",2017-11-25,2017-10-14,0,6,"Singapore","Business services",2.3,1,1,"Ethereum","1",1,0,0,0,1,1,0,6759.423238,"Asia",42
+1019,"N",2018-04-13,2018-03-16,210,3,"United States","Business services,Artificial Intelligence,Media,Software",2.6,0,0,"Ethereum","1",1,0,0,1,1,1,0,7680.357557,"Americas",28
+1020,"Y",2018-05-10,2018-04-04,1.8e+08,20,"United States","Cryptocurrency",2.9,3,3,"Ethereum","3",1,1,0,0,0.83,1,0,8484.140797,"Americas",36
+1021,"N",2018-04-19,2018-03-20,2e+07,11,"UK","Charity",3.7,4.3,3.2,"Ethereum","2",1,1,0,1,0.82,1,1,7688.859659,"Europe",30
+1022,"N",2017-09-09,2017-08-08,1e+09,7,"Singapore","Investment",1.6,3,2,"Waves","unknown",0,1,0,0,1,1,0,4231.931515,"Asia",32
+1023,"Y",2018-02-28,2018-01-23,17200000,15,"UK","Investment,Platform,Cryptocurrency",3.3,3.2,4.2,"Ethereum","1",1,1,0,0,1,1,0,9857.444151,"Europe",36
+1024,"N",2018-03-09,2018-01-19,4500000,4,"United States","Cryptocurrency",1,1,1,"Ethereum","unknown",1,0,0,0,0,0,1,10157.09129,"Americas",49
+1025,"Y",2018-04-01,2017-11-29,33600000,19,"Russia","Business services",4,4.2,4.1,"Ethereum","6",1,1,0,1,1,1,0,11711.4068,"Europe",123
+1026,"Y",2018-06-01,2018-05-01,7.5e+08,14,"UK","Entertainment,Casino & Gambling,Investment,Platform,Software",4,3.9,3.9,"Ethereum","3",1,1,0,1,1,1,1,8422.574371,"Europe",31
+1027,"Y",2018-03-26,2018-01-25,5.2e+07,1,"United Arab Emirates","Investment,Real estate",2.4,0,0,"Ethereum","2",1,1,0,1,1,1,0,9605.534964,"Asia",60
+1028,"Y",2018-05-15,2018-04-17,3.5e+07,23,"Singapore","Big Data,Business services,Cryptocurrency,Internet,Platform,Software",4.3,4.3,4.1,"Ethereum","4",1,1,0,1,1,1,1,9029.01448,"Asia",28
+1029,"N",2017-10-31,2017-09-30,6.5e+07,7,"UK","Cryptocurrency,Media",3.1,2,1,"Ethereum","1",1,0,3,0,0.29,1,1,5328.154053,"Europe",31
+1030,"Y",2018-02-28,2017-10-31,5e+07,14,"Singapore","Platform,Entertainment",3.8,4,3.6,"Ethereum","5",1,1,3,1,1,1,0,11453.33159,"Asia",120
+1031,"N",2018-06-10,2018-04-20,4.5e+09,4,"Turkey","Health,Platform",2.9,0,0,"Ethereum","1",1,0,0,0,0.75,1,0,8415.463661,"Asia",51
+1032,"Y",2018-04-25,2018-01-31,26990000,17,"Belize","Investment",2.8,4,4,"Stellar","2",1,1,0,0,0.12,0.88,0,8828.536834,"Americas",84
+1033,"N",2017-11-13,2017-10-15,3e+07,23,"USA","Cryptocurrency,Platform",2.1,0,0,"unknown","unknown",1,0,0,0,0.78,0.17,0,6328.532308,"Americas",29
+1034,"Y",2017-12-19,2017-12-18,5e+08,9,"Singapore","Platform,Entertainment",3,4,4,"QTUM","3",1,1,0,0,0,0.89,1,18445.44922,"Asia",1
+1035,"N",2017-12-07,2017-11-22,0,15,"Russia","Platform",2.3,1,1,"Ethereum","unknown",1,1,0,0,0.27,1,0,10737.83365,"Europe",15
+1036,"Y",2018-03-19,2018-03-16,1e+10,18,"Singapore","Smart Contract,Artificial Intelligence,Big Data,Banking,Cryptocurrency,Platform",3.5,0,0,"Ethereum","1",1,1,0,1,0,1,1,8277.389893,"Asia",3
+1037,"Y",2015-10-01,2015-08-17,1.1e+07,13,"USA","Platform,Software",4,5,4.6,"Ethereum","2",1,1,2,1,0.54,1,0,231.9636738,"Americas",45
+1038,"Y",2018-04-28,2018-03-28,1.2e+08,14,"Switzerland","Communication,Entertainment,Media",3.4,4,2.9,"Steem","4",1,1,2,0,0.79,1,1,7854.140595,"Europe",31
+1039,"Y",2018-03-13,2018-01-30,7e+06,22,"Estonia","Entertainment,Cryptocurrency,Sports",3.9,4.1,3.9,"Ethereum","3",1,1,3,1,0.95,1,0,9732.071198,"Europe",42
+1040,"Y",2017-12-17,2017-11-17,869474423,23,"Germany","Platform,Investment",3.6,0,0,"Ethereum","1",1,0,2,0,0.82,1,1,12338.23778,"Europe",30
+1041,"N",2017-11-15,2017-10-15,1.2e+08,3,"Russia","Internet",2.3,3,3,"Ethereum","unknown",1,1,0,1,0,1,0,6368.976852,"Europe",31
+1042,"N",2018-06-11,2018-04-02,1.2e+08,9,"Australia","Cryptocurrency",2.3,0,0,"Ethereum","4",1,0,0,0,0,1,0,8146.197733,"Oceania",70
+1043,"Y",2018-05-11,2018-03-01,1.5e+08,10,"England","Real estate,Energy,Cryptocurrency",2.4,0,0,"Ehtereum","2",1,0,0,0,1,1,0,8666.61263,"Europe",71
+1044,"N",2018-04-30,2018-04-01,3e+05,3,"Netherlands","Investment,Real estate",2,0,0,"Ethereum","1",1,1,0,0,0,1,1,8033.596631,"Europe",29
+1045,"N",2018-06-01,2018-04-01,4e+08,10,"USA","Media,Platform,Internet",2.5,0,0,"Ethereum","1",1,1,0,0,0.9,1,1,8234.359336,"Americas",61
+1046,"Y",2018-02-19,2017-11-20,2e+08,14,"Luxembourg","Platform,Entertainment",3.8,4.2,4.2,"Ethereum","2",1,1,0,0,1,1,0,12506.10077,"Europe",91
+1047,"N",2018-01-15,2017-12-15,1e+08,8,"Russia","Communication,Internet,Media",1.7,2.2,2,"Ethereum","unknown",0,0,0,0,0,1,0,15481.47809,"Europe",31
+1048,"Y",2017-12-21,2017-11-21,7e+08,15,"USA","Platform,Retail",3.3,0,0,"Ethereum","1",1,1,3,0,0.67,1,0,13550.5645,"Americas",30
+1049,"N",2018-05-10,2017-09-30,0,9,"Germany","Retail,Other",2.3,4,3,"Ethereum","1",1,1,0,0,0.67,1,1,9710.494491,"Europe",222
+1050,"N",2017-12-20,2017-10-20,2500000,7,"France","Cryptocurrency,Internet,Education",1.8,1,1,"Ethereum","1",1,0,0,1,1,1,0,9989.859981,"Europe",61
+1051,"Y",2018-05-21,2018-03-27,7.5e+07,20,"Estonia","Entertainment,Cryptocurrency,Platform,Tourism",4.1,4.4,3.6,"Ethereum","2",1,1,0,1,1,1,0,8301.886588,"Europe",55
+1052,"N",2018-01-04,2017-12-05,1.5e+08,5,"Singapore","Platform,Business services,Investment,Infrastructure",2.5,0,0,"Ethereum","1",1,0,1,0,0,1,1,15759.07422,"Asia",30
+1053,"N",2018-05-09,2018-04-09,0,8,"Austria","Cryptocurrency,Investment,Platform,Smart Contract",2.4,3,3,"Ethereum","unknown",1,1,0,0,0.88,1,0,8730.097719,"Europe",30
+1054,"N",2018-04-01,2018-03-15,586200000,12,"Belarus","Communication,Infrastructure,Platform,Virtual Reality",2.8,2.4,2.9,"Ethereum","1",1,1,0,0,0.92,0.33,0,8105.336697,"Europe",17
+1055,"N",2018-06-09,2018-04-06,2e+08,16,"Seychelles","Smart Contract,Platform,Cryptocurrency,Artificial Intelligence,Software",4.1,3.2,3.4,"Ethereum","2",1,1,0,1,0.94,1,0,8253.567375,"Africa",64
+1056,"N",2018-04-26,2018-03-29,4,5,"Canada","Entertainment",2.5,0,0,"Ethereum","1",1,0,0,0,1,1,1,7760.08582,"Americas",28
+1057,"Y",2017-09-30,2017-08-15,7e+05,5,"Lithuania","Platform",2.9,4,4,"Waves","unknown",1,1,0,0,0.6,1,0,4153.255953,"Europe",46
+1058,"Y",2018-04-04,2017-12-26,4289400000,20,"Estonia","Platform,Business services,Other",4,4,3.8,"Ethereum","3",1,1,0,1,1,1,0,10676.73183,"Europe",99
+1059,"Y",2017-12-20,2017-11-29,3.2e+08,16,"Poland","Platform,Media,Communication",4.1,4,4.2,"Ethereum","1",1,1,2,1,0.94,1,1,15165.85045,"Europe",21
+1060,"Y",2018-02-21,2018-02-08,3e+08,16,"USA","Big Data,Platform",3.6,4.2,3.7,"Ethereum","1",1,0,2,0,0.94,1,1,9725.582276,"Americas",13
+1061,"N",2017-12-06,2017-11-15,4e+07,3,"UK","Platform,Internet,Retail,Casino & Gambling",2.1,0,0,"Ethereum","unknown",1,1,0,0,0.67,1,0,9495.472678,"Europe",21
+1062,"Y",2017-06-19,2017-06-15,165680000,14,"Russia","Software,Infrastructure,Platform",3.9,5,4,"Ethereum","unknown",1,1,3,1,0.54,1,0,2555.382031,"Europe",4
+1063,"N",2018-04-16,2018-03-20,1.5e+08,9,"Nigeria","Cryptocurrency,Health,Software",2.6,0,0,"Ethereum","1",1,1,0,1,1,1,1,7642.672503,"Africa",27
+1064,"N",2018-06-10,2018-05-10,5.3e+07,14,"Bulgaria","Cryptocurrency,Investment,Manufacturing",3.6,3.5,4,"Waves","7",1,1,0,0,0.43,1,1,7876.998138,"Europe",31
+1065,"Y",2017-11-30,2017-11-01,6.6e+07,8,"Russia","Platform,Business services,Cryptocurrency,Internet",2.1,1,1,"Ethereum","unknown",1,0,0,1,0.38,0.38,0,7813.132975,"Europe",29
+1066,"Y",2017-08-27,2017-07-01,1e+07,1,"South Africa","Banking",2.5,0,0,"NEM","6",1,1,0,0,0.5,0.5,0,3106.591203,"Africa",57
+1067,"N",2017-11-20,2017-10-21,4e+08,7,"UK","Platform",2.6,2.2,1.2,"Ethereum","1",1,1,0,1,1,1,1,6745.008695,"Europe",30
+1068,"N",2018-02-17,2018-01-15,1.5e+08,9,"Brazil","Cryptocurrency,Business services,Platform,Communication",3.1,3.5,4,"Ethereum","1",1,0,0,1,0.78,1,1,10135.0598,"Americas",33
+1069,"N",2017-10-31,2017-10-01,2.5e+09,6,"Canada","Other",2,0,0,"Ethereum","unknown",1,0,0,1,0,1,0,5360.071604,"Americas",30
+1070,"Y",2017-08-09,2017-07-10,247500000,10,"Cayman Islands","Cryptocurrency,Internet",2,1,1,"unknown","unknown",0,0,0,1,1,1,0,2674.645468,"Americas",30
+1071,"N",2017-12-06,2017-11-06,5e+08,16,"Singapore","Business services,Software",2.6,0,0,"Ethereum","1",1,1,0,0,0,1,1,8702.96319,"Asia",30
+1072,"N",2018-06-09,2018-03-12,178,16,"Belize","Banking,Business services,Cryptocurrency,Infrastructure,Investment,Platform,Smart Contract",3.4,3.9,3.6,"Ethereum","1",1,1,0,1,0.6,1,0,8191.699322,"Americas",89
+1073,"N",2018-04-01,2018-03-01,340,13,"Romania","Platform",2.9,3.5,3.5,"Ethereum","2",1,0,0,1,1,1,1,8971.921875,"Europe",31
+1074,"N",2017-10-31,2017-10-01,12700000,7,"Latvia","Other",3.8,3.8,3.8,"Ethereum","1",1,1,0,1,0.88,1,1,5360.071604,"Europe",30
+1075,"Y",2018-04-03,2018-03-03,2.15e+08,12,"USA","Platform,Cryptocurrency,Entertainment,Communication",4.5,4.3,4.4,"Ethereum","2",1,1,2,1,0.92,1,0,8737.62529,"Americas",31
+1076,"Y",2017-08-24,2017-07-24,9e+08,11,"United Arab Emirates","Entertainment,Art",3.8,0,0,"Ethereum","unknown",1,1,0,1,0,1,1,3458.562187,"Asia",31
+1077,"N",2018-04-28,2018-04-18,3e+07,7,"Estonia","Platform",2.2,2,1,"Ethereum","4",1,1,0,0,1,1,0,8917.523615,"Europe",10
+1078,"Y",2018-02-15,2018-01-15,2.5e+07,6,"Latvia","Platform,Entertainment",2.8,2.2,2.9,"Ethereum","2",1,1,3,1,0,0,1,10101.41977,"Europe",31
+1079,"N",2017-12-08,2017-11-08,0,12,"USA","Platform,Cryptocurrency,Entertainment,Media",3,5,5,"Ethereum","3",1,1,0,0,0.67,1,0,9357.865124,"Americas",30
+1080,"Y",2018-05-31,2018-03-16,100,10,"Russia","Entertainment",1.9,3,3,"Ethereum","unknown",1,1,0,1,1,1,0,8230.386998,"Europe",76
+1081,"N",2018-03-31,2018-03-01,8500000,7,"Russia","Business services,Communication",1.8,1.6,2.4,"Ethereum","6",1,0,0,0,0,0,0,9040.557097,"Europe",30
+1082,"Y",2017-10-17,2017-10-13,5e+08,7,"Germany","Business services,Platform",3.9,5,5,"Ethereum","1",1,0,2,1,1,1,1,5697.65791,"Europe",4
+1083,"Y",2018-05-31,2018-05-15,18514065480,17,"Estonia","Entertainment",3.7,4,4,"Ethereum","1",1,1,0,0,0.94,1,0,7841.433479,"Europe",16
+1084,"N",2017-10-29,2017-10-13,0,9,"Slovenia","Business services,Cryptocurrency,Platform,Retail,Internet",2.8,3.5,2.9,"Ethereum","1",1,0,0,0,0.89,1,0,5802.317613,"Europe",16
+1085,"N",2018-03-15,2018-02-10,8,6,"USA","Cryptocurrency,Internet",1.8,0,0,"Ethereum","1",1,1,0,0,0,1,1,9998.117116,"Americas",33
+1086,"N",2018-02-10,2017-12-15,0,16,"Russia","Health,Platform",3.2,3.9,4.1,"Ethereum","1",1,1,0,0,0.5,1,0,13095.12157,"Europe",57
+1087,"Y",2018-02-15,2018-01-07,7e+08,9,"Estonia","Platform,Business services,Cryptocurrency",3.7,3.9,3.3,"Ethereum","1",1,1,0,0,1,1,0,10999.51079,"Europe",39
+1088,"Y",2018-01-17,2017-12-07,14250000,11,"British Virgin Islands","Cryptocurrency",3.3,3.6,2.9,"Separate blockchain","1",1,1,3,0,0.91,1,1,15488.41664,"Americas",41
+1089,"N",2018-03-19,2018-02-19,7.5e+07,9,"Denmark","Platform,Infrastructure,Business services,Artificial Intelligence,Software",2.8,3,3,"Ethereum","1",1,1,0,1,0.89,1,0,9903.771047,"Europe",28
+1090,"Y",2018-03-31,2018-02-05,7,13,"Austria","Banking,Business services,Cryptocurrency",3.3,3.6,3.5,"Ethereum","3",1,1,0,1,1,1,0,9273.092587,"Europe",54
+1091,"N",2018-06-10,2018-04-15,1e+09,15,"Austria","Energy,Infrastructure",3.3,4.3,3.6,"Ethereum","1",1,1,0,0,0.92,1,0,8392.135263,"Europe",56
+1092,"Y",2018-05-25,2018-03-01,1.5e+09,10,"Germany","Business services,Banking,Communication,Cryptocurrency,Electronics,Manufacturing,Platform",2.6,1.7,1.7,"Ethereum","6",1,1,3,1,0.8,1,0,8593.171262,"Europe",85
+1093,"N",2018-06-10,2018-05-25,3.25e+08,6,"Estonia","Cryptocurrency,Infrastructure,Investment",2.3,2,3,"Ethereum","3",1,0,0,0,0.7,1,0,7473.060633,"Europe",16
+1094,"Y",2017-11-17,2017-11-17,252460800,18,"USA","Platform,Business services",2.9,0,0,"Ethereum","1",1,1,0,1,0.63,0.84,0,7708.990234,"Americas",0
+1095,"N",2018-05-31,2017-12-15,8e+07,11,"Singapore","Platform",2.6,2,2,"Ethereum","3",1,1,0,0,0.27,1,0,10265.30316,"Asia",167
+1096,"N",2018-03-31,2018-02-04,6.4e+07,9,"UK","Banking,Business services,Communication,Cryptocurrency,Internet",2.6,0,0,"Ethereum","3",1,1,0,0,0.33,1,0,9255.305394,"Europe",55
+1097,"Y",2018-06-08,2018-05-18,1.21e+08,5,"UK","Banking,Investment,Platform,Smart Contract",2.5,2,1,"Ethereum","1",1,0,0,0,0.6,1,1,7697.334539,"Europe",21
+1098,"Y",2018-04-30,2018-04-01,123,6,"UK","Business services,Cryptocurrency,Investment",3.6,4,4,"Ethereum","1",1,1,0,1,1,1,0,8033.596631,"Europe",29
+1099,"Y",2018-04-04,2018-03-05,47,16,"Belize","Business services,Platform",4,4.3,3.9,"Ethereum","1",1,1,0,1,1,1,0,8498.566107,"Americas",30
+1100,"Y",2018-04-30,2018-03-15,2.4e+08,15,"United Arab Emirates","Real estate",3.2,3,2,"Ethereum","3",1,0,0,0,1,1,0,8086.377223,"Asia",46
+1101,"N",2018-02-12,2017-12-29,5e+07,6,"Croatia","Cryptocurrency,Software,Entertainment",3.2,3.8,3.5,"Ethereum","1",1,1,0,0,1,1,1,11910.47593,"Europe",45
+1102,"Y",2017-12-15,2017-11-27,5e+09,17,"Gibraltar","Platform,Health",3.3,2.6,2.6,"QRC","3",1,1,0,1,0.76,1,1,13756.42948,"Europe",18
+1103,"N",2018-04-30,2018-03-31,400,7,"Russia","Platform",2.4,1,2,"Ethereum","2",1,1,0,0,0.71,1,0,7999.400926,"Europe",30
+1104,"Y",2018-05-25,2018-03-25,5.1e+08,12,"Estonia","Business services,Retail",4.3,4.3,4.9,"Ethereum","1",1,1,0,1,0.92,1,0,8262.546922,"Europe",61
+1105,"N",2018-05-12,2018-03-14,2e+07,15,"Saint Kitts and Nevis","Cryptocurrency,Big Data,Artificial Intelligence,Infrastructure,Investment,Other,Platform,Smart Contract,Software",3.9,4.7,4,"Ethereum","1",1,1,0,1,0.94,1,0,8326.089486,"Americas",59
+1106,"N",2018-05-16,2018-04-01,13650000,11,"USA","Business services,Cryptocurrency,Software,Tourism",3,0,0,"Ethereum","1",1,0,0,0,0.82,1,1,8403.558031,"Americas",45
+1107,"N",2018-04-30,2018-02-18,5e+08,12,"UK","Retail",2.5,0,0,"Ethereum","1",1,1,2,0,0.17,1,0,8839.034302,"Europe",71
+1108,"Y",2018-05-05,2018-03-06,1.151e+09,6,"Singapore","Communication,Cryptocurrency,Internet,Software",3.2,4,3.5,"Ethereum","1",1,1,0,1,1,0.83,0,8398.522445,"Asia",60
+1109,"N",2018-04-12,2018-03-13,0,5,"Russia","Banking,Business services",2.3,0,0,"Ethereum","unknown",1,1,0,1,0,1,0,7761.288023,"Europe",30
+1110,"Y",2018-03-01,2018-02-13,3.75e+08,16,"Singapore","Cryptocurrency,Energy,Platform,Smart Contract",3.3,5,4,"Ethereum","1",1,1,3,0,0.56,1,0,10335.42595,"Asia",16
+1111,"Y",2018-01-14,2017-12-15,5.6e+08,17,"Canada","Platform,Business services,Software",3.4,2.8,2.7,"Ethereum","1",1,1,3,0,1,0.76,1,15535.08061,"Americas",30
+1112,"N",2017-11-24,2017-10-24,6e+07,6,"Russia","Entertainment,Platform",2.3,0,0,"unknown","unknown",1,1,0,0,1,1,0,6991.943741,"Europe",31
+1113,"Y",2017-07-25,2017-07-07,4e+07,7,"Netherlands","Entertainment,Business services,Platform",2.5,0,0,"Ethereum","unknown",1,1,0,1,0.43,1,1,2442.920526,"Europe",18
+1114,"N",2017-12-05,2017-10-25,142857143,4,"Monaco","Investment,Platform",2.3,0,0,"Ethereum","1",1,0,0,1,0.75,1,1,7935.325916,"Europe",41
+1115,"Y",2018-05-09,2018-03-27,2.4e+08,22,"Japan","Platform,Entertainment,Media",3.2,3,3,"Ethereum","3",1,1,3,1,0.95,1,1,8251.606334,"Asia",43
+1116,"Y",2017-12-28,2017-11-28,1e+07,18,"USA","Cryptocurrency,Platform",3.1,3,3,"Ethereum","1",1,1,0,0,0,1,1,14920.6003,"Americas",30
+1117,"N",2018-04-30,2018-04-01,3.5e+08,25,"USA","Cryptocurrency",3,2.7,2.3,"Ethereum","1",1,1,0,1,0.96,0.72,1,8033.596631,"Americas",29
+1118,"Y",2018-03-14,2018-02-28,1.5e+08,51,"Singapore","Media",3.9,4.3,3.8,"Ethereum","unknown",1,1,3,1,0.86,1,0,10106.88932,"Asia",14
+1119,"N",2017-10-27,2017-09-27,0,12,"Russia","Internet,Investment",1.9,0,0,"Waves","unknown",1,1,0,0,0,1,0,5113.984832,"Europe",30
+1120,"Y",2017-05-02,2017-05-02,42300000,8,"UK","Banking,Cryptocurrency",2.3,4,5,"Ethereum","1",1,0,3,0,0,0,1,1452.819946,"Europe",0
+1121,"N",2018-05-20,2018-03-20,30600000,8,"Latvia","Energy",3.5,4,3,"Ethereum","1",1,1,2,0,0.38,1,1,8343.72257,"Europe",61
+1122,"Y",2018-02-23,2018-01-23,2.7e+07,15,"Italy","Business services,Platform",3.2,4,3.6,"Ethereum","unknown",1,0,0,0,0.93,1,1,9804.919769,"Europe",31
+1123,"Y",2018-03-08,2018-02-15,9.8e+07,14,"Russia","Platform,Software",3.6,3.4,3.9,"Ethereum","2",1,1,0,1,0.93,1,1,10609.62646,"Europe",21
+1124,"N",2018-03-20,2018-02-22,2e+08,16,"USA","Health,Platform",3.6,3.7,3.5,"Ethereum","1",1,1,2,1,0.81,1,0,9733.460359,"Americas",26
+1125,"Y",2018-02-28,2018-01-22,5e+07,18,"France","Platform",3.7,4.1,3.3,"Ethereum","3",1,1,0,1,0.95,1,0,9885.706158,"Europe",37
+1126,"N",2017-12-20,2017-11-25,1.5e+07,10,"Slovenia","Cryptocurrency,Banking,Platform",2.5,0,0,"Ethereum","1",1,0,0,0,0.9,1,1,14294.12804,"Europe",25
+1127,"Y",2017-08-29,2017-07-20,3e+06,9,"Estonia","Entertainment",2.8,0,0,"Ethereum","3",1,0,2,0,0,1,1,3506.547077,"Europe",40
+1128,"N",2017-01-16,2016-12-02,5e+07,5,"USA","Cryptocurrency,Platform",2.5,0,0,"unknown","1",1,0,3,0,0,1,0,859.9115865,"Americas",45
+1129,"N",2018-04-30,2018-03-15,2e+08,7,"Singapore","Platform",1.7,1,2,"Ethereum","2",1,0,0,1,0,0,0,8086.377223,"Asia",46
+1130,"Y",2018-03-15,2018-02-01,212500000,16,"Estonia","Software,Entertainment",2.9,3.5,2.8,"Ethereum","2",1,0,0,1,0.75,1,0,9644.705396,"Europe",42
+1131,"N",2018-05-31,2018-05-01,5e+08,5,"USA","Artificial Intelligence,Big Data,Health,Infrastructure,Platform,Smart Contract,Software",3.3,0,0,"Ethereum","2",1,1,0,1,1,1,1,8450.997732,"Americas",30
+1132,"Y",2018-05-25,2018-03-27,1520000,28,"Thailand","Artificial Intelligence",3.3,0,0,"Ethereum","4",1,1,0,0,0.57,1,1,8259.545475,"Asia",59
+1133,"Y",2018-02-28,2018-01-23,8.85e+08,39,"Singapore","Platform,Internet,Cryptocurrency,Virtual Reality",4.1,4.3,3.9,"Ethereum","3",1,1,3,1,0.38,1,1,9857.444151,"Asia",36
+1134,"Y",2018-02-07,2017-12-23,1600000,5,"Russia","Manufacturing,Business services",2.3,2.1,1.7,"Ethereum","1",1,1,0,0,0,1,0,12646.75065,"Europe",46
+1135,"N",2018-06-08,2018-02-23,1.2e+09,6,"USA","Energy",2.3,0,0,"Ethereum","1",1,0,0,0,0,1,0,8542.695469,"Americas",105
+1136,"Y",2018-02-15,2017-11-15,1.5e+08,37,"Switzerland","Platform,Media",3.7,4.5,3.5,"Ripemd160","3",1,1,3,0,0.89,1,0,12324.30571,"Europe",92
+1137,"Y",2018-05-10,2018-03-01,7e+07,13,"Singapore","Retail,Smart Contract",3.1,0,0,"Ethereum","1",1,1,0,0,1,0.62,1,8669.783368,"Asia",70
+1138,"Y",2018-02-09,2018-01-10,3.8e+08,14,"Cayman Islands","Platform,Cryptocurrency,Business services,Retail,Health",3.4,3.7,3.1,"Ethereum","2",1,1,0,1,0.79,1,0,10961.27585,"Americas",30
+1139,"Y",2018-03-14,2018-02-21,1308800000,23,"Malta","Platform,Cryptocurrency,Entertainment,Communication,Media",4.4,4.6,4,"Ethereum","6",1,1,0,0,0.77,1,1,10144.0882,"Europe",21
+1140,"Y",2018-05-16,2018-03-13,22,20,"Estonia","Retail,Real estate,Platform,Internet,Cryptocurrency,Tourism",3.7,3.9,3.4,"Ethereum","3",1,1,0,1,0.95,1,1,8355.079372,"Europe",64
+1141,"Y",2018-01-28,2017-11-01,1e+10,14,"USA","Platform,Retail",3.2,3.6,3.1,"unknown","3",1,0,2,1,0.86,1,1,12163.42574,"Americas",88
+1142,"Y",2018-01-31,2017-12-15,6900000,6,"UK","Cryptocurrency",3,4,4,"unknown","1",1,1,0,1,0.83,1,1,14085.60002,"Europe",47
+1143,"Y",2018-06-08,2018-05-08,3e+09,14,"Singapore","Entertainment,Platform",4.3,4.5,4.1,"Ethereum","1",1,1,0,1,0,1,1,8009.560638,"Asia",31
+1144,"N",2017-11-08,2017-10-08,33700000,11,"USA","Banking,Business services,Platform",3.5,1.9,2.3,"Ethereum","1",1,0,2,1,0.36,1,0,6035.749039,"Americas",31
+1145,"Y",2018-04-30,2018-03-30,3e+08,13,"Singapore","Internet,Platform",3.8,3.4,2.8,"Ethereum","1",1,1,0,0,0.92,1,0,7964.748398,"Asia",31
+1146,"Y",2017-11-15,2017-10-15,3.3e+07,22,"Russia","Investment,Cryptocurrency,Business services,Banking,Platform",4,4,3.6,"Ethereum","2",1,1,2,1,0.91,1,1,6368.976852,"Europe",31
+1147,"N",2017-11-23,2017-10-23,1e+08,15,"USA","Platform",2.4,0,0,"Ethereum","1",1,0,0,0,0.4,0,0,6919.338409,"Americas",31
+1148,"N",2018-04-25,2017-12-14,0,4,"Czech Republic","Platform,Media,Entertainment,Virtual Reality",2.9,2,2,"Ethereum","1",1,1,0,1,0,1,1,10773.51377,"Europe",132
+1149,"N",2018-02-15,2017-12-27,9.36e+08,8,"Czech Republic","Casino & Gambling",1.9,1.6,1,"Ethereum","1",1,0,0,1,0,1,0,11893.84769,"Europe",50
+1150,"Y",2018-04-05,2018-03-06,5e+08,17,"Poland","Cryptocurrency,Business services,Infrastructure,Internet",3.5,4,3.1,"Ethereum","3",1,1,0,1,1,1,0,8344.958701,"Europe",30
+1151,"N",2017-12-18,2017-12-08,4e+07,15,"UK","Software,Cryptocurrency",3.4,5,4.8,"Ethereum","1",1,1,0,0,0.8,0.93,1,17271.51838,"Europe",10
+1152,"N",2018-02-25,2018-01-25,6e+06,10,"Estonia","Platform",2.6,0,0,"unknown","1",1,1,0,1,0.9,1,0,9718.982269,"Europe",31
+1153,"Y",2018-02-20,2018-01-20,4e+08,5,"Latvia","Platform",2,0,0,"Ethereum","1",1,0,0,0,0,1,1,9943.488526,"Europe",31
+1154,"N",2017-08-25,2017-07-10,0,3,"USA","Cryptocurrency",1.2,1.4,1.7,"Ethereum","1",0,0,0,0,0,1,0,3160.027661,"Americas",46
+1155,"N",2018-02-13,2018-01-30,0,9,"Belarus","Health",2.5,3,2,"Ethereum","unknown",1,0,0,1,0,1,0,8626.033333,"Europe",14
+1156,"Y",2018-01-29,2018-01-29,1e+08,16,"UK","Business services,Platform",3.3,3.1,3.2,"Ethereum","unknown",1,1,2,1,1,0,0,11296.40039,"Europe",0
+1157,"N",2017-11-07,2017-10-10,7e+06,10,"Russia","Cryptocurrency,Platform",2.8,2.1,2.3,"Ethereum","1",1,0,0,1,0.4,1,1,6079.3717,"Europe",28
+1158,"Y",2017-09-29,2017-08-29,5e+07,11,"UK","Entertainment",2.4,0,0,"unknown","unknown",1,1,3,0,0,1,1,4107.940292,"Europe",31
+1159,"Y",2017-07-05,2017-07-04,4.5e+07,12,"Switzerland","Banking,Cryptocurrency",3.3,0,0,"Ethereum","unknown",1,1,2,1,0.75,1,0,2601.814942,"Europe",1
+1160,"N",2018-06-08,2018-05-09,1.5e+07,19,"Switzerland","Cryptocurrency,Communication,Casino & Gambling,Art,Education,Entertainment,Health,Infrastructure,Internet,Manufacturing,Media,Real estate,Retail,Software,Sports,Tourism,Virtual Reality",4.4,4.3,4.4,"Ethereum","1",1,1,1,1,1,1,1,7970.036133,"Europe",30
+1161,"N",2018-01-15,2017-12-14,2.2e+08,14,"USA","Business services,Platform,Media",3.8,3.6,3.6,"Ethereum","unknown",1,0,0,0,0.29,1,0,15514.28178,"Americas",32
+1162,"N",2018-04-21,2018-03-31,0,1,"USA","Entertainment",2.5,0,0,"Ethereum","1",1,0,0,1,1,1,1,7519.462669,"Americas",21
+1163,"N",2018-04-10,2018-02-15,2e+09,2,"USA","Real estate,Investment,Cryptocurrency,Tourism",1.8,1.6,1,"Ethereum","2",1,0,0,1,1,0,0,9020.753471,"Americas",54
+1164,"Y",2017-11-16,2017-11-01,5.1e+08,26,"USA","Platform,Media",4.1,4.7,3.3,"Ethereum","2",1,1,0,0,0.96,1,0,6994.976257,"Americas",15
+1165,"N",2017-08-02,2017-06-28,5e+05,4,"Ukraine","Cryptocurrency",2.1,0,0,"Waves","4",1,1,0,0,0,1,0,2531.273614,"Europe",35
+1166,"Y",2017-10-09,2017-09-12,3.5e+08,43,"France","Platform,Cryptocurrency,Business services",3.9,3.5,3.7,"Ethereum","1",1,1,2,1,0.95,1,1,4043.25,"Europe",27
+1167,"N",2017-12-15,2017-09-15,0,7,"Poland","Internet,Platform",2.1,0,0,"Ethereum","unknown",1,1,0,1,1,1,0,7435.903798,"Europe",91
+1168,"Y",2017-07-28,2017-07-27,3.5e+08,9,"USA","Platform,Internet",3.4,0,0,"Ethereum","unknown",1,1,2,1,0.33,1,1,2740.39502,"Americas",1
+1169,"N",2017-12-31,2017-10-11,5e+08,4,"Russia","Platform,Cryptocurrency,Business services,Internet",1.4,1.1,1,"Ethereum","1",1,0,0,0,0,1,1,10122.29401,"Europe",81
+1170,"N",2018-01-31,2018-01-07,5e+07,15,"UK","Platform,Retail",2.7,4,3,"Ethereum","1",1,0,2,0,0.93,1,1,12450.25203,"Europe",24
+1171,"Y",2017-11-14,2017-09-27,5.4e+07,17,"Finland","Retail,Platform",3.8,4,3.6,"Ethereum","1",1,1,0,1,0.76,1,0,5709.628358,"Europe",48
+1172,"N",2017-11-25,2017-10-25,137500000,5,"India","Media,Platform,Art",2,0,0,"Ethereum","1",1,0,0,0,0,1,0,7093.952484,"Asia",31
+1173,"N",2018-05-21,2018-04-16,1.3e+10,8,"Germany","Entertainment",3,2.5,3,"Ethereum","3",1,1,1,0,0.88,1,0,8883.156372,"Europe",35
+1174,"N",2018-05-22,2018-02-22,2.5e+08,10,"USA","Business services,Communication,Cryptocurrency,Internet,Platform,Retail,Software",2.9,0,0,"Ethereum","1",1,1,0,1,0.8,1,1,8751.79477,"Americas",89
+1175,"N",2018-05-05,2018-03-20,2.5e+07,17,"Australia","Cryptocurrency",2,0,0,"POS","6",1,1,0,0,0,0,1,8219.29808,"Oceania",46
+1176,"N",2018-02-22,2017-12-22,10500000,8,"UK","Platform,Cryptocurrency,Software",2.7,3,3.5,"Ethereum","1",1,1,0,0,0,1,0,11974.47988,"Europe",62
+1177,"N",2018-05-25,2018-02-25,3e+08,14,"Marshall Islands","Real estate",2.7,2.6,1.7,"Ethereum","1",1,1,0,1,0.93,1,0,8668.529547,"Oceania",89
+1178,"N",2017-12-23,2017-12-16,1.7e+07,9,"Germany","Platform,Cryptocurrency,Business services,Software,Communication,Infrastructure",2.3,2.3,1.4,"Ethereum","1",1,1,0,1,0.11,1,0,17060.94995,"Europe",7
+1179,"N",2018-04-06,2018-03-06,6.5e+08,10,"Estonia","Artificial Intelligence,Cryptocurrency,Infrastructure,Platform,Software",2.9,0,0,"Ethereum","4",1,1,0,1,0.3,1,0,8291.563736,"Europe",31
+1180,"N",2018-02-28,2018-02-01,0,7,"Singapore","Cryptocurrency,Investment,Platform",2.1,0,0,"unknown","unknown",1,0,0,0,0,1,0,9472.001151,"Asia",27
+1181,"N",2017-11-15,2017-10-15,0,12,"Japan","Real estate,Investment",2.5,0,0,"Ethereum","1",1,1,0,1,0.33,1,0,6368.976852,"Asia",31
